@@ -1,0 +1,9 @@
+{
+  "version": "3.0.7",
+  "publishedAt": "2026-08-24",
+  "announcement": "3.0.7 已发布：更新连接失败时会自动切换备用源，并显示具体失败原因。",
+  "changelog": "3.0.7\n• 强制使用 TLS 1.2 检查和下载更新\n• GitHub 连接失败时自动切换 jsDelivr 备用源\n• 联网失败时显示 DNS、超时、连接或 TLS 等具体原因\n• 更新包下载失败时自动尝试备用地址\n\n3.0.6\n• 复制手机号按钮改为蓝色\n\n3.0.5\n• 支持六列资料格式、单字姓名和年龄识别",
+  "downloadUrl": "https://cdn.jsdelivr.net/gh/a663949987-alt/customer-information-assistant-updates@main/customer-information-assistant-windows.zip",
+  "backupDownloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/latest/download/customer-information-assistant-windows.zip",
+  "sha256": "46AAAFF542A29E1CB823D9F7B7A94AF4335B5803D1FB3B4CC00A3CF547BEAB2F"
+}
