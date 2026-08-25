@@ -1,9 +1,9 @@
 {
-  "version": "3.1.0",
-  "publishedAt": "2026-08-24",
-  "announcement": "3.1.0 大版本已发布：新增完整深色皮肤、无边框导航和主题记忆。",
-  "changelog": "3.1.0\n• 新增完整深色皮肤与一键明暗切换\n• 主题选择自动记忆，窗口标题栏同步明暗\n• 主页面、卡片、按钮、输入框、下拉框、进度控件、表格和弹窗逐项适配\n• 原生页签改为无边框软件导航，移除突兀白边\n• 下拉箭头和数字调节器改为自绘主题控件\n• 主题按钮文案改为切换深色 / 切换浅色\n\n3.0.7\n• 更新失败自动切换备用源并显示具体原因",
+  "version": "3.2.0",
+  "publishedAt": "2026-08-25",
+  "announcement": "3.2.0 毛玻璃拟态大版本已发布：浅色与深色两套皮肤已完整适配，同时修复单位地区联网查询并完善导出信息。",
+  "changelog": "3.2.0\n• 新增浅色与深色两套毛玻璃拟态皮肤\n• 窗口氛围渐变、玻璃卡片、柔光边缘和阴影统一适配\n• 按钮、输入框、下拉框、进度条、表格和弹窗逐项适配\n• 修复透明页面白底、卡片灰块及按钮黑角/白角\n• 导出信息在客户手机号后新增号码归属地与运营商\n• 单位地区查询改用结构化联网结果，增加行政区降级检索并保存结果\n• 联网找不到单位时明确注明号码归属地，不冒充单位所在地\n\n3.1.2\n• 上次打招呼时间、客户姓名和暂停状态跨重启记忆",
   "downloadUrl": "https://cdn.jsdelivr.net/gh/a663949987-alt/customer-information-assistant-updates@main/customer-information-assistant-windows.zip",
   "backupDownloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/latest/download/customer-information-assistant-windows.zip",
-  "sha256": "8D975BA891AD4DA76C30F8E00C030E401B479A13E8E167494B4DBF7DE7A23F0E"
+  "sha256": "8EB46C12EE721582DE733F5CEA9235A5384C8B9EE868C606AC36ACAF9DD29BB4"
 }
