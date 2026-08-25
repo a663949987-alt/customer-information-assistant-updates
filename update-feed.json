@@ -1,9 +1,9 @@
 {
-  "version": "3.2.1",
+  "version": "3.2.2",
   "publishedAt": "2026-08-25",
-  "announcement": "3.2.1 小更新已发布：导出手机号与号码信息改为同一行，单位地区查询改用国内可访问来源。",
-  "changelog": "3.2.1\n• 客户手机号、号码归属地和运营商合并到同一行导出\n• 单位地区查询改用国内可访问的查询源，适配豌豆全局代理环境\n• 不再请求境外地图服务；未找到可靠结果时明确提示且不猜测\n\n3.2.0\n• 新增浅色与深色两套毛玻璃拟态皮肤\n• 窗口氛围渐变、玻璃卡片、柔光边缘和阴影统一适配\n• 按钮、输入框、下拉框、进度条、表格和弹窗逐项适配",
-  "downloadUrl": "https://cdn.jsdelivr.net/gh/a663949987-alt/customer-information-assistant-updates@v3.2.1/customer-information-assistant-windows.zip",
-  "backupDownloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v3.2.1/customer-information-assistant-windows.zip",
-  "sha256": "5C4B3DF74371A09D1FF279AA50F1CA1AF522E1CEC8973220E471C87ED6C32646"
+  "announcement": "3.2.2 更新修复版已发布：彻底修复缓存旧包造成的校验失败，并增加自动备用源重试。",
+  "changelog": "3.2.2\n• 更新检查强制绕过缓存，避免读取旧清单\n• 主下载源校验失败时自动删除旧包并切换备用源\n• 校验失败显示实际与预期哈希，便于准确定位\n• 所有安装包地址固定到对应版本，不再使用可变 main 地址\n\n3.2.1\n• 客户手机号、号码归属地和运营商合并到同一行导出\n• 单位地区查询改用国内可访问的查询源，适配豌豆全局代理环境\n• 不再请求境外地图服务；未找到可靠结果时明确提示且不猜测",
+  "downloadUrl": "https://cdn.jsdelivr.net/gh/a663949987-alt/customer-information-assistant-updates@v3.2.2/customer-information-assistant-windows.zip",
+  "backupDownloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v3.2.2/customer-information-assistant-windows.zip",
+  "sha256": "B653D013098F1126209CDEF07582979CAA85643C484179AE39CF1E51AE1452E2"
 }
