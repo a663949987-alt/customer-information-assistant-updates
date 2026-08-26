@@ -1,9 +1,9 @@
 {
-  "version": "3.3.1",
+  "version": "3.3.2",
   "publishedAt": "2026-08-26",
-  "announcement": "3.3.1 话术管理更新已发布：常见问题支持排序与完整编辑，打招呼和常见问题可整套导出、导入分享。",
-  "changelog": "3.3.1\n• 常见问题支持原始顺序、问题名称、回复数量排序\n• 新增个人管理入口，问题与回复均可添加、修改、删除和上下排序\n• 支持批量添加及批量删除\n• 回复中的 XX 或 XXX 自动替换为当前客户姓名\n• 新增话术缓存导出与导入，同时包含打招呼和常见问题\n• 导入时可选择覆盖或合并，合并会自动去重\n\n3.3.0\n• 新增常见问题与回复独立页面\n• 支持问题搜索、回复预览和一键复制",
-  "downloadUrl": "https://cdn.jsdelivr.net/gh/a663949987-alt/customer-information-assistant-updates@v3.3.1/customer-information-assistant-windows.zip",
-  "backupDownloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v3.3.1/customer-information-assistant-windows.zip",
-  "sha256": "527028F69F7A7F4FE1F4A957CF8ED4250DB15602FFF6D635BEB00C912045CD8E"
+  "announcement": "3.3.2 已发布：新增整套话术缓存导出导入，并修复检查更新跳错页面。",
+  "changelog": "3.3.2\n• 修复点击检查更新错误跳转到常见问题页面\n• 补齐常见问题页面的窗口缩放适配\n• 更新源改为 jsDelivr 优先、GitHub 自动备用\n• 常见问题支持排序，以及问题和回复的增删改、批量操作与上下移动\n• FAQ 回复中的 XX 或 XXX 自动替换为当前客户姓名\n• 打招呼与常见问题支持整套缓存导出、导入；可覆盖或合并去重\n\n3.3.0\n• 新增常见问题与回复独立页面\n• 支持问题搜索、回复预览和一键复制",
+  "downloadUrl": "https://cdn.jsdelivr.net/gh/a663949987-alt/customer-information-assistant-updates@v3.3.2/customer-information-assistant-windows.zip",
+  "backupDownloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v3.3.2/customer-information-assistant-windows.zip",
+  "sha256": "65B380966674599792556467C4E679F9E5BF156AC702E3FB5EF2A22DE1B4DE9D"
 }
