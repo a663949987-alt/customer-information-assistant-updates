@@ -1,9 +1,9 @@
 {
-  "version": "3.3.2",
+  "version": "3.3.3",
   "publishedAt": "2026-08-26",
-  "announcement": "3.3.2 已发布：新增整套话术缓存导出导入，并修复检查更新跳错页面。",
-  "changelog": "3.3.2\n• 修复点击检查更新错误跳转到常见问题页面\n• 补齐常见问题页面的窗口缩放适配\n• 更新源改为 jsDelivr 优先、GitHub 自动备用\n• 常见问题支持排序，以及问题和回复的增删改、批量操作与上下移动\n• FAQ 回复中的 XX 或 XXX 自动替换为当前客户姓名\n• 打招呼与常见问题支持整套缓存导出、导入；可覆盖或合并去重\n\n3.3.0\n• 新增常见问题与回复独立页面\n• 支持问题搜索、回复预览和一键复制",
-  "downloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v3.3.2/customer-information-assistant-windows.zip",
+  "announcement": "3.3.3 已发布：名单支持 Excel 表格导入，常见问题新增分类筛选与分类管理。",
+  "changelog": "3.3.3\n• 打开名单新增 XLSX、XLSM、XLS、CSV 格式\n• 自动识别中文或英文表头、乱序列、标题空行和日期单元格\n• 支持姓名、手机号、年龄或出生日期、单位、科室、身份证、地区等常见列名\n• 常见问题工作台原排序位置改为分类筛选\n• 管理问答支持新增和删除分类，问题顺序只在管理窗口调整\n• 话术缓存同步保存和恢复常见问题分类\n\n3.3.2\n• 修复检查更新页面跳转并增强主备用更新源",
+  "downloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v3.3.3/customer-information-assistant-windows.zip",
   "backupDownloadUrl": "https://cdn.jsdelivr.net/gh/a663949987-alt/customer-information-assistant-updates@main/customer-information-assistant-windows.zip",
-  "sha256": "B44B25C6DBD9817782ED253CF75B218FAC7B92EB7F7164A904BF78EBB26DCFF0"
+  "sha256": "BFD838300A3FCB94790FD9BB7725CD23A85A8EAF5625B4B3716380D852689777"
 }
