@@ -1,9 +1,9 @@
 {
-  "version": "3.4.0",
+  "version": "3.4.1",
   "publishedAt": "2026-08-27",
-  "announcement": "3.4.0 已发布：留言板升级为社区帖子，加入互动回复、点赞、踩、积分和五级徽章。",
-  "changelog": "3.4.0\n• 留言板升级为社区帖子，支持帖子列表、详情和互动回复\n• 支持点赞、踩和重复点击取消评分，自己不能给自己评分\n• 展示头像、用户名、注册时间、发帖数和实时积分\n• 新增五级高质感积分徽章：银蓝、翡翠、星曜、鎏金、钻石\n• 公开帖子所有登录用户可见，指定帖子仅双方可见\n• 启动时恢复上次关闭大小，首次启动使用紧凑窗口\n• 切换页面立即适配，只重排当前页面并使用短时缓存减少卡顿\n\n3.3.5\n• 100款头像全部升级为统一的彩色3D表情风格\n• 账号连接优先直连，失败后自动尝试 Windows 系统代理\n• 强制使用 TLS 1.2，并细分显示联网失败原因",
-  "downloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v3.4.0/customer-information-assistant-windows.zip",
+  "announcement": "3.4.1 已发布：新增服务器强制版本校验，并增强豌豆代理环境下的连接重试。",
+  "changelog": "3.4.1\n• 启动时向服务器校验版本，非最新版本无法进入工作台\n• 服务器可单独停用指定版本，并引导用户自动升级\n• 版本验证失败自动短重试，明确区分网络故障与版本停用\n• 账号与社区请求继续采用直连优先、系统线路备用\n\n3.4.0\n• 留言板升级为社区帖子，支持帖子列表、详情和互动回复\n• 支持点赞、踩和重复点击取消评分，自己不能给自己评分\n• 展示头像、用户名、注册时间、发帖数和实时积分\n• 新增五级高质感积分徽章：银蓝、翡翠、星曜、鎏金、钻石\n• 公开帖子所有登录用户可见，指定帖子仅双方可见\n• 启动时恢复上次关闭大小，首次启动使用紧凑窗口\n• 切换页面立即适配，只重排当前页面并使用短时缓存减少卡顿",
+  "downloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v3.4.1/customer-information-assistant-windows.zip",
   "backupDownloadUrl": "https://cdn.jsdelivr.net/gh/a663949987-alt/customer-information-assistant-updates@main/customer-information-assistant-windows.zip",
-  "sha256": "527A5DBD6E66588E1B404E097CA138C0385C0B3AB8F8355A7148A5C0433796BD"
+  "sha256": "94C27BAF303AB8DF1CC7455D15164E43E9D000C58133B27F752DB41B78A5D00E"
 }
