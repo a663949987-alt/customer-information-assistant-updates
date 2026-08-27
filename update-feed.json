@@ -1,9 +1,9 @@
 {
-  "version": "3.5.0",
+  "version": "3.6.0",
   "publishedAt": "2026-08-27",
-  "announcement": "3.5.0 已发布：不同客户名单独立记忆进度，并新增本地优先的样本统计。",
-  "changelog": "3.5.0\n• 每份导入名单独立保存当前位置和已处理进度，重新打开自动恢复\n• 即使两份名单内容相同，只要文件路径不同也不会串进度\n• 新增样本统计：复制招呼记录样本、复制单位记为回复、再复制导出信息记为成功引流\n• 汇总高回复话术与客户省份，样本先加密保存在本机，登录时自动补传\n• 服务器仅接收匿名话术统计，不接收客户姓名、手机号、身份证和单位全称\n\n3.4.1\n• 新增服务器强制版本校验，非最新或被停用版本无法进入工作台\n• 版本校验失败自动短重试，并明确区分网络故障与版本停用\n• 兼容豌豆代理：账号与社区请求采用直连优先、系统线路备用",
-  "downloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v3.5.0/customer-information-assistant-windows.zip",
+  "announcement": "3.6.0 已发布：全新浅深色界面、社区求助采纳与管理员精华体系正式上线。",
+  "changelog": "3.6.0\n• 按浅色与深色两套毛玻璃设计稿统一重做界面层级、卡片、按钮与响应式布局\n• 社区改为左侧帖子详情、右侧高密度帖子列表，列表仅显示头像和主题\n• 每人每天可发布 3 个求助帖和 1 个主题帖\n• 求助者可采纳答案，回答者按正态分布随机获得 20–100 积分\n• 管理员可设置精华；精华案例求助者 +20、帮助者 +50，精华主题作者 +100\n• 精华帖置顶、热帖紧随，其余按最新回复或发布时间排序\n• admin 账号加入管理员群组并显示专属标识\n• 打招呼计时新增上一次计时时长，关闭软件后仍会记住\n\n3.5.0\n• 每份导入名单独立保存当前位置和已处理进度，重新打开自动恢复\n• 新增本地优先样本统计，登录时自动补传匿名汇总",
+  "downloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v3.6.0/customer-information-assistant-windows.zip",
   "backupDownloadUrl": "https://cdn.jsdelivr.net/gh/a663949987-alt/customer-information-assistant-updates@main/customer-information-assistant-windows.zip",
-  "sha256": "62459F03C1B5B0E8FFFF008262D88E4DDD47F228129456EA07233ECC224001CC"
+  "sha256": "2560E006D901B5E40E7AB48BEA67FF7C631402B78EEB1455AF7E209256E2E3E5"
 }
