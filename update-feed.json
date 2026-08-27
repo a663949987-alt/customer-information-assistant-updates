@@ -1,9 +1,9 @@
 {
-  "version": "3.3.5",
+  "version": "3.4.0",
   "publishedAt": "2026-08-27",
-  "announcement": "3.3.5 已发布：100款头像升级为统一的彩色3D表情，并增强账号服务器连接兼容性。",
-  "changelog": "3.3.5\n• 100款头像全部升级为统一的彩色3D表情风格\n• 头像资源本地内置，云端仍只保存头像编号\n• 账号连接优先直连，失败后自动尝试 Windows 系统代理\n• 强制使用 TLS 1.2，兼容旧版 Windows 网络组件\n• 联网失败时分别显示超时、DNS、证书或代理原因\n\n3.3.4\n• 软件启动后必须先登录，未登录不能进入客户工作台\n• 注册必须验证6位注册码，字母不区分大小写\n• 新增用户名账号、30天会话记忆和退出登录\n• 新增记住账号密码与自动登录选项\n• 登录与注册输入框缩短并居中\n\n3.3.3\n• 打开名单新增 XLSX、XLSM、XLS、CSV 格式\n• 常见问题新增分类筛选与分类管理",
-  "downloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v3.3.5/customer-information-assistant-windows.zip",
+  "announcement": "3.4.0 已发布：留言板升级为社区帖子，加入互动回复、点赞、踩、积分和五级徽章。",
+  "changelog": "3.4.0\n• 留言板升级为社区帖子，支持帖子列表、详情和互动回复\n• 支持点赞、踩和重复点击取消评分，自己不能给自己评分\n• 展示头像、用户名、注册时间、发帖数和实时积分\n• 新增五级高质感积分徽章：银蓝、翡翠、星曜、鎏金、钻石\n• 公开帖子所有登录用户可见，指定帖子仅双方可见\n• 启动时恢复上次关闭大小，首次启动使用紧凑窗口\n• 切换页面立即适配，只重排当前页面并使用短时缓存减少卡顿\n\n3.3.5\n• 100款头像全部升级为统一的彩色3D表情风格\n• 账号连接优先直连，失败后自动尝试 Windows 系统代理\n• 强制使用 TLS 1.2，并细分显示联网失败原因",
+  "downloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v3.4.0/customer-information-assistant-windows.zip",
   "backupDownloadUrl": "https://cdn.jsdelivr.net/gh/a663949987-alt/customer-information-assistant-updates@main/customer-information-assistant-windows.zip",
-  "sha256": "12B9558B3516D208992604F67F4BE727C3AA01572F90E010157B6D217A57AD5B"
+  "sha256": "527A5DBD6E66588E1B404E097CA138C0385C0B3AB8F8355A7148A5C0433796BD"
 }
