@@ -1,9 +1,9 @@
 {
-  "version": "3.3.3",
-  "publishedAt": "2026-08-26",
-  "announcement": "3.3.3 已发布：名单支持 Excel 表格导入，常见问题新增分类筛选与分类管理。",
-  "changelog": "3.3.3\n• 打开名单新增 XLSX、XLSM、XLS、CSV 格式\n• 自动识别中文或英文表头、乱序列、标题空行和日期单元格\n• 支持姓名、手机号、年龄或出生日期、单位、科室、身份证、地区等常见列名\n• 常见问题工作台原排序位置改为分类筛选\n• 管理问答支持新增和删除分类，问题顺序只在管理窗口调整\n• 话术缓存同步保存和恢复常见问题分类\n\n3.3.2\n• 修复检查更新页面跳转并增强主备用更新源",
-  "downloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v3.3.3/customer-information-assistant-windows.zip",
+  "version": "3.3.4",
+  "publishedAt": "2026-08-27",
+  "announcement": "3.3.4 已发布：新增强制登录与注册码注册、用户名账号和100款本地内置头像。",
+  "changelog": "3.3.4\n• 软件启动后必须先登录，未登录不能进入客户工作台\n• 注册必须验证6位注册码，字母不区分大小写\n• 新增用户名账号、30天会话记忆和退出登录\n• 新增记住账号密码与自动登录选项，密码仅用 Windows 当前用户加密保存在本机\n• 登录与注册输入框缩短并居中，页面层级更紧凑\n• 新增100款本地内置复古头像，不支持上传图片\n• 云端只保存账号、密码安全摘要和头像编号，不上传客户资料\n• 修复Cloudflare登录接口兼容性并加入请求限流\n\n3.3.3\n• 打开名单新增 XLSX、XLSM、XLS、CSV 格式\n• 自动识别中文或英文表头、乱序列、标题空行和日期单元格\n• 常见问题新增分类筛选与分类管理",
+  "downloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v3.3.4/customer-information-assistant-windows.zip",
   "backupDownloadUrl": "https://cdn.jsdelivr.net/gh/a663949987-alt/customer-information-assistant-updates@main/customer-information-assistant-windows.zip",
-  "sha256": "BFD838300A3FCB94790FD9BB7725CD23A85A8EAF5625B4B3716380D852689777"
+  "sha256": "656C451BD213EF8BFE86C7D8EFE889E32B262EA3A3B713612421167EBD75579F"
 }
