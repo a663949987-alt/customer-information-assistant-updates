@@ -5,5 +5,5 @@
   "changelog": "3.6.0\n• 按浅色与深色两套毛玻璃设计稿统一重做界面层级、卡片、按钮与响应式布局\n• 社区改为左侧帖子详情、右侧高密度帖子列表，列表仅显示头像和主题\n• 每人每天可发布 3 个求助帖和 1 个主题帖\n• 求助者可采纳答案，回答者按正态分布随机获得 20–100 积分\n• 管理员可设置精华；精华案例求助者 +20、帮助者 +50，精华主题作者 +100\n• 精华帖置顶、热帖紧随，其余按最新回复或发布时间排序\n• admin 账号加入管理员群组并显示专属标识\n• 打招呼计时新增上一次计时时长，关闭软件后仍会记住\n\n3.5.0\n• 每份导入名单独立保存当前位置和已处理进度，重新打开自动恢复\n• 新增本地优先样本统计，登录时自动补传匿名汇总",
   "downloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v3.6.0/customer-information-assistant-windows.zip",
   "backupDownloadUrl": "https://cdn.jsdelivr.net/gh/a663949987-alt/customer-information-assistant-updates@main/customer-information-assistant-windows.zip",
-  "sha256": "2560E006D901B5E40E7AB48BEA67FF7C631402B78EEB1455AF7E209256E2E3E5"
+  "sha256": "99F7E1A82292A46DE39990D9354C4F89983B74565473891A8E017D84DD74E107"
 }
