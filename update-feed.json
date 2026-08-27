@@ -1,9 +1,9 @@
 {
-  "version": "3.6.1",
+  "version": "3.6.2",
   "publishedAt": "2026-08-27",
-  "announcement": "3.6.1 已发布：修复省份被误识别为客户姓名，并恢复 3.3.0 以上版本使用。",
-  "changelog": "3.6.1\n• 修复省份开头名单把浙江、湖南等省份误识别为客户姓名\n• 新增省份、姓名、身份证、手机号、性别、生日、地址、专业类别格式识别\n• 3.3.0 及以上版本恢复使用，不再要求必须等于最新版本\n\n3.6.0\n• 按浅色与深色两套毛玻璃设计稿统一重做界面层级、卡片、按钮与响应式布局\n• 社区改为左侧帖子详情、右侧高密度帖子列表，列表仅显示头像和主题\n• 新增求助采纳、管理员精华、热帖排序和上一次计时时长记忆",
-  "downloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v3.6.1/customer-information-assistant-windows.zip",
+  "announcement": "3.6.2 已发布：历史资料可点击打开或双击进入，并自动恢复对应文档进度。",
+  "changelog": "3.6.2\n• 历史资料管理新增打开选中文档按钮\n• 双击历史文档可直接进入对应客户资料\n• 打开历史资料时自动恢复该文档独立保存的处理进度\n\n3.6.1\n• 修复省份开头名单把浙江、湖南等省份误识别为客户姓名\n• 新增省份、姓名、身份证、手机号、性别、生日、地址、专业类别格式识别\n• 3.3.0 及以上版本恢复使用，不再要求必须等于最新版本\n\n3.6.0\n• 按浅色与深色两套毛玻璃设计稿统一重做界面层级、卡片、按钮与响应式布局\n• 社区改为左侧帖子详情、右侧高密度帖子列表，列表仅显示头像和主题\n• 新增求助采纳、管理员精华、热帖排序和上一次计时时长记忆",
+  "downloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v3.6.2/customer-information-assistant-windows.zip",
   "backupDownloadUrl": "https://cdn.jsdelivr.net/gh/a663949987-alt/customer-information-assistant-updates@main/customer-information-assistant-windows.zip",
-  "sha256": "555B1661EED6FFD84B998700BDBA62CCB9D18E47E7ED6079D3732D5B5623AA86"
+  "sha256": "9CA44479DAF9C657FA4B7FD1A8E0BE04D3A5814689064E37325CC0E3EB207902"
 }
