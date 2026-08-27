@@ -1,9 +1,9 @@
 {
-  "version": "3.4.1",
+  "version": "3.5.0",
   "publishedAt": "2026-08-27",
-  "announcement": "3.4.1 已发布：新增服务器强制版本校验，并增强豌豆代理环境下的连接重试。",
-  "changelog": "3.4.1\n• 启动时向服务器校验版本，非最新版本无法进入工作台\n• 服务器可单独停用指定版本，并引导用户自动升级\n• 版本验证失败自动短重试，明确区分网络故障与版本停用\n• 账号与社区请求继续采用直连优先、系统线路备用\n\n3.4.0\n• 留言板升级为社区帖子，支持帖子列表、详情和互动回复\n• 支持点赞、踩和重复点击取消评分，自己不能给自己评分\n• 展示头像、用户名、注册时间、发帖数和实时积分\n• 新增五级高质感积分徽章：银蓝、翡翠、星曜、鎏金、钻石\n• 公开帖子所有登录用户可见，指定帖子仅双方可见\n• 启动时恢复上次关闭大小，首次启动使用紧凑窗口\n• 切换页面立即适配，只重排当前页面并使用短时缓存减少卡顿",
-  "downloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v3.4.1/customer-information-assistant-windows.zip",
+  "announcement": "3.5.0 已发布：不同客户名单独立记忆进度，并新增本地优先的样本统计。",
+  "changelog": "3.5.0\n• 每份导入名单独立保存当前位置和已处理进度，重新打开自动恢复\n• 即使两份名单内容相同，只要文件路径不同也不会串进度\n• 新增样本统计：复制招呼记录样本、复制单位记为回复、再复制导出信息记为成功引流\n• 汇总高回复话术与客户省份，样本先加密保存在本机，登录时自动补传\n• 服务器仅接收匿名话术统计，不接收客户姓名、手机号、身份证和单位全称\n\n3.4.1\n• 新增服务器强制版本校验，非最新或被停用版本无法进入工作台\n• 版本校验失败自动短重试，并明确区分网络故障与版本停用\n• 兼容豌豆代理：账号与社区请求采用直连优先、系统线路备用",
+  "downloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v3.5.0/customer-information-assistant-windows.zip",
   "backupDownloadUrl": "https://cdn.jsdelivr.net/gh/a663949987-alt/customer-information-assistant-updates@main/customer-information-assistant-windows.zip",
-  "sha256": "94C27BAF303AB8DF1CC7455D15164E43E9D000C58133B27F752DB41B78A5D00E"
+  "sha256": "62459F03C1B5B0E8FFFF008262D88E4DDD47F228129456EA07233ECC224001CC"
 }
