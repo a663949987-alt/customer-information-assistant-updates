@@ -1,9 +1,9 @@
 {
-  "version": "3.6.3",
-  "publishedAt": "2026-08-27",
-  "announcement": "3.6.3 已发布：第一列为省份或城市名时会自动识别为地区，不再误作客户姓名。",
-  "changelog": "3.6.3\n• 第一列为省份、城市或地区名时，按整行字段结构识别\n• 支持杭州、长沙等不带市后缀的城市名\n• 第一列地区信息自动保存到客户地区\n\n3.6.2\n• 历史资料管理新增打开选中文档按钮\n• 双击历史文档可直接进入对应客户资料\n• 打开历史资料时自动恢复该文档独立保存的处理进度\n\n3.6.1\n• 修复省份开头名单把浙江、湖南等省份误识别为客户姓名\n• 新增省份、姓名、身份证、手机号、性别、生日、地址、专业类别格式识别\n• 3.3.0 及以上版本恢复使用，不再要求必须等于最新版本\n\n3.6.0\n• 按浅色与深色两套毛玻璃设计稿统一重做界面层级、卡片、按钮与响应式布局\n• 社区改为左侧帖子详情、右侧高密度帖子列表，列表仅显示头像和主题\n• 新增求助采纳、管理员精华、热帖排序和上一次计时时长记忆",
-  "downloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v3.6.3/customer-information-assistant-windows.zip",
+  "version": "4.0.1",
+  "publishedAt": "2026-08-28",
+  "announcement": "4.0.1 已发布：全新 WPF 拟态工作台正式上线，首页显示账号头像，并完善搜索与历史资料操作。",
+  "changelog": "4.0.1\n• 全新浅深色 WPF 拟态界面与响应式布局\n• 首页显示当前登录账号头像\n• 客户搜索框按回车立即搜索\n• 历史资料新增打开原始 TXT\n• 去除窗口上下留边并缩小默认界面尺寸\n• 加大客户处理进度文字\n• 修复输入框、历史列表、号码工具与社区头像显示\n• 保留客户解析、独立进度、招呼、导出、问答、社区与统计\n\n3.6.3\n• 第一列为省份、城市或地区名时，按整行字段结构识别\n• 支持杭州、长沙等不带市后缀的城市名\n• 第一列地区信息自动保存到客户地区",
+  "downloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.0.1/customer-information-assistant-windows.zip",
   "backupDownloadUrl": "https://cdn.jsdelivr.net/gh/a663949987-alt/customer-information-assistant-updates@main/customer-information-assistant-windows.zip",
-  "sha256": "82ACF45B28A85CB51554956697A5ED0654A023E717A71B6AEBADF5BDF4F65C97"
+  "sha256": "F8753AD51EDA964831B78550D1958C84E36F4FB842A1FED22630CC8F0CEBB32C"
 }
