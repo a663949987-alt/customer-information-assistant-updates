@@ -1,9 +1,9 @@
 {
-  "version": "4.0.1",
+  "version": "4.0.2",
   "publishedAt": "2026-08-28",
-  "announcement": "4.0.1 已发布：全新 WPF 拟态工作台正式上线，首页显示账号头像，并完善搜索与历史资料操作。",
-  "changelog": "4.0.1\n• 全新浅深色 WPF 拟态界面与响应式布局\n• 首页显示当前登录账号头像\n• 客户搜索框按回车立即搜索\n• 历史搜索命中后显示客户、单位和来源文档，可直接打开\n• 历史资料新增打开原始 TXT\n• 修复登录和注册的 WPF 线程访问错误\n• 去除窗口上下留边并缩小默认界面尺寸\n• 加大客户处理进度文字\n• 修复输入框、历史列表、号码工具与社区头像显示\n• 保留客户解析、独立进度、招呼、导出、问答、社区与统计\n\n3.6.3\n• 第一列为省份、城市或地区名时，按整行字段结构识别\n• 支持杭州、长沙等不带市后缀的城市名\n• 第一列地区信息自动保存到客户地区",
-  "downloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.0.1/customer-information-assistant-windows.zip",
+  "announcement": "4.0.2 已发布：注册服务器或代理异常时不再锁死软件，登录前也能直接检查更新。",
+  "changelog": "4.0.2\n• 登录界面新增免登录检查更新入口\n• 账号服务器不可达时，已登录过的账号可使用本机记录进入\n• 首次注册遇到网络或代理故障时，支持注册码校验后的本机离线注册\n• 区分服务器拒绝与网络传输失败，避免错误放行\n• 优化直连与系统代理尝试，缩短故障等待时间\n• 保留 4.0.1 的 WPF 拟态界面、客户进度、话术、历史资料、社区与统计",
+  "downloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.0.2/customer-information-assistant-windows.zip",
   "backupDownloadUrl": "https://cdn.jsdelivr.net/gh/a663949987-alt/customer-information-assistant-updates@main/customer-information-assistant-windows.zip",
-  "sha256": "0758EF6E3DEABFD1E39E8D00DABF5BEC7919A98FC253CBA614834F05FE01A3F3"
+  "sha256": "E13EDA9CF6E12F76262302736051302D4068471E3D5A0A9E8018C6F0F717B49A"
 }
