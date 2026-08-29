@@ -1,9 +1,9 @@
 {
-  "version": "4.0.2",
-  "publishedAt": "2026-08-28",
-  "announcement": "4.0.2 已发布：注册服务器或代理异常时不再锁死软件，登录前也能直接检查更新。",
-  "changelog": "4.0.2\n• 登录界面新增免登录检查更新入口\n• 账号服务器不可达时，已登录过的账号可使用本机记录进入\n• 首次注册遇到网络或代理故障时，支持注册码校验后的本机离线注册\n• 区分服务器拒绝与网络传输失败，避免错误放行\n• 优化直连与系统代理尝试，缩短故障等待时间\n• 保留 4.0.1 的 WPF 拟态界面、客户进度、话术、历史资料、社区与统计",
-  "downloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.0.2/customer-information-assistant-windows.zip",
+  "version": "4.0.3",
+  "publishedAt": "2026-08-29",
+  "announcement": "4.0.3 已发布：深色显示、头像、历史进度、样本统计和字体调节完成修复。",
+  "changelog": "4.0.3\n• 深色外观逐页增强文字、输入框和边框对比度\n• 窗口缩放固定 3:2，字体支持 100%–130% 调节并自动记忆\n• 100 个彩色 3D 头像直接内置，修复首页、账号与社区头像空白\n• 历史资料显示每份文档的处理进度和当前位置\n• 样本统计优先显示本机数据，只展示有回复的话术和省份\n• 有回复项目按回复次数和回复率排序，零回复项目不再显示\n• 客户工作台显示本日已处理客户数量",
+  "downloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.0.3/customer-information-assistant-windows.zip",
   "backupDownloadUrl": "https://cdn.jsdelivr.net/gh/a663949987-alt/customer-information-assistant-updates@main/customer-information-assistant-windows.zip",
-  "sha256": "E13EDA9CF6E12F76262302736051302D4068471E3D5A0A9E8018C6F0F717B49A"
+  "sha256": "A4AF753FA3F0FC43E4D73B32AA9EB962CDBE19683F513C348083E22928CE20CC"
 }
