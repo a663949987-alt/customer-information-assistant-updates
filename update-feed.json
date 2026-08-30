@@ -1,9 +1,9 @@
 {
-  "version": "4.1.0",
-  "publishedAt": "2026-08-29",
-  "announcement": "4.1.0 已发布：社区新增个性签名、10 款等级挂件、悬停资料卡、图片附件和本地缓存。",
-  "changelog": "4.1.0\n• 账号可填写个性签名并选择 10 款积分等级挂件\n• LV5 挂件具有呼吸闪光效果，admin 已升级为管理员 LV5\n• 帖子与回复头像悬停显示个签、历史回复数和最近回复帖子\n• 发帖支持上传图片，自动压缩并在帖子详情显示\n• 社区帖子、回复和图片写入本地缓存，网络异常仍可查看\n• 修复资料保存的跨线程错误、挂件列表显示不全和首页头像边缘裁切",
-  "downloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.1.0/customer-information-assistant-windows.zip",
+  "version": "4.1.1",
+  "publishedAt": "2026-08-30",
+  "announcement": "4.1.1 已发布：修复样本统计长期显示本机待上传，支持自动分批补传并立即刷新数量。",
+  "changelog": "4.1.1\n• 修复样本同步请求过大导致一直显示本机待上传\n• 修复客户端与服务器字段名称不一致导致样本被拒绝\n• 登录或打开样本统计页时自动补传并刷新待上传数量\n• 上传失败显示具体原因，网络恢复后可继续补传\n• 服务器兼容 4.1.0 客户端，旧版积压样本也可立即上传",
+  "downloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.1.1/customer-information-assistant-windows.zip",
   "backupDownloadUrl": "https://cdn.jsdelivr.net/gh/a663949987-alt/customer-information-assistant-updates@main/customer-information-assistant-windows.zip",
-  "sha256": "E3C29A0525EAD0726271357B352ED8135A0F85DE3D6AB334E85577B59AB1138E"
+  "sha256": "B5ED46B101D54A272270BEC0894AA5B89473BCF8EBBD4B04EA040BFC34512ADD"
 }
