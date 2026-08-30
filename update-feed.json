@@ -1,9 +1,9 @@
 {
-  "version": "4.1.1",
+  "version": "4.1.2",
   "publishedAt": "2026-08-30",
-  "announcement": "4.1.1 已发布：修复样本统计长期显示本机待上传，支持自动分批补传并立即刷新数量。",
-  "changelog": "4.1.1\n• 修复样本同步请求过大导致一直显示本机待上传\n• 修复客户端与服务器字段名称不一致导致样本被拒绝\n• 登录或打开样本统计页时自动补传并刷新待上传数量\n• 上传失败显示具体原因，网络恢复后可继续补传\n• 服务器兼容 4.1.0 客户端，旧版积压样本也可立即上传",
-  "downloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.1.1/customer-information-assistant-windows.zip",
+  "announcement": "4.1.2 已发布：更新页恢复立即更新，可自动下载、校验、替换并重启。",
+  "changelog": "4.1.2\n• 更新页恢复始终可见的“立即更新”按钮\n• 检查到新版后可一键下载、SHA-256 校验、替换并重启\n• 登录页面无需登录也能检查并立即安装更新\n• 主更新源失败后自动切换备用源，兼容直连和系统代理\n\n4.1.1\n• 修复样本统计长期显示本机待上传\n• 支持自动分批补传并立即刷新数量",
+  "downloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.1.2/customer-information-assistant-windows.zip",
   "backupDownloadUrl": "https://cdn.jsdelivr.net/gh/a663949987-alt/customer-information-assistant-updates@main/customer-information-assistant-windows.zip",
-  "sha256": "B5ED46B101D54A272270BEC0894AA5B89473BCF8EBBD4B04EA040BFC34512ADD"
+  "sha256": "33F7CC40BB5371E3921E2371D001DD7AF9C3A48663570CA2C4BFBD5489909543"
 }
