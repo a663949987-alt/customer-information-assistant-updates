@@ -1,9 +1,9 @@
 {
-  "version": "4.1.6",
+  "version": "4.1.7",
   "publishedAt": "2026-08-31",
-  "announcement": "4.1.6 已发布：修复省份被当成姓名，并为每份历史资料保存独立原始文件缓存。",
-  "changelog": "4.1.6\n• 修复湖南、浙江、河北等省份被当成客户姓名\n• 正确识别首列省份、第二列姓名的名单\n• 导入 TXT、CSV、Excel 后保存独立原始文件缓存\n• 原文件移动或删除后仍可从缓存打开和重新解析\n• 自动修正旧历史快照并保留处理进度\n\n4.1.5\n• 话术和省份统计新增回复率及低样本提示\n\n4.1.4\n• 更新安装保留个人话术并记住招呼位置",
-  "downloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.1.6/customer-information-assistant-windows.zip",
+  "announcement": "4.1.7 已发布：工作台更紧凑、分类可直接选择，缩小后的文字更清晰。",
+  "changelog": "4.1.7\n• 左侧导航栏收窄，顶部搜索框缩短\n• 招呼工作台右移并增加正文左侧留白\n• 客户年龄并到姓名后面，姓名字号降低一级\n• 切换分类改成可选菜单，切换客户后不再自动覆盖\n• 最小窗口按 3.3.3 的 840 宽度对齐并保持固定长宽比\n• 启用像素对齐和清晰文本渲染，改善缩小后的文字发虚\n\n4.1.6\n• 修复省份被当成姓名并加入独立原始文件缓存\n\n4.1.5\n• 话术和省份统计新增回复率及低样本提示",
+  "downloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.1.7/customer-information-assistant-windows.zip",
   "backupDownloadUrl": "https://cdn.jsdelivr.net/gh/a663949987-alt/customer-information-assistant-updates@main/customer-information-assistant-windows.zip",
-  "sha256": "70852BD8667D231A2FEC31792528D4CF01AC72DEE765E3D5104463B5FA7C1E04"
+  "sha256": "13AA308748DC470098EB2D2401019515C009A5A0BCDA2F0772FD1014C1C5CECE"
 }
