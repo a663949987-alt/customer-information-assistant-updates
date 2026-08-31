@@ -1,9 +1,9 @@
 {
-  "version": "4.1.7",
+  "version": "4.1.8",
   "publishedAt": "2026-08-31",
-  "announcement": "4.1.7 已发布：工作台更紧凑、分类可直接选择，缩小后的文字更清晰。",
-  "changelog": "4.1.7\n• 左侧导航栏收窄，顶部搜索框缩短\n• 招呼工作台右移并增加正文左侧留白\n• 客户年龄并到姓名后面，姓名字号降低一级\n• 切换分类改成可选菜单，切换客户后不再自动覆盖\n• 最小窗口按 3.3.3 的 840 宽度对齐并保持固定长宽比\n• 启用像素对齐和清晰文本渲染，改善缩小后的文字发虚\n\n4.1.6\n• 修复省份被当成姓名并加入独立原始文件缓存\n\n4.1.5\n• 话术和省份统计新增回复率及低样本提示",
-  "downloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.1.7/customer-information-assistant-windows.zip",
+  "announcement": "4.1.8 已发布：130% 字体下侧栏和按钮自动适配，不再压字裁边。",
+  "changelog": "4.1.8\n• 130% 字体时侧栏自动适度加宽\n• 按钮字体按可用空间单独限制，正文仍保持 130%\n• 自动收紧按钮横向内边距，修复保存地区、切换外观等文字裁边\n• 大标题采用独立上限，避免挤占工作区\n• 切回 100% 至 120% 后自动恢复紧凑布局\n\n4.1.7\n• 工作台重新收紧并加入可选择的招呼分类\n• 最小窗口按 840 宽度对齐并改善缩放文字清晰度\n\n4.1.6\n• 修复省份被当成姓名并加入独立原始文件缓存",
+  "downloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.1.8/customer-information-assistant-windows.zip",
   "backupDownloadUrl": "https://cdn.jsdelivr.net/gh/a663949987-alt/customer-information-assistant-updates@main/customer-information-assistant-windows.zip",
-  "sha256": "13AA308748DC470098EB2D2401019515C009A5A0BCDA2F0772FD1014C1C5CECE"
+  "sha256": "9C85F68A1FE33156A3114AAC9A31F462CB6BBBA53E0726239DE044F8FCC9A7FA"
 }
