@@ -1,9 +1,9 @@
 {
-  "version": "4.1.8",
-  "publishedAt": "2026-08-31",
-  "announcement": "4.1.8 已发布：130% 字体下侧栏和按钮自动适配，不再压字裁边。",
-  "changelog": "4.1.8\n• 130% 字体时侧栏自动适度加宽\n• 按钮字体按可用空间单独限制，正文仍保持 130%\n• 自动收紧按钮横向内边距，修复保存地区、切换外观等文字裁边\n• 大标题采用独立上限，避免挤占工作区\n• 切回 100% 至 120% 后自动恢复紧凑布局\n\n4.1.7\n• 工作台重新收紧并加入可选择的招呼分类\n• 最小窗口按 840 宽度对齐并改善缩放文字清晰度\n\n4.1.6\n• 修复省份被当成姓名并加入独立原始文件缓存",
-  "downloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.1.8/customer-information-assistant-windows.zip",
+  "version": "4.1.9",
+  "publishedAt": "2026-09-02",
+  "announcement": "4.1.9 已发布：复制内容遇到剪贴板短暂占用时自动重试。",
+  "changelog": "4.1.9\n• 修复复制手机号偶发 CLIPBRD_E_CANT_OPEN 错误\n• 手机号、姓名、单位、招呼、常见问题和导出复制统一自动重试\n• 剪贴板持续被占用时改为友好提示，不再弹出系统异常\n• 只有复制成功后才记录样本或切换下一位客户\n\n4.1.8\n• 130% 字体时侧栏自动适度加宽\n• 按钮字体按可用空间单独限制，正文仍保持 130%\n• 自动收紧按钮横向内边距，修复保存地区、切换外观等文字裁边\n• 大标题采用独立上限，避免挤占工作区\n• 切回 100% 至 120% 后自动恢复紧凑布局",
+  "downloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.1.9/customer-information-assistant-windows.zip",
   "backupDownloadUrl": "https://cdn.jsdelivr.net/gh/a663949987-alt/customer-information-assistant-updates@main/customer-information-assistant-windows.zip",
-  "sha256": "9C85F68A1FE33156A3114AAC9A31F462CB6BBBA53E0726239DE044F8FCC9A7FA"
+  "sha256": "FE9D7C820400DE6454DA8E619543D4522E49E557D4E6B3A5242A5BED284AE7AF"
 }
