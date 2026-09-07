@@ -1,9 +1,9 @@
 {
-  "version": "4.1.12",
+  "version": "4.1.13",
   "publishedAt": "2026-09-07",
-  "announcement": "4.1.12 已发布：当前客户可通过手机连接一键发送招呼，并新增安全刷新、导出状态和今日日报。",
-  "changelog": "4.1.12\n• 当前客户一键输入手机号并发送当前招呼，完整号码核验通过后才发送\n• 手机连接支持自动刷新和立即刷新，刷新后自动收起设备面板\n• 自动刷新避开键盘输入和手机连接前台操作\n• 导出记录支持新增、删除、已开/死亡状态和一键今日日报\n• 修复深色外观下刷新频率下拉框白底问题\n\n4.1.11\n• 新增本月、上月和历史已导出客户预览\n• 显示导出时间、打粉手机号、客户手机号、聊天内容和资料来源\n• 导出明细仅在本机加密保存，不上传服务器\n• 样本上传增加后台重试、手动立即同步和代理恢复",
-  "downloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.1.12/customer-information-assistant-windows.zip",
+  "announcement": "4.1.13 已发布：一键发送不再移动手机连接窗口，并修复立即刷新按钮文字显示不全。",
+  "changelog": "4.1.13\n• 一键发送只激活手机连接，不再改变窗口位置和尺寸\n• 手机连接最小化时会恢复，但保留原有窗口布局\n• 加宽立即刷新按钮，100%–130% 字体下完整显示\n• 刷新完成后继续自动收起设备面板\n\n4.1.12\n• 当前客户一键输入手机号并发送当前招呼，完整号码核验通过后才发送\n• 导出记录支持新增、删除、已开/死亡状态和一键今日日报",
+  "downloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.1.13/customer-information-assistant-windows.zip",
   "backupDownloadUrl": "https://cdn.jsdelivr.net/gh/a663949987-alt/customer-information-assistant-updates@main/customer-information-assistant-windows.zip",
-  "sha256": "63E278B003230FE0D7C9737304AAE444FB9B33976AFBA4B8B31C8A4858F10AE0"
+  "sha256": "826186F3AE724595A5544479BFC48D698AA9D25045F515E2AA89F29F6E8CD2C7"
 }
