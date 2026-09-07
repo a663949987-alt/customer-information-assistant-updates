@@ -1,9 +1,9 @@
 {
-  "version": "4.1.11",
+  "version": "4.1.12",
   "publishedAt": "2026-09-07",
-  "announcement": "4.1.11 已发布：新增本月、上月和历史导出记录，并增强代理环境下的样本自动同步。",
-  "changelog": "4.1.11\n• 新增本月、上月和历史已导出客户预览\n• 显示导出时间、打粉手机号、客户手机号、聊天内容和资料来源\n• 导出明细仅在本机加密保存，不上传服务器\n• 复制或保存 TXT 成功后记为导出，同一份生成内容只记一次\n• 跨历史资料搜索后可以返回原资料和原客户\n• 样本上传增加后台重试、手动立即同步和代理恢复\n• 样本本地队列增加损坏备份恢复\n\n4.1.10\n• 姓名模糊匹配，四位数字只匹配手机号末尾\n• 同名或同尾号显示结果列表，不再自动打开第一条\n• 显示姓名、完整手机号、单位、资料来源与行号\n• 支持回车搜索、双击或选择后打开客户",
-  "downloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.1.11/customer-information-assistant-windows.zip",
+  "announcement": "4.1.12 已发布：当前客户可通过手机连接一键发送招呼，并新增安全刷新、导出状态和今日日报。",
+  "changelog": "4.1.12\n• 当前客户一键输入手机号并发送当前招呼，完整号码核验通过后才发送\n• 手机连接支持自动刷新和立即刷新，刷新后自动收起设备面板\n• 自动刷新避开键盘输入和手机连接前台操作\n• 导出记录支持新增、删除、已开/死亡状态和一键今日日报\n• 修复深色外观下刷新频率下拉框白底问题\n\n4.1.11\n• 新增本月、上月和历史已导出客户预览\n• 显示导出时间、打粉手机号、客户手机号、聊天内容和资料来源\n• 导出明细仅在本机加密保存，不上传服务器\n• 样本上传增加后台重试、手动立即同步和代理恢复",
+  "downloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.1.12/customer-information-assistant-windows.zip",
   "backupDownloadUrl": "https://cdn.jsdelivr.net/gh/a663949987-alt/customer-information-assistant-updates@main/customer-information-assistant-windows.zip",
-  "sha256": "F736E22EAD5A631EFFE854A31535093E799CF26C69C860D9C315F0A76CEC44A0"
+  "sha256": "63E278B003230FE0D7C9737304AAE444FB9B33976AFBA4B8B31C8A4858F10AE0"
 }
