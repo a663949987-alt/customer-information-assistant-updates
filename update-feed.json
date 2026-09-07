@@ -1,9 +1,9 @@
 {
-  "version": "4.1.10",
-  "publishedAt": "2026-09-03",
-  "announcement": "4.1.10 已发布：支持姓名与手机号后 4 位搜索，同名或同尾号时列出匹配客户供选择。",
-  "changelog": "4.1.10\n• 姓名模糊匹配，四位数字只匹配手机号末尾\n• 同名或同尾号显示结果列表，不再自动打开第一条\n• 显示姓名、完整手机号、单位、资料来源与行号\n• 合并当前名单和历史结果，排除当前文档的重复快照\n• 支持回车搜索、双击或选择后打开客户\n• 搜索列表适配深浅色、130% 字体及小窗口\n\n4.1.9\n• 所有复制入口统一自动重试，修复剪贴板占用错误\n• 复制失败不推进客户、不写入样本统计\n\n4.1.8\n• 130% 字体下侧栏与按钮自适应，避免压字裁边",
-  "downloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.1.10/customer-information-assistant-windows.zip",
+  "version": "4.1.11",
+  "publishedAt": "2026-09-07",
+  "announcement": "4.1.11 已发布：新增本月、上月和历史导出记录，并增强代理环境下的样本自动同步。",
+  "changelog": "4.1.11\n• 新增本月、上月和历史已导出客户预览\n• 显示导出时间、打粉手机号、客户手机号、聊天内容和资料来源\n• 导出明细仅在本机加密保存，不上传服务器\n• 复制或保存 TXT 成功后记为导出，同一份生成内容只记一次\n• 跨历史资料搜索后可以返回原资料和原客户\n• 样本上传增加后台重试、手动立即同步和代理恢复\n• 样本本地队列增加损坏备份恢复\n\n4.1.10\n• 姓名模糊匹配，四位数字只匹配手机号末尾\n• 同名或同尾号显示结果列表，不再自动打开第一条\n• 显示姓名、完整手机号、单位、资料来源与行号\n• 支持回车搜索、双击或选择后打开客户",
+  "downloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.1.11/customer-information-assistant-windows.zip",
   "backupDownloadUrl": "https://cdn.jsdelivr.net/gh/a663949987-alt/customer-information-assistant-updates@main/customer-information-assistant-windows.zip",
-  "sha256": "E6609EE3D8EBB5965B1C7297C7DEE1208F870D7B166FD77E5A24D1879C218D75"
+  "sha256": "F736E22EAD5A631EFFE854A31535093E799CF26C69C860D9C315F0A76CEC44A0"
 }
