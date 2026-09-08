@@ -1,9 +1,9 @@
 {
-  "version": "4.1.14",
+  "version": "4.1.15",
   "publishedAt": "2026-09-08",
-  "announcement": "4.1.14 已发布：新增今日与总排行榜、手机号归属地统计，并加入一键恢复默认话术。",
-  "changelog": "4.1.14\n• 新增今日处理量、回复量、成功引流排行\n• 新增累计处理量、累计回复量、平均回复率、累计成功引流排行\n• 排行榜显示用户名、头像、头像挂件和等级徽章\n• 平均回复率至少 10 条样本后参与排名\n• 高频回复省份只按客户手机号归属地计算，旧混合来源数据不再进入省份榜\n• 完整内置医生 30 条、老师 8 条招呼和 60 条常见问题回复\n• 招呼区可一键恢复整套默认话术，恢复前自动备份现有内容\n• 一键发送前检查客户处理和招呼记录，避免重复发送\n• 顶部刷新控件左移并避免与进度文字重叠\n• 最小窗口缩小至 780×520，继续固定 3:2 比例",
-  "downloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.1.14/customer-information-assistant-windows.zip",
+  "announcement": "4.1.15 已发布：新增随机自动发送、样本换额度和严格防重复机制。",
+  "changelog": "4.1.15\n• 客户工作台新增随机自动发送，可设置 1 至 120 分钟区间\n• 每次发送后重新随机下一次等待时间，并显示倒计时\n• 一份名单完成、更换资料或重启软件后自动模式都会停止\n• admin 不限额，其他账号上传样本成功后随机获得 1 至 3 小时额度\n• 工作台新增上传样本按钮，无额度时提示断开代理后上传\n• 已处理、已有招呼记录或发送按钮已触发的客户全部跳过\n• 只有明确未发送才自动重试，回执不明确时锁定客户并停止，避免重复招呼",
+  "downloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.1.15/customer-information-assistant-windows.zip",
   "backupDownloadUrl": "https://cdn.jsdelivr.net/gh/a663949987-alt/customer-information-assistant-updates@main/customer-information-assistant-windows.zip",
-  "sha256": "0F378FC94ACC2D704CF4D3FC83FBBD07037BE2CDD2776649399AB3562A6A9C72"
+  "sha256": "730488DB71CA12CE28E3B874070CD0DDD3E36AD4E4C90B333BACB75F0E14728F"
 }
