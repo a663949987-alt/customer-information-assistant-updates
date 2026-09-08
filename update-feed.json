@@ -1,9 +1,9 @@
 {
-  "version": "4.1.13",
-  "publishedAt": "2026-09-07",
-  "announcement": "4.1.13 已发布：一键发送不再移动手机连接窗口，并修复立即刷新按钮文字显示不全。",
-  "changelog": "4.1.13\n• 一键发送只激活手机连接，不再改变窗口位置和尺寸\n• 手机连接最小化时会恢复，但保留原有窗口布局\n• 加宽立即刷新按钮，100%–130% 字体下完整显示\n• 刷新完成后继续自动收起设备面板\n\n4.1.12\n• 当前客户一键输入手机号并发送当前招呼，完整号码核验通过后才发送\n• 导出记录支持新增、删除、已开/死亡状态和一键今日日报",
-  "downloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.1.13/customer-information-assistant-windows.zip",
+  "version": "4.1.14",
+  "publishedAt": "2026-09-08",
+  "announcement": "4.1.14 已发布：新增今日与总排行榜、手机号归属地统计，并加入一键恢复默认话术。",
+  "changelog": "4.1.14\n• 新增今日处理量、回复量、成功引流排行\n• 新增累计处理量、累计回复量、平均回复率、累计成功引流排行\n• 排行榜显示用户名、头像、头像挂件和等级徽章\n• 平均回复率至少 10 条样本后参与排名\n• 高频回复省份只按客户手机号归属地计算，旧混合来源数据不再进入省份榜\n• 内置医生 30 条、老师 8 条默认招呼，招呼区可一键恢复\n• 恢复默认前自动备份现有自定义招呼\n• 顶部刷新控件左移并避免与进度文字重叠\n• 最小窗口缩小至 780×520，继续固定 3:2 比例",
+  "downloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.1.14/customer-information-assistant-windows.zip",
   "backupDownloadUrl": "https://cdn.jsdelivr.net/gh/a663949987-alt/customer-information-assistant-updates@main/customer-information-assistant-windows.zip",
-  "sha256": "826186F3AE724595A5544479BFC48D698AA9D25045F515E2AA89F29F6E8CD2C7"
+  "sha256": "FD7875A37EADF4D3DD6CED18DBC16102D412E8A81BDECF813B3AD684F66FB44B"
 }
