@@ -2,8 +2,8 @@
   "version": "4.1.14",
   "publishedAt": "2026-09-08",
   "announcement": "4.1.14 已发布：新增今日与总排行榜、手机号归属地统计，并加入一键恢复默认话术。",
-  "changelog": "4.1.14\n• 新增今日处理量、回复量、成功引流排行\n• 新增累计处理量、累计回复量、平均回复率、累计成功引流排行\n• 排行榜显示用户名、头像、头像挂件和等级徽章\n• 平均回复率至少 10 条样本后参与排名\n• 高频回复省份只按客户手机号归属地计算，旧混合来源数据不再进入省份榜\n• 内置医生 30 条、老师 8 条默认招呼，招呼区可一键恢复\n• 恢复默认前自动备份现有自定义招呼\n• 顶部刷新控件左移并避免与进度文字重叠\n• 最小窗口缩小至 780×520，继续固定 3:2 比例",
+  "changelog": "4.1.14\n• 新增今日处理量、回复量、成功引流排行\n• 新增累计处理量、累计回复量、平均回复率、累计成功引流排行\n• 排行榜显示用户名、头像、头像挂件和等级徽章\n• 平均回复率至少 10 条样本后参与排名\n• 高频回复省份只按客户手机号归属地计算，旧混合来源数据不再进入省份榜\n• 完整内置医生 30 条、老师 8 条招呼和 60 条常见问题回复\n• 招呼区可一键恢复整套默认话术，恢复前自动备份现有内容\n• 顶部刷新控件左移并避免与进度文字重叠\n• 最小窗口缩小至 780×520，继续固定 3:2 比例",
   "downloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.1.14/customer-information-assistant-windows.zip",
   "backupDownloadUrl": "https://cdn.jsdelivr.net/gh/a663949987-alt/customer-information-assistant-updates@main/customer-information-assistant-windows.zip",
-  "sha256": "FD7875A37EADF4D3DD6CED18DBC16102D412E8A81BDECF813B3AD684F66FB44B"
+  "sha256": "BC4C84E8A0191612A501E4C203BEC07B835CF0270EB3C0D15347E25BC9B89ED1"
 }
