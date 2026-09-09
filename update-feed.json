@@ -1,9 +1,9 @@
 {
-  "version": "4.1.18",
+  "version": "4.1.19",
   "publishedAt": "2026-09-09",
-  "announcement": "4.1.18 已发布：修复手机连接回复漏检，并在启动上传样本后自动提示服务器新版本。",
-  "changelog": "4.1.18\n• 修复手机号与消息预览合并时的回复漏检\n• 已固定会话作为人工回复确认并支持启动补记\n• 兼容已固定标题被手机连接虚拟化的界面\n• 固定会话仍需匹配招呼记录并复制单位才计为有效回复\n• 启动上传样本后自动检查新版本\n• 暂不更新时更新与公告显示红点\n• 保留发送成功后立即刷新并收起设备展板",
-  "downloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.1.18/customer-information-assistant-windows.zip",
+  "announcement": "4.1.19 已发布：社区升级为大型聊天室，发布人群组与服务器身份一致，并新增昨日排行和全天额度。",
+  "changelog": "4.1.19\n• 社区升级为大型公开聊天室，可回复指定对象\n• 发布人显示服务器真实群组、等级和徽章\n• admin可屏蔽或删除成员留言\n• 原123测试评论自动迁移到留言板\n• 新增昨日处理量、回复量和成功引流排行\n• 普通账号每天上传一次样本获得24小时额度\n• 最小窗口缩小至720×480并保持3:2比例",
+  "downloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.1.19/customer-information-assistant-windows.zip",
   "backupDownloadUrl": "https://cdn.jsdelivr.net/gh/a663949987-alt/customer-information-assistant-updates@main/customer-information-assistant-windows.zip",
-  "sha256": "0E6B7F0EE3B8EEC4C6342FB097775A68B9DA6B9C64D9AABAB9650EFE8FC4EB37"
+  "sha256": "477429347F3E3265E0432F193124C854CE53FCDA705561246D840940FE1F0276"
 }
