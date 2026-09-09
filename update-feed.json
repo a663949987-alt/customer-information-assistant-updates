@@ -1,9 +1,9 @@
 {
-  "version": "4.1.16",
+  "version": "4.1.17",
   "publishedAt": "2026-09-09",
-  "announcement": "4.1.16 已发布：新增手机回复监听、有效回复等级额度和自动发送连接安全检查。",
-  "changelog": "4.1.16\n• 后台监听手机连接的新回复，不刷新页面、不抢键盘焦点\n• 识别回复并复制客户单位后才计为一次有效回复\n• LV1 上传样本获 3–6 小时额度，LV2 获 6–8 小时，LV3 获 24 小时\n• 自动发送启动前检查手机连接程序和设备连接状态\n• 今日已处理跨过零点自动切换日期，无需重启\n• 新增最新版发布页和自助查询标记按钮\n• 自助查询前自动复制打粉号码并提示直接粘贴",
-  "downloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.1.16/customer-information-assistant-windows.zip",
+  "announcement": "4.1.17 已发布：自动招呼发送成功后立即刷新手机连接并收起设备展板。",
+  "changelog": "4.1.17\n• 自动招呼确认发送成功后立即刷新手机连接\n• 刷新完成或出现异常都会尝试收起设备展板\n• 刷新失败不会重新发送已经成功发送的客户\n• 最后一位客户发送成功后也会先刷新再停止\n• 刷新期间暂停回复扫描，减少界面识别冲突",
+  "downloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.1.17/customer-information-assistant-windows.zip",
   "backupDownloadUrl": "https://cdn.jsdelivr.net/gh/a663949987-alt/customer-information-assistant-updates@main/customer-information-assistant-windows.zip",
-  "sha256": "242B1A0651D712BDD8ACA087029F027738B497A1E494B958F824C6227A67A9C0"
+  "sha256": "6AF058DE0781B79C73E064A311F51BFEC02A065842630D4FD2942F2F1BAC7B66"
 }
