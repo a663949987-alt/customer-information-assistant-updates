@@ -1,9 +1,9 @@
 {
-  "version": "4.1.17",
+  "version": "4.1.18",
   "publishedAt": "2026-09-09",
-  "announcement": "4.1.17 已发布：自动招呼发送成功后立即刷新手机连接并收起设备展板。",
-  "changelog": "4.1.17\n• 自动招呼确认发送成功后立即刷新手机连接\n• 刷新完成或出现异常都会尝试收起设备展板\n• 刷新失败不会重新发送已经成功发送的客户\n• 最后一位客户发送成功后也会先刷新再停止\n• 刷新期间暂停回复扫描，减少界面识别冲突",
-  "downloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.1.17/customer-information-assistant-windows.zip",
+  "announcement": "4.1.18 已发布：修复手机连接回复漏检，并在启动上传样本后自动提示服务器新版本。",
+  "changelog": "4.1.18\n• 修复手机号与消息预览合并时的回复漏检\n• 已固定会话作为人工回复确认并支持启动补记\n• 兼容已固定标题被手机连接虚拟化的界面\n• 固定会话仍需匹配招呼记录并复制单位才计为有效回复\n• 启动上传样本后自动检查新版本\n• 暂不更新时更新与公告显示红点\n• 保留发送成功后立即刷新并收起设备展板",
+  "downloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.1.18/customer-information-assistant-windows.zip",
   "backupDownloadUrl": "https://cdn.jsdelivr.net/gh/a663949987-alt/customer-information-assistant-updates@main/customer-information-assistant-windows.zip",
-  "sha256": "6AF058DE0781B79C73E064A311F51BFEC02A065842630D4FD2942F2F1BAC7B66"
+  "sha256": "0E6B7F0EE3B8EEC4C6342FB097775A68B9DA6B9C64D9AABAB9650EFE8FC4EB37"
 }
