@@ -1,9 +1,9 @@
 {
-  "version": "4.1.15",
-  "publishedAt": "2026-09-08",
-  "announcement": "4.1.15 已发布：新增随机自动发送、样本换额度和严格防重复机制。",
-  "changelog": "4.1.15\n• 客户工作台新增随机自动发送，可设置 1 至 120 分钟区间\n• 每次发送后重新随机下一次等待时间，并显示倒计时\n• 一份名单完成、更换资料或重启软件后自动模式都会停止\n• admin 不限额，其他账号上传样本成功后随机获得 1 至 3 小时额度\n• 工作台新增上传样本按钮，无额度时提示断开代理后上传\n• 已处理、已有招呼记录或发送按钮已触发的客户全部跳过\n• 只有明确未发送才自动重试，回执不明确时锁定客户并停止，避免重复招呼",
-  "downloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.1.15/customer-information-assistant-windows.zip",
+  "version": "4.1.16",
+  "publishedAt": "2026-09-09",
+  "announcement": "4.1.16 已发布：新增手机回复监听、有效回复等级额度和自动发送连接安全检查。",
+  "changelog": "4.1.16\n• 后台监听手机连接的新回复，不刷新页面、不抢键盘焦点\n• 识别回复并复制客户单位后才计为一次有效回复\n• LV1 上传样本获 3–6 小时额度，LV2 获 6–8 小时，LV3 获 24 小时\n• 自动发送启动前检查手机连接程序和设备连接状态\n• 今日已处理跨过零点自动切换日期，无需重启\n• 新增最新版发布页和自助查询标记按钮\n• 自助查询前自动复制打粉号码并提示直接粘贴",
+  "downloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.1.16/customer-information-assistant-windows.zip",
   "backupDownloadUrl": "https://cdn.jsdelivr.net/gh/a663949987-alt/customer-information-assistant-updates@main/customer-information-assistant-windows.zip",
-  "sha256": "730488DB71CA12CE28E3B874070CD0DDD3E36AD4E4C90B333BACB75F0E14728F"
+  "sha256": "242B1A0651D712BDD8ACA087029F027738B497A1E494B958F824C6227A67A9C0"
 }
