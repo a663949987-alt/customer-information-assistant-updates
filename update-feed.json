@@ -1,9 +1,9 @@
 {
-  "version": "4.1.19",
-  "publishedAt": "2026-09-09",
-  "announcement": "4.1.19 已发布：社区升级为大型聊天室，发布人群组与服务器身份一致，并新增昨日排行和全天额度。",
-  "changelog": "4.1.19\n• 社区升级为大型公开聊天室，可回复指定对象\n• 发布人显示服务器真实群组、等级和徽章\n• admin可屏蔽或删除成员留言\n• 原123测试评论自动迁移到留言板\n• 新增昨日处理量、回复量和成功引流排行\n• 普通账号每天上传一次样本获得24小时额度\n• 最小窗口缩小至720×480并保持3:2比例",
-  "downloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.1.19/customer-information-assistant-windows.zip",
+  "version": "4.1.20",
+  "publishedAt": "2026-09-10",
+  "announcement": "4.1.20 已发布：留言板新增置顶、未读角标和可更换提示音，LV2 可上传并全局显示动态 GIF 头像。",
+  "changelog": "4.1.20\n• 留言板采用紧凑布局，置顶优先、最新优先\n• 时间显示今天、昨天、前天，并新增数字未读角标\n• admin可置顶、取消置顶、屏蔽或删除留言\n• 新消息可播放默认提示音，也可关闭或上传替换\n• Windows手机连接通知优先识别回复\n• LV2可上传2 MB内的JPG、PNG或动态GIF头像\n• GIF在顶部、资料、留言板和排行榜中持续播放\n• 普通账号上传当天样本后额度有效至北京时间24点\n• 修复720×480窗口尺寸重启保持",
+  "downloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.1.20/customer-information-assistant-windows.zip",
   "backupDownloadUrl": "https://cdn.jsdelivr.net/gh/a663949987-alt/customer-information-assistant-updates@main/customer-information-assistant-windows.zip",
-  "sha256": "477429347F3E3265E0432F193124C854CE53FCDA705561246D840940FE1F0276"
+  "sha256": "5B3705C242CCAF76EE3E5894B88DC6040A993B18EA2C314F4BDDB9457A4FECBE"
 }
