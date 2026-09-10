@@ -1,9 +1,9 @@
 {
-  "version": "4.1.20",
+  "version": "4.1.21",
   "publishedAt": "2026-09-10",
-  "announcement": "4.1.20 已发布：留言板新增置顶、未读角标和可更换提示音，LV2 可上传并全局显示动态 GIF 头像。",
-  "changelog": "4.1.20\n• 留言板采用紧凑布局，置顶优先、最新优先\n• 时间显示今天、昨天、前天，并新增数字未读角标\n• admin可置顶、取消置顶、屏蔽或删除留言\n• 新消息可播放默认提示音，也可关闭或上传替换\n• Windows手机连接通知优先识别回复\n• LV2可上传2 MB内的JPG、PNG或动态GIF头像\n• GIF在顶部、资料、留言板和排行榜中持续播放\n• 普通账号上传当天样本后额度有效至北京时间24点\n• 修复720×480窗口尺寸重启保持",
-  "downloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.1.20/customer-information-assistant-windows.zip",
+  "announcement": "4.1.21 已发布：提示音改为检测到客户回复时播放，自定义头像改由自动发送额度 LV2 解锁。",
+  "changelog": "4.1.21\n• 手机连接首次识别到名单客户回复时播放提示音\n• 留言板新消息不再播放该提示音\n• 重复轮询同一回复不会反复响铃\n• 提示音开关和更换按钮移到客户工作台\n• 自定义头像改由自动发送额度LV2解锁\n• 客户端与服务器统一使用额度等级校验\n• GIF继续在顶部、资料、留言板和排行榜动态显示",
+  "downloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.1.21/customer-information-assistant-windows.zip",
   "backupDownloadUrl": "https://cdn.jsdelivr.net/gh/a663949987-alt/customer-information-assistant-updates@main/customer-information-assistant-windows.zip",
-  "sha256": "5B3705C242CCAF76EE3E5894B88DC6040A993B18EA2C314F4BDDB9457A4FECBE"
+  "sha256": "4E092A7D289D95C06481AD1EDE81B5F5B261279FA0AED8F8108174ED60AC1285"
 }
