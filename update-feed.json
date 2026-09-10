@@ -1,9 +1,9 @@
 {
-  "version": "4.1.21",
+  "version": "4.1.22",
   "publishedAt": "2026-09-10",
-  "announcement": "4.1.21 已发布：提示音改为检测到客户回复时播放，自定义头像改由自动发送额度 LV2 解锁。",
-  "changelog": "4.1.21\n• 手机连接首次识别到名单客户回复时播放提示音\n• 留言板新消息不再播放该提示音\n• 重复轮询同一回复不会反复响铃\n• 提示音开关和更换按钮移到客户工作台\n• 自定义头像改由自动发送额度LV2解锁\n• 客户端与服务器统一使用额度等级校验\n• GIF继续在顶部、资料、留言板和排行榜动态显示",
-  "downloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.1.21/customer-information-assistant-windows.zip",
+  "announcement": "4.1.22 已发布：回复识别严格去重，自动刷新可勾选，并加入发送前5秒提醒与发送成功音。",
+  "changelog": "4.1.22\n• 发送成功后关联手机号、时间和招呼，排除自己的发送内容\n• 30秒过滤只作用于界面回显，不再吞掉真正的新通知\n• 固定会话、时间、状态和按钮文字不再单独触发回复\n• 自动刷新可勾选，支持10、15、30、60秒并记忆\n• 自动刷新避开手机连接前台输入和刚发生的键盘操作\n• 随机发送可勾选发送前5秒提醒\n• 明确发送成功后播放独立成功音",
+  "downloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.1.22/customer-information-assistant-windows.zip",
   "backupDownloadUrl": "https://cdn.jsdelivr.net/gh/a663949987-alt/customer-information-assistant-updates@main/customer-information-assistant-windows.zip",
-  "sha256": "4E092A7D289D95C06481AD1EDE81B5F5B261279FA0AED8F8108174ED60AC1285"
+  "sha256": "CBA48A657204D852191B6DF208100ED5CF5D157641878D4091EE2FBF5FB48F95"
 }
