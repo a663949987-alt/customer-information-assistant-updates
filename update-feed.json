@@ -1,9 +1,9 @@
 {
-  "version": "4.1.23",
+  "version": "4.1.24",
   "publishedAt": "2026-09-11",
-  "announcement": "4.1.23 已发布：新增尾号靓号回复率统计、0.3秒快速回复监听、两套按钮提示音和头像裁切。",
-  "changelog": "4.1.23\n• 工作台标出靓号等级、结构和命中尾号\n• 识别同号、顺子、循环、对称、对子五类尾号结构\n• 按最长命中归入3位、4位、5位及以上，同一号码不重复统计\n• 样本统计新增各级靓号与普通号回复率对照\n• 回复监听升级为0.3秒调度，通知优先、短信列表复核\n• 普通按钮与主操作按钮分别使用两段新音效\n• 上传头像可拖动缩放并裁成正方形，动态GIF保留全部动画帧\n• 客户手机号不上传，旧版样本保持未分类",
-  "downloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.1.23/customer-information-assistant-windows.zip",
+  "announcement": "4.1.24 已发布：导出客户可编辑、更新下载显示真实进度、靓号红标和 GIF 完整显示。",
+  "changelog": "4.1.24\n• 导出记录支持编辑客户，双击记录也可打开\n• 编辑后保持原导出时间和编号，本机加密保存\n• 更新下载显示百分比、大小和校验阶段\n• 连续三个相同数字算靓号，三位对称不再统计\n• 手机号右上侧显示红色靓号标识\n• 修复差分帧GIF头像残缺和错位，裁切速度明显提升",
+  "downloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.1.24/customer-information-assistant-windows.zip",
   "backupDownloadUrl": "https://cdn.jsdelivr.net/gh/a663949987-alt/customer-information-assistant-updates@main/customer-information-assistant-windows.zip",
-  "sha256": "497027DA80059482AD3A64A50546FE1D041191BEF0B06FD11480A99B4F929B0E"
+  "sha256": "2CB489F092BFBA5CC02C4ED2C9EEFC2FCEF59E8DD451D5B668F57EA1D8D37444"
 }
