@@ -1,9 +1,9 @@
 {
-  "version": "4.1.24",
+  "version": "4.1.25",
   "publishedAt": "2026-09-11",
-  "announcement": "4.1.24 已发布：导出客户可编辑、更新下载显示真实进度、靓号红标和 GIF 完整显示。",
-  "changelog": "4.1.24\n• 导出记录支持编辑客户，双击记录也可打开\n• 编辑后保持原导出时间和编号，本机加密保存\n• 更新下载显示百分比、大小和校验阶段\n• 连续三个相同数字算靓号，三位对称不再统计\n• 手机号右上侧显示红色靓号标识\n• 修复差分帧GIF头像残缺和错位，裁切速度明显提升",
-  "downloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.1.24/customer-information-assistant-windows.zip",
+  "announcement": "4.1.25 已发布：新增服务器管理控制台，可管理版本策略、用户权限、自动发送额度和软件公告。",
+  "changelog": "4.1.25\n• 新增独立服务器管理控制台\n• 可设置最新版本、最低兼容版本和是否强制最新版\n• 可发布软件公告并修改更新提示及下载地址\n• 可搜索用户、授权或取消管理员，并设置自动发送额度\n• 管理工具仅在本机加密保存登录令牌，不保存管理员密码\n• 客户端启动时读取服务器公告",
+  "downloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.1.25/customer-information-assistant-windows.zip",
   "backupDownloadUrl": "https://cdn.jsdelivr.net/gh/a663949987-alt/customer-information-assistant-updates@main/customer-information-assistant-windows.zip",
-  "sha256": "2CB489F092BFBA5CC02C4ED2C9EEFC2FCEF59E8DD451D5B668F57EA1D8D37444"
+  "sha256": "2A7A39AFCD69E6F838A4EED5D320094C289807428BAC3222AF200D5B0D62C487"
 }
