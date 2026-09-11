@@ -1,9 +1,9 @@
 {
-  "version": "4.1.22",
-  "publishedAt": "2026-09-10",
-  "announcement": "4.1.22 已发布：回复识别严格去重，自动刷新可勾选，并加入发送前5秒提醒与发送成功音。",
-  "changelog": "4.1.22\n• 发送成功后关联手机号、时间和招呼，排除自己的发送内容\n• 30秒过滤只作用于界面回显，不再吞掉真正的新通知\n• 固定会话、时间、状态和按钮文字不再单独触发回复\n• 自动刷新可勾选，支持10、15、30、60秒并记忆\n• 自动刷新避开手机连接前台输入和刚发生的键盘操作\n• 随机发送可勾选发送前5秒提醒\n• 明确发送成功后播放独立成功音",
-  "downloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.1.22/customer-information-assistant-windows.zip",
+  "version": "4.1.23",
+  "publishedAt": "2026-09-11",
+  "announcement": "4.1.23 已发布：新增尾号靓号回复率统计、0.3秒快速回复监听、两套按钮提示音和头像裁切。",
+  "changelog": "4.1.23\n• 工作台标出靓号等级、结构和命中尾号\n• 识别同号、顺子、循环、对称、对子五类尾号结构\n• 按最长命中归入3位、4位、5位及以上，同一号码不重复统计\n• 样本统计新增各级靓号与普通号回复率对照\n• 回复监听升级为0.3秒调度，通知优先、短信列表复核\n• 普通按钮与主操作按钮分别使用两段新音效\n• 上传头像可拖动缩放并裁成正方形，动态GIF保留全部动画帧\n• 客户手机号不上传，旧版样本保持未分类",
+  "downloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.1.23/customer-information-assistant-windows.zip",
   "backupDownloadUrl": "https://cdn.jsdelivr.net/gh/a663949987-alt/customer-information-assistant-updates@main/customer-information-assistant-windows.zip",
-  "sha256": "CBA48A657204D852191B6DF208100ED5CF5D157641878D4091EE2FBF5FB48F95"
+  "sha256": "497027DA80059482AD3A64A50546FE1D041191BEF0B06FD11480A99B4F929B0E"
 }
