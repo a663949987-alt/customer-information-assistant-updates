@@ -1,9 +1,9 @@
 {
-  "version": "4.1.25",
-  "publishedAt": "2026-09-11",
-  "announcement": "4.1.25 已发布：新增服务器管理控制台，可管理版本策略、用户权限、自动发送额度和软件公告。",
-  "changelog": "4.1.25\n• 新增独立服务器管理控制台\n• 可设置最新版本、最低兼容版本和是否强制最新版\n• 可发布软件公告并修改更新提示及下载地址\n• 可搜索用户、授权或取消管理员，并设置自动发送额度\n• 管理工具仅在本机加密保存登录令牌，不保存管理员密码\n• 客户端启动时读取服务器公告",
-  "downloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.1.25/customer-information-assistant-windows.zip",
+  "version": "4.1.26",
+  "publishedAt": "2026-09-14",
+  "announcement": "4.1.26 已发布：新增短信网关发送与回复监听，监听提升至 0.2 秒，并优化招呼语空间和按钮音量。",
+  "changelog": "4.1.26\n• 新增短信网关发送方式，支持手动与随机自动发送\n• 发送后核对手机回执，状态不明时锁定客户避免重复\n• 直接监听网关入站短信，刷新间隔提升至0.2秒\n• 新增固定网关窗口开关和本机加密网关设置\n• 删除计时归零、暂停继续按钮，自动发送额度简化为额度\n• 招呼语预览在最小窗口和130%字体下保持可见\n• 提高两套按键提示音音量",
+  "downloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.1.26/customer-information-assistant-windows.zip",
   "backupDownloadUrl": "https://cdn.jsdelivr.net/gh/a663949987-alt/customer-information-assistant-updates@main/customer-information-assistant-windows.zip",
-  "sha256": "2A7A39AFCD69E6F838A4EED5D320094C289807428BAC3222AF200D5B0D62C487"
+  "sha256": "F76DD7052DB9A97A5E788989335AA10D021E74A990D5AECC96B9AA85E38E9CB7"
 }
