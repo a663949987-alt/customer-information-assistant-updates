@@ -1,9 +1,9 @@
 {
-  "version": "4.1.28",
+  "version": "4.1.29",
   "publishedAt": "2026-09-14",
-  "announcement": "4.1.28 已发布：短信网关支持助手内查看、回复和置顶会话，并按打粉号码确认 SIM 卡。",
-  "changelog": "4.1.28\n• 短信网关直连 64.90.27.64\n• 助手内查看、回复及置顶当前客户短信\n• 按打粉号码自动确认卡 1 / 卡 2，也可手动指定\n• 下发 12 秒仍未成功时仅补发一次并继续核验回执\n• 提醒：当前网关为 HTTP，网络传输未加密",
-  "downloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.1.28/customer-information-assistant-windows.zip",
+  "announcement": "4.1.29 已发布：短信中心改为三栏布局，完整显示设备下的已发送和已接收短信。",
+  "changelog": "4.1.29\n• 短信中心改为设备、联系人、当前会话三栏布局\n• 完整显示已发送和已接收短信，不再只限当前客户\n• 增加时间、收发方向和手机号筛选\n• 显示未读与置顶状态，支持新建对话和直接回复\n• 完善短信中心全部按钮提示音\n• 优化130%字体下的控件宽度",
+  "downloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.1.29/customer-information-assistant-windows.zip",
   "backupDownloadUrl": "https://cdn.jsdelivr.net/gh/a663949987-alt/customer-information-assistant-updates@main/customer-information-assistant-windows.zip",
-  "sha256": "8B4B031C3C2D201E5349CE5E2DF866765D31ADCDE1E3477ECE7484D95E1598A0"
+  "sha256": "366CD01F81546BF727164241719D74EA4A648EB31BA65745C672921C6397B0D0"
 }
