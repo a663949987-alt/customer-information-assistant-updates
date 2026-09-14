@@ -1,9 +1,9 @@
 {
-  "version": "4.1.27",
+  "version": "4.1.28",
   "publishedAt": "2026-09-14",
-  "announcement": "4.1.27 已发布：修复填写短信网关账号密码后检测时出现的跨线程报错。",
-  "changelog": "4.1.27\n• 修复网关设置点击检测时跨线程读取账号密码输入框导致的报错\n• 账号密码先在界面线程读取，再交给后台检测\n• 网关连接失败改为在设置窗口内提示，可直接修改后重试",
-  "downloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.1.27/customer-information-assistant-windows.zip",
+  "announcement": "4.1.28 已发布：短信网关支持助手内查看、回复和置顶会话，并按打粉号码确认 SIM 卡。",
+  "changelog": "4.1.28\n• 短信网关直连 64.90.27.64\n• 助手内查看、回复及置顶当前客户短信\n• 按打粉号码自动确认卡 1 / 卡 2，也可手动指定\n• 下发 12 秒仍未成功时仅补发一次并继续核验回执\n• 提醒：当前网关为 HTTP，网络传输未加密",
+  "downloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.1.28/customer-information-assistant-windows.zip",
   "backupDownloadUrl": "https://cdn.jsdelivr.net/gh/a663949987-alt/customer-information-assistant-updates@main/customer-information-assistant-windows.zip",
-  "sha256": "EFC3933F80A5E5AFEBD3AA40CCB5B1317EB113223F7EB685802DDA837B8FACA4"
+  "sha256": "8B4B031C3C2D201E5349CE5E2DF866765D31ADCDE1E3477ECE7484D95E1598A0"
 }
