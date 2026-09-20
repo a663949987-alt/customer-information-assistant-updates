@@ -1,9 +1,9 @@
 {
-  "version": "4.1.30",
-  "publishedAt": "2026-09-14",
-  "announcement": "4.1.30 已发布：网关地址支持填写并记忆，修复离线旧设备阻止自动选择在线设备的问题。",
-  "changelog": "4.1.30\n• 网关地址可填写并记忆，支持HTTP和HTTPS\n• 默认使用64.90.27.64并自动补齐API路径\n• 保存设备离线时自动改选账号下的在线设备\n• 明确区分密码错误与设备离线\n• 设备暂时离线时也保存已验证的账号和地址",
-  "downloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.1.30/customer-information-assistant-windows.zip",
+  "version": "4.1.31",
+  "publishedAt": "2026-09-20",
+  "announcement": "4.1.31 已发布：手机连接回复改为0.1秒读取本地短信索引，只认真实入站消息ID，置顶和旧通知不再误报。",
+  "changelog": "4.1.31\n• 回复监听直接只读手机连接本地短信索引\n• 每0.1秒轻量检查，只认收到方向的新消息ID\n• 自己发送、置顶、排序、时间变化和旧通知重绘均不触发\n• 启动只建历史基线，数据库繁忙时自动重试\n• 发送与刷新期间继续监听，不读取或保存短信正文",
+  "downloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.1.31/customer-information-assistant-windows.zip",
   "backupDownloadUrl": "https://cdn.jsdelivr.net/gh/a663949987-alt/customer-information-assistant-updates@main/customer-information-assistant-windows.zip",
-  "sha256": "84438CEF1B33A65AB6B180386A7688BDD722ABD45DD10D3C86EA176BBD0CD991"
+  "sha256": "FCBAA5598131D0C518AF3BF2C478AAB79E12E790F5426F9F4271FA0E0AF8381A"
 }
