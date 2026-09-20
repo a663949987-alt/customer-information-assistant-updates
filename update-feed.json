@@ -1,9 +1,9 @@
 {
-  "version": "4.1.31",
+  "version": "4.1.32",
   "publishedAt": "2026-09-20",
-  "announcement": "4.1.31 已发布：手机连接回复改为0.1秒读取本地短信索引，只认真实入站消息ID，置顶和旧通知不再误报。",
-  "changelog": "4.1.31\n• 回复监听直接只读手机连接本地短信索引\n• 每0.1秒轻量检查，只认收到方向的新消息ID\n• 自己发送、置顶、排序、时间变化和旧通知重绘均不触发\n• 启动只建历史基线，数据库繁忙时自动重试\n• 发送与刷新期间继续监听，不读取或保存短信正文",
-  "downloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.1.31/customer-information-assistant-windows.zip",
+  "announcement": "4.1.32 已发布：网关默认改用123.weweangel.cn，完整登录页地址也能自动识别。",
+  "changelog": "4.1.32\n• 网关默认地址改为http://123.weweangel.cn\n• 可直接粘贴带#/login的浏览器登录页\n• 自动去掉前端路由并补齐/api接口路径\n• 继续兼容原来的64.90.27.64地址",
+  "downloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.1.32/customer-information-assistant-windows.zip",
   "backupDownloadUrl": "https://cdn.jsdelivr.net/gh/a663949987-alt/customer-information-assistant-updates@main/customer-information-assistant-windows.zip",
-  "sha256": "FCBAA5598131D0C518AF3BF2C478AAB79E12E790F5426F9F4271FA0E0AF8381A"
+  "sha256": "92AA5C0DAF5CEF7E81152FDEE56B119A2B4C05439A5E4E6C2980087504949186"
 }
