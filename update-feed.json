@@ -1,9 +1,9 @@
 {
-  "version": "4.1.33",
+  "version": "4.1.34",
   "publishedAt": "2026-09-24",
-  "announcement": "4.1.33 已发布：修复打开短信对话后主界面被锁住的问题。",
-  "changelog": "4.1.33\n• 短信中心改为普通独立窗口，主界面可继续操作\n• 重复点击时唤醒现有短信中心，不再重复创建窗口\n• 关闭短信中心时停止刷新并释放窗口资源\n• 保留4.1.32的网关域名兼容功能",
-  "downloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.1.33/customer-information-assistant-windows.zip",
+  "announcement": "4.1.34 已发布：修复短信窗口锁住主界面，并修正升级后仍反复提示更新的问题。",
+  "changelog": "4.1.34\n• 修复程序内部仍识别为4.1.32的问题\n• 升级后正确显示4.1.34且不再反复提示\n• 短信中心改为普通独立窗口，主界面可继续操作\n• 重复点击时唤醒现有短信中心",
+  "downloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.1.34/customer-information-assistant-windows.zip",
   "backupDownloadUrl": "https://cdn.jsdelivr.net/gh/a663949987-alt/customer-information-assistant-updates@main/customer-information-assistant-windows.zip",
-  "sha256": "6C3ED021BB9BB1C759425EB7ACB58CF032855A1890987DFD6D05BF7F1296FC2E"
+  "sha256": "EE2D777EB74E25B3C4F091794310B2433B1E217AEE1D8B6C3F72D2D5A3E4324F"
 }
