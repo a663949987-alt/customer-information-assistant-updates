@@ -1,9 +1,9 @@
 {
-  "version": "4.1.32",
-  "publishedAt": "2026-09-20",
-  "announcement": "4.1.32 已发布：网关默认改用123.weweangel.cn，完整登录页地址也能自动识别。",
-  "changelog": "4.1.32\n• 网关默认地址改为http://123.weweangel.cn\n• 可直接粘贴带#/login的浏览器登录页\n• 自动去掉前端路由并补齐/api接口路径\n• 继续兼容原来的64.90.27.64地址",
-  "downloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.1.32/customer-information-assistant-windows.zip",
+  "version": "4.1.33",
+  "publishedAt": "2026-09-24",
+  "announcement": "4.1.33 已发布：修复打开短信对话后主界面被锁住的问题。",
+  "changelog": "4.1.33\n• 短信中心改为普通独立窗口，主界面可继续操作\n• 重复点击时唤醒现有短信中心，不再重复创建窗口\n• 关闭短信中心时停止刷新并释放窗口资源\n• 保留4.1.32的网关域名兼容功能",
+  "downloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.1.33/customer-information-assistant-windows.zip",
   "backupDownloadUrl": "https://cdn.jsdelivr.net/gh/a663949987-alt/customer-information-assistant-updates@main/customer-information-assistant-windows.zip",
-  "sha256": "92AA5C0DAF5CEF7E81152FDEE56B119A2B4C05439A5E4E6C2980087504949186"
+  "sha256": "6C3ED021BB9BB1C759425EB7ACB58CF032855A1890987DFD6D05BF7F1296FC2E"
 }
