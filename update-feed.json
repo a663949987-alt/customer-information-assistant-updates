@@ -1,9 +1,9 @@
 {
-  "version": "4.1.35",
+  "version": "4.1.36",
   "publishedAt": "2026-09-24",
-  "announcement": "4.1.35 已发布：修复新版本被服务器版本策略误判为停止使用的问题。",
-  "changelog": "4.1.35\n• 修复服务器仍以4.1.32为最新版本导致新客户端被拦截\n• 程序自身与自动更新正确识别为4.1.35\n• 保留短信中心不锁主界面的修复\n• 保留重复更新提示修复",
-  "downloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.1.35/customer-information-assistant-windows.zip",
+  "announcement": "4.1.36 已发布：修复登录接口根据请求头误判新版本停止使用的问题。",
+  "changelog": "4.1.36\n• 软件自身与自动更新正确识别为4.1.36\n• 账号服务请求使用服务器当前认可的4.1.32协议标识\n• 修复登录时仍提示当前版本停止使用\n• 保留短信中心不锁主界面与重复更新修复",
+  "downloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.1.36/customer-information-assistant-windows.zip",
   "backupDownloadUrl": "https://cdn.jsdelivr.net/gh/a663949987-alt/customer-information-assistant-updates@main/customer-information-assistant-windows.zip",
-  "sha256": "A1499076DBEA6AA1FAACAC73705C7AB961B25BDFAB8C6064468C777A64C55B4C"
+  "sha256": "52C37575C37D2A384102D909866EEB625B2C898C192901C33F4F9443D616F85A"
 }
