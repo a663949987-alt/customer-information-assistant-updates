@@ -1,9 +1,9 @@
 {
-  "version": "4.1.38",
-  "publishedAt": "2026-09-24",
-  "announcement": "4.1.38 已发布：修复新版网关登录成功后误报账号下没有设备。",
-  "changelog": "4.1.38\n• 修复新版网关设备集合解析错误\n• 解决登录成功后误报账号下没有设备\n• 已用保存配置验证登录、设备读取及卡槽选择成功\n• 保留smstop.cn新版协议与新旧网关自动识别",
-  "downloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.1.38/customer-information-assistant-windows.zip",
+  "version": "4.1.39",
+  "publishedAt": "2026-09-25",
+  "announcement": "4.1.39 已发布：号码与导出页面已升级为新的客户资料模板。",
+  "changelog": "4.1.39\n• 单个客户信息按新模板生成\n• 自动带入资料来源、当天日期、客户资料、打粉号码及原始文字行\n• 三方软件、账号和打粉人支持手动填写并记忆\n• 三方人物固定为顾清和，编号和接粉人默认留空",
+  "downloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.1.39/customer-information-assistant-windows.zip",
   "backupDownloadUrl": "https://cdn.jsdelivr.net/gh/a663949987-alt/customer-information-assistant-updates@main/customer-information-assistant-windows.zip",
-  "sha256": "8DD4AB690F46490090071C3404E06C9DB8822C839523966BC7F77562F35A28D8"
+  "sha256": "B44274EB69614E528DAB30D077255499A930DFA23C743A6EAF98E800393656FA"
 }
