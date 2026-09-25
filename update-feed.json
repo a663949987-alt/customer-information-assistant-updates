@@ -1,9 +1,9 @@
 {
-  "version": "4.1.37",
+  "version": "4.1.38",
   "publishedAt": "2026-09-24",
-  "announcement": "4.1.37 已发布：新增 smstop.cn 新版短信网关协议兼容。",
-  "changelog": "4.1.37\n• 支持smstop.cn新版/api/admin网关协议\n• 粘贴/admin/#/login时自动提取正确服务器地址\n• 自动识别新旧网关登录、设备、收件、发件及发送接口\n• 保留登录协议、短信中心解锁与重复更新修复",
-  "downloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.1.37/customer-information-assistant-windows.zip",
+  "announcement": "4.1.38 已发布：修复新版网关登录成功后误报账号下没有设备。",
+  "changelog": "4.1.38\n• 修复新版网关设备集合解析错误\n• 解决登录成功后误报账号下没有设备\n• 已用保存配置验证登录、设备读取及卡槽选择成功\n• 保留smstop.cn新版协议与新旧网关自动识别",
+  "downloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.1.38/customer-information-assistant-windows.zip",
   "backupDownloadUrl": "https://cdn.jsdelivr.net/gh/a663949987-alt/customer-information-assistant-updates@main/customer-information-assistant-windows.zip",
-  "sha256": "EE4ECFAA0582E804D0D6DD8251799291A5C05D68C6D52251AA7CD1F8FEF310E8"
+  "sha256": "8DD4AB690F46490090071C3404E06C9DB8822C839523966BC7F77562F35A28D8"
 }
