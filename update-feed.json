@@ -1,9 +1,9 @@
 {
-  "version": "4.1.46",
+  "version": "4.1.47",
   "publishedAt": "2026-09-26",
-  "announcement": "4.1.46 已发布：短信中心支持选择、发送和显示 Emoji 表情。",
-  "changelog": "4.1.46\n• 短信输入区新增 Emoji 按钮和 60 个常用表情\n• 表情可插入光标位置并与文字一起发送\n• 短信气泡和联系人预览支持 Emoji 显示\n• Unicode Emoji 在网关 JSON 传输中完整保留",
-  "downloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.1.46/customer-information-assistant-windows.zip",
+  "announcement": "4.1.47 已发布：短信中心升级为微软 Fluent 彩色 Emoji 分类面板。",
+  "changelog": "4.1.47\n• 黑白字符表情替换为 Fluent Emoji 彩色 3D 图片\n• 新增表情、手势、爱心三个分类\n• 使用不透明圆角卡片、阴影和统一按钮\n• 60 张彩色资源全部内置，无需联网加载",
+  "downloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.1.47/customer-information-assistant-windows.zip",
   "backupDownloadUrl": "https://cdn.jsdelivr.net/gh/a663949987-alt/customer-information-assistant-updates@main/customer-information-assistant-windows.zip",
-  "sha256": "195C68B035F1C5DAEC9B15294B797D8326F16D3961683CA5F133A9BDCF997768"
+  "sha256": "5B8EC9588D8B2574DB61EC1A6479B41E52BE7A331B7FC3DB9DB53F7F1BE30BB5"
 }
