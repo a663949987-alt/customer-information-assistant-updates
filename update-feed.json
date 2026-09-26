@@ -1,9 +1,9 @@
 {
-  "version": "4.1.41",
+  "version": "4.1.42",
   "publishedAt": "2026-09-26",
-  "announcement": "4.1.41 已发布：短信对话新增客户姓名和手机号双行显示。",
-  "changelog": "4.1.41\n• 短信对话按手机号匹配名单及历史资料中的客户姓名\n• 对话顶部大标题显示客户姓名，小标题显示手机号和短信条数\n• 左侧联系人同步显示客户姓名及手机号\n• 保留网关防重复发送与回复统计优化",
-  "downloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.1.41/customer-information-assistant-windows.zip",
+  "announcement": "4.1.42 已发布：网关本机号码与打粉号码同步，并修复短信中心窗口层级。",
+  "changelog": "4.1.42\n• 网关设置新增本机号码选填项\n• 与号码与导出的打粉号码共用同一值，后保存的号码生效\n• 短信中心改为普通独立窗口，不再始终置于其他窗口上方\n• 保留客户姓名显示及此前网关修复",
+  "downloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.1.42/customer-information-assistant-windows.zip",
   "backupDownloadUrl": "https://cdn.jsdelivr.net/gh/a663949987-alt/customer-information-assistant-updates@main/customer-information-assistant-windows.zip",
-  "sha256": "3B47C123070C1F3675B3A6508285F001DF259B1402FA5153CBC68915A4497CA5"
+  "sha256": "FBA6EF1FF0974CEA7DC148D29898257227EEF67C0D22F9925B43425A9D4F931F"
 }
