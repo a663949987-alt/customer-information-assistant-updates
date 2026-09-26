@@ -1,9 +1,9 @@
 {
-  "version": "4.1.42",
+  "version": "4.1.43",
   "publishedAt": "2026-09-26",
-  "announcement": "4.1.42 已发布：网关本机号码与打粉号码同步，并修复短信中心窗口层级。",
-  "changelog": "4.1.42\n• 网关设置新增本机号码选填项\n• 与号码与导出的打粉号码共用同一值，后保存的号码生效\n• 短信中心改为普通独立窗口，不再始终置于其他窗口上方\n• 保留客户姓名显示及此前网关修复",
-  "downloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.1.42/customer-information-assistant-windows.zip",
+  "announcement": "4.1.43 已发布：修复短信对话顺序和时间显示，网关登录字段增加清晰标签。",
+  "changelog": "4.1.43\n• 短信对话按真实收发时间从旧到新排列\n• 每条短信显示本机时间并精确到秒\n• 兼容 Unix 秒、毫秒和标准日期时间\n• 网关地址、账号、密码和本机号码增加固定标签",
+  "downloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.1.43/customer-information-assistant-windows.zip",
   "backupDownloadUrl": "https://cdn.jsdelivr.net/gh/a663949987-alt/customer-information-assistant-updates@main/customer-information-assistant-windows.zip",
-  "sha256": "FBA6EF1FF0974CEA7DC148D29898257227EEF67C0D22F9925B43425A9D4F931F"
+  "sha256": "2F80B489E997FB37B5125CA64C180722EEEB3D144F7128E3A0C43798E70DC45A"
 }
