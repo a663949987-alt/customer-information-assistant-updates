@@ -1,9 +1,9 @@
 {
-  "version": "4.1.43",
+  "version": "4.1.44",
   "publishedAt": "2026-09-26",
-  "announcement": "4.1.43 已发布：修复短信对话顺序和时间显示，网关登录字段增加清晰标签。",
-  "changelog": "4.1.43\n• 短信对话按真实收发时间从旧到新排列\n• 每条短信显示本机时间并精确到秒\n• 兼容 Unix 秒、毫秒和标准日期时间\n• 网关地址、账号、密码和本机号码增加固定标签",
-  "downloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.1.43/customer-information-assistant-windows.zip",
+  "announcement": "4.1.44 已发布：短信网关手机未确认时等待满 1 分钟后才自动重试。",
+  "changelog": "4.1.44\n• 网关首次下发后的自动重试等待由 30 秒延长至 60 秒\n• 60 秒内提前失败也不会立即重新下发\n• 整体回执窗口延长至 125 秒\n• 降低手机确认较慢造成重复短信的风险",
+  "downloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.1.44/customer-information-assistant-windows.zip",
   "backupDownloadUrl": "https://cdn.jsdelivr.net/gh/a663949987-alt/customer-information-assistant-updates@main/customer-information-assistant-windows.zip",
-  "sha256": "2F80B489E997FB37B5125CA64C180722EEEB3D144F7128E3A0C43798E70DC45A"
+  "sha256": "B043455553E55057BE3EF1900E499047B7658D7EAE8102BDE35522D7538A2A28"
 }
