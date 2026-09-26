@@ -1,9 +1,9 @@
 {
-  "version": "4.1.45",
+  "version": "4.1.46",
   "publishedAt": "2026-09-26",
-  "announcement": "4.1.45 已发布：短信中心自动刷新可关闭，滚动和下拉操作不再被打断。",
-  "changelog": "4.1.45\n• 新增短信中心自动刷新开关并记住状态\n• 拖动滚动条或打开下拉框时暂停自动同步\n• 数据未变化时不再反复重绘界面\n• 查看旧消息时保留滚动位置，不再强制跳到底部",
-  "downloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.1.45/customer-information-assistant-windows.zip",
+  "announcement": "4.1.46 已发布：短信中心支持选择、发送和显示 Emoji 表情。",
+  "changelog": "4.1.46\n• 短信输入区新增 Emoji 按钮和 60 个常用表情\n• 表情可插入光标位置并与文字一起发送\n• 短信气泡和联系人预览支持 Emoji 显示\n• Unicode Emoji 在网关 JSON 传输中完整保留",
+  "downloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.1.46/customer-information-assistant-windows.zip",
   "backupDownloadUrl": "https://cdn.jsdelivr.net/gh/a663949987-alt/customer-information-assistant-updates@main/customer-information-assistant-windows.zip",
-  "sha256": "BEB939496304577ACD4CC8C0265026BB21BC7A7362B4A47BB3BA2DFDAFF763A9"
+  "sha256": "195C68B035F1C5DAEC9B15294B797D8326F16D3961683CA5F133A9BDCF997768"
 }
