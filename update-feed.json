@@ -1,9 +1,9 @@
 {
-  "version": "4.1.48",
+  "version": "4.1.49",
   "publishedAt": "2026-09-26",
-  "announcement": "4.1.48 已发布：修复部分网络环境下客户端漏检新版本的问题。",
-  "changelog": "4.1.48\n• 自动更新检查不再依赖在线账号登录和样本同步\n• 离线模式、账号服务不可达时也会检查更新\n• 修复备用 CDN 缓存旧清单导致的漏检",
-  "downloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.1.48/customer-information-assistant-windows.zip",
+  "announcement": "4.1.49 已发布：聊天气泡显示彩色 Fluent Emoji，消息支持选中复制。",
+  "changelog": "4.1.49\n• 聊天气泡中的常用 Emoji 改为 Fluent 彩色图片\n• 消息正文支持鼠标拖选和 Ctrl+C\n• 右键可复制整条原始消息并保留 Emoji\n• 气泡宽度按内容自适应",
+  "downloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.1.49/customer-information-assistant-windows.zip",
   "backupDownloadUrl": "https://cdn.jsdelivr.net/gh/a663949987-alt/customer-information-assistant-updates@main/customer-information-assistant-windows.zip",
-  "sha256": "2840558D7A3F867B9AB76371D98A4CE905E1759D58A7EEF9C3B1552D6FA95242"
+  "sha256": "3FE5D64EE2DDE5598339C964381C806CE7C3F998566C48E9DB527C5AAB073DB8"
 }
