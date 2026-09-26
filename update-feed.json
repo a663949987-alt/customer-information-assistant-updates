@@ -1,9 +1,9 @@
 {
-  "version": "4.1.40",
+  "version": "4.1.41",
   "publishedAt": "2026-09-26",
-  "announcement": "4.1.40 已发布：网关确认等待延长，并简化客户回复统计。",
-  "changelog": "4.1.40\n• 首次发送确认等待由12秒延长至30秒\n• 早期返回失败也会先等满30秒再决定是否重发\n• 整体回执确认窗口延长至65秒\n• 监听到名单客户新回复后直接计入回复，无需复制单位确认\n• 保留客户导出模板与新版网关兼容修复",
-  "downloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.1.40/customer-information-assistant-windows.zip",
+  "announcement": "4.1.41 已发布：短信对话新增客户姓名和手机号双行显示。",
+  "changelog": "4.1.41\n• 短信对话按手机号匹配名单及历史资料中的客户姓名\n• 对话顶部大标题显示客户姓名，小标题显示手机号和短信条数\n• 左侧联系人同步显示客户姓名及手机号\n• 保留网关防重复发送与回复统计优化",
+  "downloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.1.41/customer-information-assistant-windows.zip",
   "backupDownloadUrl": "https://cdn.jsdelivr.net/gh/a663949987-alt/customer-information-assistant-updates@main/customer-information-assistant-windows.zip",
-  "sha256": "566E70FB157C0869F4C066082469E9406B56FC4FE8A2030020E86E64C0CBD252"
+  "sha256": "3B47C123070C1F3675B3A6508285F001DF259B1402FA5153CBC68915A4497CA5"
 }
