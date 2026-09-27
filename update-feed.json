@@ -1,9 +1,9 @@
 {
-  "version": "4.1.49",
-  "publishedAt": "2026-09-26",
-  "announcement": "4.1.49 已发布：聊天气泡显示彩色 Fluent Emoji，消息支持选中复制。",
-  "changelog": "4.1.49\n• 聊天气泡中的常用 Emoji 改为 Fluent 彩色图片\n• 消息正文支持鼠标拖选和 Ctrl+C\n• 右键可复制整条原始消息并保留 Emoji\n• 气泡宽度按内容自适应",
-  "downloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.1.49/customer-information-assistant-windows.zip",
+  "version": "4.1.50",
+  "publishedAt": "2026-09-27",
+  "announcement": "4.1.50 已发布：留言板新增点赞、踩、已读统计，网关刷新频率可选。",
+  "changelog": "4.1.50\n• 留言板改为大字卡片布局\n• 新增独立点赞、踩和已读人数\n• 网关刷新支持15/30/60秒\n• 监听到回复立即计入排行榜",
+  "downloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.1.50/customer-information-assistant-windows.zip",
   "backupDownloadUrl": "https://cdn.jsdelivr.net/gh/a663949987-alt/customer-information-assistant-updates@main/customer-information-assistant-windows.zip",
-  "sha256": "3FE5D64EE2DDE5598339C964381C806CE7C3F998566C48E9DB527C5AAB073DB8"
+  "sha256": "DB31704049C5A904A14C3823C728C70A93BEFE43DDB5CAA91D7DC2EEC80144C5"
 }
