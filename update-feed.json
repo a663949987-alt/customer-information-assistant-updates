@@ -1,9 +1,9 @@
 {
-  "version": "4.1.52",
+  "version": "4.1.53",
   "publishedAt": "2026-09-28",
-  "announcement": "4.1.52 已发布：手机连接与短信网关可同时给2位不同客户发送。",
-  "changelog": "4.1.52\n• 手机连接与短信网关并行2客户\n• 两种通道各发送给1位不同客户\n• 同时检查通道并分别确认回执\n• 混合模式同时监听两边回复",
-  "downloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.1.52/customer-information-assistant-windows.zip",
+  "announcement": "4.1.53 已发布：短信中心新增客户号码复制与归属地运营商，并支持第二网关账号。",
+  "changelog": "4.1.53\n• 联系人显示客户姓名、完整号码、归属地和运营商\n• 客户号码支持单击复制\n• 可连续登录并切换第二网关账号\n• 第二网关启用后支持手机加双网关同时给3位不同客户发送",
+  "downloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.1.53/customer-information-assistant-windows.zip",
   "backupDownloadUrl": "https://cdn.jsdelivr.net/gh/a663949987-alt/customer-information-assistant-updates@main/customer-information-assistant-windows.zip",
-  "sha256": "57E67E6A684B290A69ABBAB1026594FF9899707BE7FEFD1BB60D23732ECA9A8E"
+  "sha256": "66BA0C96EFC178FE5BA768B3250974A4D03807562789592E9440080EDD34BBA4"
 }
