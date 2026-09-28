@@ -1,9 +1,9 @@
 {
-  "version": "4.1.50",
-  "publishedAt": "2026-09-27",
-  "announcement": "4.1.50 已发布：留言板新增点赞、踩、已读统计，网关刷新频率可选。",
-  "changelog": "4.1.50\n• 留言板改为大字卡片布局\n• 新增独立点赞、踩和已读人数\n• 网关刷新支持15/30/60秒\n• 监听到回复立即计入排行榜",
-  "downloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.1.50/customer-information-assistant-windows.zip",
+  "version": "4.1.51",
+  "publishedAt": "2026-09-28",
+  "announcement": "4.1.51 已发布：网关可并行发送给3位不同客户，并区分首次与再次回复提示音。",
+  "changelog": "4.1.51\n• 网关并行发送给3位不同客户\n• 完整去重和逐条回执保护\n• 再次回复使用独立双声提示音\n• 网关状态改为醒目彩色提示卡片",
+  "downloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.1.51/customer-information-assistant-windows.zip",
   "backupDownloadUrl": "https://cdn.jsdelivr.net/gh/a663949987-alt/customer-information-assistant-updates@main/customer-information-assistant-windows.zip",
-  "sha256": "DB31704049C5A904A14C3823C728C70A93BEFE43DDB5CAA91D7DC2EEC80144C5"
+  "sha256": "4FD03480A5372C208DA4B0323628A9974B76CBE32CCE69FCB3CC538B0950B678"
 }
