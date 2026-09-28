@@ -1,9 +1,9 @@
 {
-  "version": "4.1.56",
+  "version": "4.1.57",
   "publishedAt": "2026-09-28",
-  "announcement": "4.1.56 已发布：修复新版网关登录和发信状态误判，新增短信删除与清晰设备选中提示。",
-  "changelog": "4.1.56\n• 修复新版网关账号正确却误报密码错误\n• 兼容创建任务不直接返回消息编号的接口\n• 短信气泡右键新增删除短信\n• 设备切换后立即显示清晰选中状态",
-  "downloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.1.56/customer-information-assistant-windows.zip",
+  "announcement": "4.1.57 已发布：修复短信中心点击置顶无反应，置顶立即生效并持久保存。",
+  "changelog": "4.1.57\n• 修复新版网关置顶无反应\n• 置顶联系人立即移动到最上方并深色标记\n• 按钮即时切换为取消置顶\n• 自动刷新和重启软件后仍保留置顶状态",
+  "downloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.1.57/customer-information-assistant-windows.zip",
   "backupDownloadUrl": "https://cdn.jsdelivr.net/gh/a663949987-alt/customer-information-assistant-updates@main/customer-information-assistant-windows.zip",
-  "sha256": "7DDE5755754D49272C064E9474607C35885329FFAB3F6B0B8C5501D4175A0FCC"
+  "sha256": "F0F5333CE619C6793B972BEFB69C34029F8D6C454078ED1DD30AF2A76AF14ED5"
 }
