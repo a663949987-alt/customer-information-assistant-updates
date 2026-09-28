@@ -1,9 +1,9 @@
 {
-  "version": "4.1.51",
+  "version": "4.1.52",
   "publishedAt": "2026-09-28",
-  "announcement": "4.1.51 已发布：网关可并行发送给3位不同客户，并区分首次与再次回复提示音。",
-  "changelog": "4.1.51\n• 网关并行发送给3位不同客户\n• 完整去重和逐条回执保护\n• 再次回复使用独立双声提示音\n• 网关状态改为醒目彩色提示卡片",
-  "downloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.1.51/customer-information-assistant-windows.zip",
+  "announcement": "4.1.52 已发布：手机连接与短信网关可同时给2位不同客户发送。",
+  "changelog": "4.1.52\n• 手机连接与短信网关并行2客户\n• 两种通道各发送给1位不同客户\n• 同时检查通道并分别确认回执\n• 混合模式同时监听两边回复",
+  "downloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.1.52/customer-information-assistant-windows.zip",
   "backupDownloadUrl": "https://cdn.jsdelivr.net/gh/a663949987-alt/customer-information-assistant-updates@main/customer-information-assistant-windows.zip",
-  "sha256": "4FD03480A5372C208DA4B0323628A9974B76CBE32CCE69FCB3CC538B0950B678"
+  "sha256": "57E67E6A684B290A69ABBAB1026594FF9899707BE7FEFD1BB60D23732ECA9A8E"
 }
