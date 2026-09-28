@@ -1,9 +1,9 @@
 {
-  "version": "4.1.54",
+  "version": "4.1.55",
   "publishedAt": "2026-09-28",
-  "announcement": "4.1.54 已发布：置顶联系人加深显示，复制按钮移到标题旁，并支持网关 2 独立本机号码。",
-  "changelog": "4.1.54\n• 置顶联系人使用更深底色和左侧强调色条\n• 复制号码按钮移到客户姓名右侧\n• 短信中心可填写网关2独立本机号码\n• 网关2检测、SIM匹配和发送统一使用独立号码",
-  "downloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.1.54/customer-information-assistant-windows.zip",
+  "announcement": "4.1.55 已发布：手机连接、网关 1、网关 2 的再次回复分别使用三个专属提示音。",
+  "changelog": "4.1.55\n• 手机连接再次回复使用 7821 音效\n• 网关1再次回复使用 11302 音效\n• 网关2再次回复使用 3424 音效\n• 三通道独立播放，首次回复音效保持不变",
+  "downloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.1.55/customer-information-assistant-windows.zip",
   "backupDownloadUrl": "https://cdn.jsdelivr.net/gh/a663949987-alt/customer-information-assistant-updates@main/customer-information-assistant-windows.zip",
-  "sha256": "9A0A31126BBA0F158E0C74927FFF17280F76A097B8AFA11B31670ED2B7C06D12"
+  "sha256": "CEEFF8C43DF21C7F13D3FDAE2758585A22F2FD855A05D2AE89D8C5D98E769575"
 }
