@@ -1,9 +1,9 @@
 {
-  "version": "4.1.65",
+  "version": "4.1.66",
   "publishedAt": "2026-10-05",
-  "announcement": "4.1.65：开始后自动打开短信中心，网关标签页切换，修复登录过期误报。普通可选更新。",
-  "changelog": "4.1.65\n• 开始自动发送后打开短信中心\n• 网关改为标签页，忙碌时等待后切换\n• 请求固定账号与设备，防止切换串用\n• 登录过期自动续登，兼容多种令牌格式\n• 减少账号密码错误误报",
-  "downloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.1.65/customer-information-assistant-windows.zip",
+  "announcement": "4.1.66：短信气泡随内容伸缩、自然换行，网关标签改为圆角样式。普通可选更新。",
+  "changelog": "4.1.66\n• 短短信气泡贴合内容，长短信自然换行\n• 时间状态移到气泡下方\n• 保留选择复制、emoji和手动换行\n• 聊天字体跟随缩放比例\n• 网关圆角标签突出选中状态",
+  "downloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.1.66/customer-information-assistant-windows.zip",
   "backupDownloadUrl": "https://cdn.jsdelivr.net/gh/a663949987-alt/customer-information-assistant-updates@main/customer-information-assistant-windows.zip",
-  "sha256": "AE9EC2F0584AEEE094D84290244DC838D196223226FB8FC01726B9A550DB5163"
+  "sha256": "CD7E27C197F6E7B3978BD7D8A93EDE650F45B5B4D85C30E74FBCC7ED6F579A25"
 }
