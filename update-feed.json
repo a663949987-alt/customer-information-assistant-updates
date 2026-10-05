@@ -1,9 +1,9 @@
 {
-  "version": "4.1.58",
+  "version": "4.1.59",
   "publishedAt": "2026-10-05",
-  "announcement": "4.1.58 已发布：短信网关新增弱网模式，适合网络时断时续时多次核对发送任务。",
-  "changelog": "4.1.58\n• 网关设置新增弱网模式与连接耗时显示\n• 间歇断线时重试只读查询\n• 请求超时后反查发送任务并延长回执等待\n• 状态不明时锁定客户，避免重复发送",
-  "downloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.1.58/customer-information-assistant-windows.zip",
+  "announcement": "4.1.59 已发布：自动发送新增纯双网关并行，两个网关同时给不同客户发送。",
+  "changelog": "4.1.59\n• 双网关并行不再依赖手机连接\n• 网关1和网关2同时各发送给一位不同客户\n• 启动前同时检测两个网关\n• 两个网关分别监听回复并继续防止重复发送",
+  "downloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.1.59/customer-information-assistant-windows.zip",
   "backupDownloadUrl": "https://cdn.jsdelivr.net/gh/a663949987-alt/customer-information-assistant-updates@main/customer-information-assistant-windows.zip",
-  "sha256": "EA60C6133CFA3FE239338CA6EA7BA447FCA2A90B61F758C15C71FCB52EE75A5D"
+  "sha256": "C7E0A2E4654DD76FA3D1D914CFCA7E52DD29CAFC69FA7B41DEDD85490183FBDE"
 }
