@@ -1,9 +1,9 @@
 {
-  "version": "4.1.59",
+  "version": "4.1.60",
   "publishedAt": "2026-10-05",
-  "announcement": "4.1.59 已发布：自动发送新增纯双网关并行，两个网关同时给不同客户发送。",
-  "changelog": "4.1.59\n• 双网关并行不再依赖手机连接\n• 网关1和网关2同时各发送给一位不同客户\n• 启动前同时检测两个网关\n• 两个网关分别监听回复并继续防止重复发送",
-  "downloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.1.59/customer-information-assistant-windows.zip",
+  "announcement": "4.1.60 已发布：手动按钮支持双网关发送，自动发送可分别暂停两个网关。本版本为普通可选更新。",
+  "changelog": "4.1.60\n• 蓝色按钮一次调用两个网关并发送给不同客户\n• 一个网关失败时只暂停失败通道\n• 新增两个网关的独立暂停/继续按钮\n• 两个通道都暂停时保持待命，恢复后继续运行",
+  "downloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.1.60/customer-information-assistant-windows.zip",
   "backupDownloadUrl": "https://cdn.jsdelivr.net/gh/a663949987-alt/customer-information-assistant-updates@main/customer-information-assistant-windows.zip",
-  "sha256": "C7E0A2E4654DD76FA3D1D914CFCA7E52DD29CAFC69FA7B41DEDD85490183FBDE"
+  "sha256": "EBB090033C2A104F3A6D968EEF321DF8D2A17EC6EE5E8509FC9C3690A02CAF5C"
 }
