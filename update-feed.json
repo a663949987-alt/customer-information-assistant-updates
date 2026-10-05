@@ -1,9 +1,9 @@
 {
-  "version": "4.1.63",
+  "version": "4.1.64",
   "publishedAt": "2026-10-05",
-  "announcement": "4.1.63：支持网关2独立发送、任一网关＋手机连接，以及双网关＋手机连接。普通可选更新。",
-  "changelog": "4.1.63\n• 可单独选择网关1或网关2\n• 支持任一网关＋手机连接和双网关＋手机连接\n• 每个通道给不同客户发送，独立暂停与失败处理\n• 网关2独立发送不检查网关1\n• 保留大字体布局和资料续发",
-  "downloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.1.63/customer-information-assistant-windows.zip",
+  "announcement": "4.1.64：第二网关可填写独立服务器地址，两个网关可以连接不同服务器。普通可选更新。",
+  "changelog": "4.1.64\n• 第二网关新增独立地址，留空沿用第一网关\n• 登录、发送、监听和短信中心按各自服务器执行\n• 并行地址和登录令牌按服务器隔离\n• 保留网关与手机连接自由组合",
+  "downloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.1.64/customer-information-assistant-windows.zip",
   "backupDownloadUrl": "https://cdn.jsdelivr.net/gh/a663949987-alt/customer-information-assistant-updates@main/customer-information-assistant-windows.zip",
-  "sha256": "AEA38DDE0F483274BD040C77F8F9D0B7C98E9CF37CCA7D223046C6FC62A649D1"
+  "sha256": "A00647115BB6F38DF0D741C8DFC7FA7A390A8351F3DE21931AE02F5D2E1968DF"
 }
