@@ -1,9 +1,9 @@
 {
-  "version": "4.1.57",
-  "publishedAt": "2026-09-28",
-  "announcement": "4.1.57 已发布：修复短信中心点击置顶无反应，置顶立即生效并持久保存。",
-  "changelog": "4.1.57\n• 修复新版网关置顶无反应\n• 置顶联系人立即移动到最上方并深色标记\n• 按钮即时切换为取消置顶\n• 自动刷新和重启软件后仍保留置顶状态",
-  "downloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.1.57/customer-information-assistant-windows.zip",
+  "version": "4.1.58",
+  "publishedAt": "2026-10-05",
+  "announcement": "4.1.58 已发布：短信网关新增弱网模式，适合网络时断时续时多次核对发送任务。",
+  "changelog": "4.1.58\n• 网关设置新增弱网模式与连接耗时显示\n• 间歇断线时重试只读查询\n• 请求超时后反查发送任务并延长回执等待\n• 状态不明时锁定客户，避免重复发送",
+  "downloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.1.58/customer-information-assistant-windows.zip",
   "backupDownloadUrl": "https://cdn.jsdelivr.net/gh/a663949987-alt/customer-information-assistant-updates@main/customer-information-assistant-windows.zip",
-  "sha256": "F0F5333CE619C6793B972BEFB69C34029F8D6C454078ED1DD30AF2A76AF14ED5"
+  "sha256": "EA60C6133CFA3FE239338CA6EA7BA447FCA2A90B61F758C15C71FCB52EE75A5D"
 }
