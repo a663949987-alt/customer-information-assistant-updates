@@ -1,9 +1,9 @@
 {
-  "version": "4.1.62",
+  "version": "4.1.63",
   "publishedAt": "2026-10-05",
-  "announcement": "4.1.62：130% 大字体布局优化，自动发送支持选择下一份资料续发。普通可选更新。",
-  "changelog": "4.1.62\n• 保留大字体，调整留白，不增加滚动条\n• 修复底部按钮与网关设置挤压\n• 支持历史资料或其他文件续发\n• 保留原发送间隔、网关暂停状态和号码去重",
-  "downloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.1.62/customer-information-assistant-windows.zip",
+  "announcement": "4.1.63：支持网关2独立发送、任一网关＋手机连接，以及双网关＋手机连接。普通可选更新。",
+  "changelog": "4.1.63\n• 可单独选择网关1或网关2\n• 支持任一网关＋手机连接和双网关＋手机连接\n• 每个通道给不同客户发送，独立暂停与失败处理\n• 网关2独立发送不检查网关1\n• 保留大字体布局和资料续发",
+  "downloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.1.63/customer-information-assistant-windows.zip",
   "backupDownloadUrl": "https://cdn.jsdelivr.net/gh/a663949987-alt/customer-information-assistant-updates@main/customer-information-assistant-windows.zip",
-  "sha256": "39B944A9AA12B2678838D6BF46996A7729B5E7DEFB33FC4D580442EF4600F5D0"
+  "sha256": "AEA38DDE0F483274BD040C77F8F9D0B7C98E9CF37CCA7D223046C6FC62A649D1"
 }
