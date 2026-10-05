@@ -1,9 +1,9 @@
 {
-  "version": "4.1.60",
+  "version": "4.1.61",
   "publishedAt": "2026-10-05",
-  "announcement": "4.1.60 已发布：手动按钮支持双网关发送，自动发送可分别暂停两个网关。本版本为普通可选更新。",
-  "changelog": "4.1.60\n• 蓝色按钮一次调用两个网关并发送给不同客户\n• 一个网关失败时只暂停失败通道\n• 新增两个网关的独立暂停/继续按钮\n• 两个通道都暂停时保持待命，恢复后继续运行",
-  "downloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.1.60/customer-information-assistant-windows.zip",
+  "announcement": "4.1.61 已发布：双网关独立并行发送，并智能识别导出打粉号码。本版本为普通可选更新。",
+  "changelog": "4.1.61\n• 蓝色按钮一次调用两个网关并发送给不同客户\n• 一个网关失败时只暂停失败通道\n• 新增两个网关的独立暂停/继续按钮\n• 按客户实际发送网关智能识别导出打粉号码\n• 网关本机号码留空时自动识别 SIM 号码",
+  "downloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.1.61/customer-information-assistant-windows.zip",
   "backupDownloadUrl": "https://cdn.jsdelivr.net/gh/a663949987-alt/customer-information-assistant-updates@main/customer-information-assistant-windows.zip",
-  "sha256": "EBB090033C2A104F3A6D968EEF321DF8D2A17EC6EE5E8509FC9C3690A02CAF5C"
+  "sha256": "7A9A363A06B8FF9F92E481CDE3A02F3F710074D52F8C2816F9EEB0B31CED963C"
 }
