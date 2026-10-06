@@ -1,9 +1,9 @@
 {
-  "version": "4.1.67",
+  "version": "4.1.68",
   "publishedAt": "2026-10-06",
-  "announcement": "4.1.67：手机连接固定客户标签与号码复制；历史资料保留原文件名。普通可选更新。",
-  "changelog": "4.1.67\n• 手机连接固定客户标签、号码复制、可收起\n• 归属地运营商显示，最小化或切换其他应用隐藏\n• 会话识别失败时显示未匹配，避免串客户\n• 历史资料保留原文件名\n• 手机连接实机兼容性待验证",
-  "downloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.1.67/customer-information-assistant-windows.zip",
+  "announcement": "4.1.68：手机连接姓名贴在号码旁，支持带空格号码识别，减少标签闪烁。更新后重启客户端。普通可选更新。",
+  "changelog": "4.1.68\n• 支持带空格、连字符与+86的会话号码\n• 客户姓名和复制按钮贴在会话标题号码旁\n• 内容位置不变时不重画，移除识别中闪烁\n• 短暂读取失败不立即反复隐藏显示\n• 更新后退出并重启客户端\n• 最终防闪烁实机效果待使用中验证",
+  "downloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.1.68/customer-information-assistant-windows.zip",
   "backupDownloadUrl": "https://cdn.jsdelivr.net/gh/a663949987-alt/customer-information-assistant-updates@main/customer-information-assistant-windows.zip",
-  "sha256": "3AC848AB78C612340037B7C1195EFC15BF536875E55E0C7FED7FEF9A2AE4DD60"
+  "sha256": "892892CC6D3579E44B888AE3537E6ED7EC35CA55DC3523C653D552DB1B4E0833"
 }
