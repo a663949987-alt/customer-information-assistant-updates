@@ -1,9 +1,9 @@
 {
-  "version": "4.1.69",
+  "version": "4.1.70",
   "publishedAt": "2026-10-06",
-  "announcement": "4.1.69：继续网关只立即触发对应通道，手动发送遵守暂停状态。普通可选更新。",
-  "changelog": "4.1.69\n• 继续网关1/2只立即触发对应通道\n• 暂停某一路不提前触发另一路\n• 手动发送跳过已暂停通道\n• 全部暂停时提示先继续所需通道\n• 其他正在运行通道保持正常发送周期",
-  "downloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.1.69/customer-information-assistant-windows.zip",
+  "announcement": "4.1.70：短信输入框自然换行、随内容增高，文字左上对齐，发送按钮保持可见。普通可选更新。",
+  "changelog": "4.1.70\n• 短信输入框左上对齐，优化字体行距\n• 长消息自然换行、输入框适度增高\n• 超长内容在框内滚动，发送按钮保持可见\n• 清空后恢复紧凑高度\n• 保留Enter换行、Ctrl+Enter发送与Emoji输入",
+  "downloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.1.70/customer-information-assistant-windows.zip",
   "backupDownloadUrl": "https://cdn.jsdelivr.net/gh/a663949987-alt/customer-information-assistant-updates@main/customer-information-assistant-windows.zip",
-  "sha256": "DCD75497843CA60B7B16B4070C6DFC7BE8FAF5FB9F2DE9209DAF5F1D1939C30E"
+  "sha256": "7BA266453E0869844316DE1D4A2C3ECD4DA29ADE442C609718FC47BA684DA47C"
 }
