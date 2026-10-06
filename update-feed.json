@@ -1,9 +1,9 @@
 {
-  "version": "4.1.66",
-  "publishedAt": "2026-10-05",
-  "announcement": "4.1.66：短信气泡随内容伸缩、自然换行，网关标签改为圆角样式。普通可选更新。",
-  "changelog": "4.1.66\n• 短短信气泡贴合内容，长短信自然换行\n• 时间状态移到气泡下方\n• 保留选择复制、emoji和手动换行\n• 聊天字体跟随缩放比例\n• 网关圆角标签突出选中状态",
-  "downloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.1.66/customer-information-assistant-windows.zip",
+  "version": "4.1.67",
+  "publishedAt": "2026-10-06",
+  "announcement": "4.1.67：手机连接固定客户标签与号码复制；历史资料保留原文件名。普通可选更新。",
+  "changelog": "4.1.67\n• 手机连接固定客户标签、号码复制、可收起\n• 归属地运营商显示，最小化或切换其他应用隐藏\n• 会话识别失败时显示未匹配，避免串客户\n• 历史资料保留原文件名\n• 手机连接实机兼容性待验证",
+  "downloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.1.67/customer-information-assistant-windows.zip",
   "backupDownloadUrl": "https://cdn.jsdelivr.net/gh/a663949987-alt/customer-information-assistant-updates@main/customer-information-assistant-windows.zip",
-  "sha256": "CD7E27C197F6E7B3978BD7D8A93EDE650F45B5B4D85C30E74FBCC7ED6F579A25"
+  "sha256": "3AC848AB78C612340037B7C1195EFC15BF536875E55E0C7FED7FEF9A2AE4DD60"
 }
