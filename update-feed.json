@@ -1,9 +1,9 @@
 {
-  "version": "4.1.72",
+  "version": "4.1.73",
   "publishedAt": "2026-10-07",
-  "announcement": "4.1.72：新增低负载变化触发监听，保留老快速模式；右键监听切换。普通可选更新。",
-  "changelog": "4.1.72\n• 右键监听切换新模式/老模式，自动保存\n• 新模式手机短信库变化触发＋5秒兜底\n• 新模式网关1秒轮询，缓存设备列表\n• 老模式手机0.1秒、网关0.2秒轮询\n• 缓存统计与客户匹配，减少重复解密与刷新\n• 首次和再次回复提示音保留",
-  "downloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.1.72/customer-information-assistant-windows.zip",
+  "announcement": "4.1.73：两个监听模式；网关今天/昨天/全部筛选，置顶立即本机生效后同步。普通可选更新。",
+  "changelog": "4.1.73\n• 右键监听切换新模式/老模式，自动保存\n• 新模式手机变化触发＋5秒兜底，网关1秒轮询\n• 老模式手机0.1秒、网关0.2秒轮询\n• 时间筛选改为今天、昨天、全部\n• 置顶立即本机生效，后台同步，不被自动刷新忽略\n• 同步失败明确提示，保留首次和再次回复音效",
+  "downloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.1.73/customer-information-assistant-windows.zip",
   "backupDownloadUrl": "https://cdn.jsdelivr.net/gh/a663949987-alt/customer-information-assistant-updates@main/customer-information-assistant-windows.zip",
-  "sha256": "BB8E631A1FCADF518358DD2AB3A388F2C342FCD85D309655AF3C3BF5BC577741"
+  "sha256": "8C597936C2A3D4FCEB4EC8EB214540562FC9568548BE950DC628961857113465"
 }
