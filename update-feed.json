@@ -1,9 +1,9 @@
 {
-  "version": "4.1.73",
+  "version": "4.1.74",
   "publishedAt": "2026-10-07",
-  "announcement": "4.1.73：两个监听模式；网关今天/昨天/全部筛选，置顶立即本机生效后同步。普通可选更新。",
-  "changelog": "4.1.73\n• 右键监听切换新模式/老模式，自动保存\n• 新模式手机变化触发＋5秒兜底，网关1秒轮询\n• 老模式手机0.1秒、网关0.2秒轮询\n• 时间筛选改为今天、昨天、全部\n• 置顶立即本机生效，后台同步，不被自动刷新忽略\n• 同步失败明确提示，保留首次和再次回复音效",
-  "downloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.1.73/customer-information-assistant-windows.zip",
-  "backupDownloadUrl": "https://raw.githubusercontent.com/a663949987-alt/customer-information-assistant-updates/3b8ea1f7234d341db367b966da616bcb9c8c34d5/customer-information-assistant-windows.zip",
-  "sha256": "8C597936C2A3D4FCEB4EC8EB214540562FC9568548BE950DC628961857113465"
+  "announcement": "4.1.74：修复日期标签选中状态，完整聊天记录日期分隔，昨天客户今天回复计入今天。普通可选更新。",
+  "changelog": "4.1.74\n• 日期按钮立即显示选中颜色\n• 今天/昨天仅筛选联系人，聊天记录完整保留\n• 聊天记录增加日期分隔\n• 昨天发送、今天回复计入今天，重复回复去重\n• 非强制更新，不停用旧版本",
+  "downloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.1.74/customer-information-assistant-windows.zip",
+  "backupDownloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.1.74/customer-information-assistant-windows.zip",
+  "sha256": "A5F8B07E529F7CEAC0EBFD55DC2B06B5BF00E9B516567AB587327C7A88A7168B"
 }
