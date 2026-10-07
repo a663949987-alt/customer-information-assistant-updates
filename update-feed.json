@@ -1,9 +1,9 @@
 {
-  "version": "4.1.74",
+  "version": "4.1.75",
   "publishedAt": "2026-10-07",
-  "announcement": "4.1.74：修复日期标签选中状态，完整聊天记录日期分隔，昨天客户今天回复计入今天。普通可选更新。",
-  "changelog": "4.1.74\n• 日期按钮立即显示选中颜色\n• 今天/昨天仅筛选联系人，聊天记录完整保留\n• 聊天记录增加日期分隔\n• 昨天发送、今天回复计入今天，重复回复去重\n• 非强制更新，不停用旧版本",
-  "downloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.1.74/customer-information-assistant-windows.zip",
-  "backupDownloadUrl": "https://raw.githubusercontent.com/a663949987-alt/customer-information-assistant-updates/381c78a7fca8471535fa4d5ef5aa9db25c15bc8c/customer-information-assistant-windows.zip",
-  "sha256": "A5F8B07E529F7CEAC0EBFD55DC2B06B5BF00E9B516567AB587327C7A88A7168B"
+  "announcement": "4.1.75：修复旧资料客户再次回复没有提示音，三个通道均匹配历史资料。普通可选更新。",
+  "changelog": "4.1.75\n• 修复换资料后旧客户再次回复不响铃\n• 三个通道匹配当前及历史资料，保留专属音效\n• 重复客户记录不会重复计算\n• 消息去重和首次回复统计保持不变\n• 非强制更新，不停用旧版本",
+  "downloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.1.75/customer-information-assistant-windows.zip",
+  "backupDownloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.1.75/customer-information-assistant-windows.zip",
+  "sha256": "F5718BC7EB31566F742827EE6FA5EDEAA33F3243FCA7D89E1985CC83FCDADD37"
 }
