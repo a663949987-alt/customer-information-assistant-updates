@@ -1,9 +1,9 @@
 {
-  "version": "4.1.71",
+  "version": "4.1.72",
   "publishedAt": "2026-10-07",
-  "announcement": "4.1.71：短信中心显示会话数、已回复客户数，只计发过短信的资料客户。普通可选更新。",
-  "changelog": "4.1.71\n• 标题下显示会话数和已回复客户数\n• 按当前网关、设备和时间范围统计\n• 只计同时有发送和接收记录的资料客户\n• 重复回复只计一位，服务号码不计入",
-  "downloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.1.71/customer-information-assistant-windows.zip",
+  "announcement": "4.1.72：新增低负载变化触发监听，保留老快速模式；右键监听切换。普通可选更新。",
+  "changelog": "4.1.72\n• 右键监听切换新模式/老模式，自动保存\n• 新模式手机短信库变化触发＋5秒兜底\n• 新模式网关1秒轮询，缓存设备列表\n• 老模式手机0.1秒、网关0.2秒轮询\n• 缓存统计与客户匹配，减少重复解密与刷新\n• 首次和再次回复提示音保留",
+  "downloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.1.72/customer-information-assistant-windows.zip",
   "backupDownloadUrl": "https://cdn.jsdelivr.net/gh/a663949987-alt/customer-information-assistant-updates@main/customer-information-assistant-windows.zip",
-  "sha256": "E1E3238C33521FD1CCC525D300D94E6E0C971DD7658944871C45ABEF3D2120C7"
+  "sha256": "BB8E631A1FCADF518358DD2AB3A388F2C342FCD85D309655AF3C3BF5BC577741"
 }
