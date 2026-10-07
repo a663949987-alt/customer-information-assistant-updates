@@ -1,9 +1,9 @@
 {
-  "version": "4.1.70",
-  "publishedAt": "2026-10-06",
-  "announcement": "4.1.70：短信输入框自然换行、随内容增高，文字左上对齐，发送按钮保持可见。普通可选更新。",
-  "changelog": "4.1.70\n• 短信输入框左上对齐，优化字体行距\n• 长消息自然换行、输入框适度增高\n• 超长内容在框内滚动，发送按钮保持可见\n• 清空后恢复紧凑高度\n• 保留Enter换行、Ctrl+Enter发送与Emoji输入",
-  "downloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.1.70/customer-information-assistant-windows.zip",
+  "version": "4.1.71",
+  "publishedAt": "2026-10-07",
+  "announcement": "4.1.71：短信中心显示会话数、已回复客户数，只计发过短信的资料客户。普通可选更新。",
+  "changelog": "4.1.71\n• 标题下显示会话数和已回复客户数\n• 按当前网关、设备和时间范围统计\n• 只计同时有发送和接收记录的资料客户\n• 重复回复只计一位，服务号码不计入",
+  "downloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.1.71/customer-information-assistant-windows.zip",
   "backupDownloadUrl": "https://cdn.jsdelivr.net/gh/a663949987-alt/customer-information-assistant-updates@main/customer-information-assistant-windows.zip",
-  "sha256": "7BA266453E0869844316DE1D4A2C3ECD4DA29ADE442C609718FC47BA684DA47C"
+  "sha256": "E1E3238C33521FD1CCC525D300D94E6E0C971DD7658944871C45ABEF3D2120C7"
 }
