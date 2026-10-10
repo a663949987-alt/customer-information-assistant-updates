@@ -4,6 +4,6 @@
   "announcement": "4.1.77：手机标签去边框，网关输入框加高、字体放大，发送按钮同步扩展。普通可选更新。",
   "changelog": "4.1.77\n• 手机客户标签去掉外圈框，按钮更简洁\n• 网关输入框默认加高，长文字自动扩展\n• 输入字体放大，发送按钮同步加高\n• 非强制更新，不停用旧版本",
   "downloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.1.77/customer-information-assistant-windows.zip",
-  "backupDownloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.1.77/customer-information-assistant-windows.zip",
+  "backupDownloadUrl": "https://raw.githubusercontent.com/a663949987-alt/customer-information-assistant-updates/a4fcd444b277f203ef5a478ca6eba86a8027942f/customer-information-assistant-windows.zip",
   "sha256": "7E2129E731E32F238750984871ABC22BC1D579A9F397B19C53F789A6FBC370F7"
 }
