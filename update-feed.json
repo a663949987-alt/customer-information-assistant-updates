@@ -4,6 +4,6 @@
   "announcement": "4.1.78：手机连接客户标签透明背景，去掉白色底块。普通可选更新。",
   "changelog": "4.1.78\n• 手机连接客户标签改为透明背景\n• 保留客户名、归属地运营商和复制按钮\n• 保留窗口跟随及会话匹配逻辑\n• 非强制更新，不停用旧版本",
   "downloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.1.78/customer-information-assistant-windows.zip",
-  "backupDownloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.1.78/customer-information-assistant-windows.zip",
+  "backupDownloadUrl": "https://raw.githubusercontent.com/a663949987-alt/customer-information-assistant-updates/9bfcf979ed853afa6d77635296de676dfa5a36a5/customer-information-assistant-windows.zip",
   "sha256": "E3146F1AE180D94C49F4058570428DD03F99950EDE93FBCFFA232E2D527D566A"
 }
