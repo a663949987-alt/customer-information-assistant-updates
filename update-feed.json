@@ -1,9 +1,9 @@
 {
-  "version": "4.1.76",
+  "version": "4.1.77",
   "publishedAt": "2026-10-10",
-  "announcement": "4.1.76：手机标签显示归属地运营商，手机打粉号码独立，自动随机话术及醒目网关新回复提醒。普通可选更新。",
-  "changelog": "4.1.76\n• 手机标签直接显示归属地与运营商\n• 手机连接打粉号码独立保存，不覆盖网关号码\n• 自动发送新增随机话术开关，重试沿用原话术\n• 网关新回复蓝底白字提醒保留一分钟，未读标记加大\n• 非强制更新，不停用旧版本",
-  "downloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.1.76/customer-information-assistant-windows.zip",
-  "backupDownloadUrl": "https://raw.githubusercontent.com/a663949987-alt/customer-information-assistant-updates/300eb28129c0c6fe82dc641781dc96a52077817f/customer-information-assistant-windows.zip",
-  "sha256": "7B606C863CB9A8217463565EBF290B5D22294D0270DB3BAD21F3CFE809A2EF1F"
+  "announcement": "4.1.77：手机标签去边框，网关输入框加高、字体放大，发送按钮同步扩展。普通可选更新。",
+  "changelog": "4.1.77\n• 手机客户标签去掉外圈框，按钮更简洁\n• 网关输入框默认加高，长文字自动扩展\n• 输入字体放大，发送按钮同步加高\n• 非强制更新，不停用旧版本",
+  "downloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.1.77/customer-information-assistant-windows.zip",
+  "backupDownloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.1.77/customer-information-assistant-windows.zip",
+  "sha256": "7E2129E731E32F238750984871ABC22BC1D579A9F397B19C53F789A6FBC370F7"
 }
