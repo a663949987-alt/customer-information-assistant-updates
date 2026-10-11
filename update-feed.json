@@ -4,6 +4,6 @@
   "announcement": "4.1.79：导出匹配客户历史发送号码，三个通道独立保存本机号码，手机成功发送后延迟1秒刷新。普通可选更新。",
   "changelog": "4.1.79\n• 导出使用客户历史发送本机号码，缺记录则留空\n• 发送前固定号码快照，修改设置不覆盖原记录\n• 手机连接、网关1、网关2独立保存本机号码\n• 手机自动发送确认成功后延迟1秒刷新\n• 非强制更新，不停用旧版本",
   "downloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.1.79/customer-information-assistant-windows.zip",
-  "backupDownloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.1.79/customer-information-assistant-windows.zip",
+  "backupDownloadUrl": "https://raw.githubusercontent.com/a663949987-alt/customer-information-assistant-updates/18ef1b7b30568fe41f594b9f01c226f20a4306d8/customer-information-assistant-windows.zip",
   "sha256": "7E7E446F9ABB70EFBB44EBE1DF0CCBF680DDA708D015B4263F8E8FEB83C56D95"
 }
