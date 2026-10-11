@@ -4,6 +4,6 @@
   "announcement": "4.1.80：网关独立登出，手机标签分层显示本机号码并可修改。普通可选更新。",
   "changelog": "4.1.80\n• 网关1、网关2独立登出并停止自动重连\n• 区分服务端登出成功与仅本机断开\n• 手机标签分层排版，本机号码可修改\n• 非强制更新，不停用旧版本",
   "downloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.1.80/customer-information-assistant-windows.zip",
-  "backupDownloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.1.80/customer-information-assistant-windows.zip",
+  "backupDownloadUrl": "https://raw.githubusercontent.com/a663949987-alt/customer-information-assistant-updates/ee0ad862f4f36f34240c79d7c2cf01d0a32d0563/customer-information-assistant-windows.zip",
   "sha256": "47E29995A7F40B2EC9459B67198E073421AB15D5F153B31DD59DE92F175FE52B"
 }
