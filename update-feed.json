@@ -1,9 +1,9 @@
 {
-  "version": "4.1.91",
+  "version": "4.1.92",
   "publishedAt": "2026-10-12",
-  "announcement": "4.1.91：聊天长图导出，网关窗口支持更窄尺寸与自动重排。普通可选更新。",
-  "changelog": "4.1.91\n• 网关对话、置顶及历史记录PNG长图导出\n• 网关最小宽度降至640，工具栏及底部按钮自动换行\n• 窄侧栏搜索筛选分行显示\n• 非强制更新",
-  "downloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.1.91/customer-information-assistant-windows.zip",
-  "backupDownloadUrl": "https://raw.githubusercontent.com/a663949987-alt/customer-information-assistant-updates/f9ade59f4f3cb92c851fc0578a87f1679aeb6585/customer-information-assistant-windows.zip",
-  "sha256": "35FA1021E32B8BB2630D0D36A059AA1CD4824ECAEF222C634B640E3D39628FCD"
+  "announcement": "4.1.92：历史聊天分类与气泡界面，修复号码前缀拆分，网关列表右键操作。普通可选更新。",
+  "changelog": "4.1.92\n• 历史聊天今天/昨天/全部分类与气泡界面\n• +86号码归一化合并收发记录与长图\n• 网关列表右键置顶、删除、TXT和长图导出\n• 非强制更新",
+  "downloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.1.92/customer-information-assistant-windows.zip",
+  "backupDownloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.1.92/customer-information-assistant-windows.zip",
+  "sha256": "5DE9A77F194F0AE9854BE084AA05C161ABA3839A796F8782B373801AB0BC8E85"
 }
