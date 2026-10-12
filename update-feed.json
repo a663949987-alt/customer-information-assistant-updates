@@ -1,9 +1,9 @@
 {
-  "version": "4.1.99",
-  "publishedAt": "2026-10-12",
-  "announcement": "4.1.99：号码工具可分别保存三个通道打粉号码，优化网关发信框及右键菜单、历史任职查询。普通可选更新。",
-  "changelog": "4.1.99\n• 号码工具分别编辑保存网关1、网关2、手机连接打粉号码，历史导出仍按实际发送记录匹配\n• 网关发信框默认单行并随内容增高，短信右键菜单统一主题\n• 历史任职查询自动识别所在地，补充别称检索和网页搜索入口\n• 非强制更新",
-  "downloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.1.99/customer-information-assistant-windows.zip",
-  "backupDownloadUrl": "https://raw.githubusercontent.com/a663949987-alt/customer-information-assistant-updates/c8ae6cc/customer-information-assistant-windows.zip",
-  "sha256": "11CD073CC958C494516E3D5309DC8F28E1772D3AADD274456F3B81E416E2530B"
+  "version": "4.1.100",
+  "publishedAt": "2026-10-13",
+  "announcement": "4.1.100：自助查询可直接打开，网关与手机连接资料条更紧凑。普通可选更新。",
+  "changelog": "4.1.100\n• 自助查询无可复制号码时仍打开网页\n• 网关顶部上移、联系人区加宽、底部资料条缩小\n• 手机连接底部资料条缩小，历史任职无结果时可打开百度搜索\n• 非强制更新",
+  "downloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.1.100/customer-information-assistant-windows.zip",
+  "backupDownloadUrl": "",
+  "sha256": "D0DF4DEEEECD15715E3FFF33DBB8B5F024321F893417A23F6C14718E6C2B52DB"
 }
