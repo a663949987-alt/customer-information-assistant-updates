@@ -1,9 +1,9 @@
 {
-  "version": "4.1.82",
-  "publishedAt": "2026-10-11",
-  "announcement": "4.1.82：网关与手机连接姓名旁显示老师、医护、相亲资料类型。普通可选更新。",
-  "changelog": "4.1.82\n• 网关列表与对话标题显示资料类型\n• 手机连接标签同步显示资料类型\n• 医生与护士统一显示为医护\n• 当前、历史资料参与匹配，不改原始姓名\n• 非强制更新",
-  "downloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.1.82/customer-information-assistant-windows.zip",
-  "backupDownloadUrl": "https://raw.githubusercontent.com/a663949987-alt/customer-information-assistant-updates/6acbc51084f7a0538c114b1ea2ce23e457c58197/customer-information-assistant-windows.zip",
-  "sha256": "BE999B135C439DBA1FEE74E1C9372F2AF4212DC0FBD2C61890F2176F805DF18A"
+  "version": "4.1.83",
+  "publishedAt": "2026-10-12",
+  "announcement": "4.1.83：客户详情展开、导入姓名纠错、网关短信本地加密备份。普通可选更新。",
+  "changelog": "4.1.83\n• 网关与手机连接展开单位、年龄详情\n• 排除含数字的姓名，修复编号首列名单识别\n• 网关短信加密备份，登录失败也可查看\n• 仅成功切换不同账号后替换对应备份\n• 非强制更新",
+  "downloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.1.83/customer-information-assistant-windows.zip",
+  "backupDownloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.1.83/customer-information-assistant-windows.zip",
+  "sha256": "3EC47C26E2206BE2AFFFD72E3FA623D57FFC66CF3A5447A66ED60644CBAC3880"
 }
