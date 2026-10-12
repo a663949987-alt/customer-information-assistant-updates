@@ -4,6 +4,6 @@
   "announcement": "4.1.84：玻璃风格短信中心、详情默认展开、姓名单位复制、当前及置顶对话TXT导出。普通可选更新。",
   "changelog": "4.1.84\n• 玻璃风格短信中心，圆角输入及轻量按钮\n• 默认展开详情，姓名与单位可复制\n• 当前对话、置顶会话TXT导出，支持本地备份\n• 取消日期筛选，显示全部历史并支持姓名搜索\n• 非强制更新",
   "downloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.1.84/customer-information-assistant-windows.zip",
-  "backupDownloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.1.84/customer-information-assistant-windows.zip",
+  "backupDownloadUrl": "https://raw.githubusercontent.com/a663949987-alt/customer-information-assistant-updates/1cc7960b2f27f0414acd080bf5cf26d9b5e1b2b1/customer-information-assistant-windows.zip",
   "sha256": "3926D3400B73A8CB5D430697A75613C64642F01D2DC6CFCDD208E235BBB57D0B"
 }
