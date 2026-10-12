@@ -1,9 +1,9 @@
 {
-  "version": "4.1.86",
+  "version": "4.1.87",
   "publishedAt": "2026-10-12",
-  "announcement": "4.1.86：手机连接标签紧凑显示，详情与复制操作放入独立浮层。普通可选更新。",
-  "changelog": "4.1.86\n• 手机连接标签两行紧凑显示\n• 详情与复制按钮移入独立浮层\n• 点击外部、切换客户时关闭浮层\n• 标签限制宽度，避让原生按钮\n• 非强制更新",
-  "downloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.1.86/customer-information-assistant-windows.zip",
-  "backupDownloadUrl": "https://raw.githubusercontent.com/a663949987-alt/customer-information-assistant-updates/e50841743c42bac4aec850f32c99e98f8beab298/customer-information-assistant-windows.zip",
-  "sha256": "75C0073B07D01BBB96A0E0257DFF4587B0C4F40F83A9327D55556304C0376A63"
+  "announcement": "4.1.87：网关彩色头像与短信预览，网关和手机连接底部客户资料条。普通可选更新。",
+  "changelog": "4.1.87\n• 网关彩色圆头像、姓名标题和最新短信预览\n• 聊天顶部头像，全宽输入与表情/箭头发送\n• 网关与手机连接底部客户资料条及复制操作\n• 设备和运营商信息放左侧折叠区\n• 非强制更新",
+  "downloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.1.87/customer-information-assistant-windows.zip",
+  "backupDownloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.1.87/customer-information-assistant-windows.zip",
+  "sha256": "2BC2900B1517478F77D42B04696D07DE712730087EB7DBD7A35000DA66917671"
 }
