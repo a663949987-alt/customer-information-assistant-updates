@@ -1,9 +1,9 @@
 {
-  "version": "4.1.94",
+  "version": "4.1.95",
   "publishedAt": "2026-10-12",
-  "announcement": "4.1.94：手机连接客户标签切换窗口后仍跟随显示。普通可选更新。",
-  "changelog": "4.1.94\n• 客户标签不再因手机连接失去焦点而隐藏\n• 使用普通窗口层级跟随，不全局置顶\n• 最小化或隐藏手机连接时标签隐藏\n• 非强制更新",
-  "downloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.1.94/customer-information-assistant-windows.zip",
-  "backupDownloadUrl": "https://raw.githubusercontent.com/a663949987-alt/customer-information-assistant-updates/9ada1b4c14e9f8a47393fe4bfb0d84a9aec05fd1/customer-information-assistant-windows.zip",
-  "sha256": "64D2FF3420864BD970543AA04C5668E3AEBFDFA4A29B9CA7518AE227E171256B"
+  "announcement": "4.1.95：手机连接当前会话与历史记录查看，支持TXT和长图导出。普通可选更新。",
+  "changelog": "4.1.95\n• 手机连接当前记录、历史记录入口\n• 已同步收发正文与时间，聊天气泡查看\n• TXT和PNG长图导出，本机加密历史保存\n• 非强制更新",
+  "downloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.1.95/customer-information-assistant-windows.zip",
+  "backupDownloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.1.95/customer-information-assistant-windows.zip",
+  "sha256": "882710584482745147E982E0B609C1C2C3687B42EF552D8BA9285F99C786BF90"
 }
