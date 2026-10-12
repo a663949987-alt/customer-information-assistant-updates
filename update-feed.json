@@ -4,6 +4,6 @@
   "announcement": "4.1.88：手机连接资料条贴近窗口、文字对齐，网关设备状态提示。普通可选更新。",
   "changelog": "4.1.88\n• 手机连接底部资料条贴近窗口下沿\n• 姓名号码左对齐，复制区收紧\n• 网关显示选中设备在线/离线状态\n• 非强制更新",
   "downloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.1.88/customer-information-assistant-windows.zip",
-  "backupDownloadUrl": "https://raw.githubusercontent.com/a663949987-alt/customer-information-assistant-updates/00d10446ebcb383950887d5868cd0d68569f404c/customer-information-assistant-windows.zip",
+  "backupDownloadUrl": "https://raw.githubusercontent.com/a663949987-alt/customer-information-assistant-updates/5d57e2d762afbad7d8210e0e88b67afafdd0b06e/customer-information-assistant-windows.zip",
   "sha256": "3A1503BF22E32BF1063DB87DDE94C80132FA15340E51CC72CC1A56AF4754B8BE"
 }
