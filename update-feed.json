@@ -1,9 +1,9 @@
 {
-  "version": "4.1.98",
+  "version": "4.1.99",
   "publishedAt": "2026-10-12",
-  "announcement": "4.1.98：底部“更多”可查询历史任职公开资料，修复网关新导入客户姓名匹配。普通可选更新。",
-  "changelog": "4.1.98\n• 网关与手机连接底部增加“更多”，查询2020—2024年校长/院长及教育局/卫健委副职公开资料\n• 优先显示2022—2024年的校长/院长，附原始来源，第一副职排名待官网核对\n• 网关新导入客户资料后可重新匹配姓名\n• 非强制更新",
-  "downloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.1.98/customer-information-assistant-windows.zip",
-  "backupDownloadUrl": "https://raw.githubusercontent.com/a663949987-alt/customer-information-assistant-updates/3708f4c/customer-information-assistant-windows.zip",
-  "sha256": "97F41567C8090D8A2684BBA48915AACB6BF3DC8AB09FD94F1B0340824291BF71"
+  "announcement": "4.1.99：号码工具可分别保存三个通道打粉号码，优化网关发信框及右键菜单、历史任职查询。普通可选更新。",
+  "changelog": "4.1.99\n• 号码工具分别编辑保存网关1、网关2、手机连接打粉号码，历史导出仍按实际发送记录匹配\n• 网关发信框默认单行并随内容增高，短信右键菜单统一主题\n• 历史任职查询自动识别所在地，补充别称检索和网页搜索入口\n• 非强制更新",
+  "downloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.1.99/customer-information-assistant-windows.zip",
+  "backupDownloadUrl": "",
+  "sha256": "11CD073CC958C494516E3D5309DC8F28E1772D3AADD274456F3B81E416E2530B"
 }
