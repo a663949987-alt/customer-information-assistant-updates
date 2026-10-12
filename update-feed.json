@@ -1,9 +1,9 @@
 {
-  "version": "4.1.84",
+  "version": "4.1.85",
   "publishedAt": "2026-10-12",
-  "announcement": "4.1.84：玻璃风格短信中心、详情默认展开、姓名单位复制、当前及置顶对话TXT导出。普通可选更新。",
-  "changelog": "4.1.84\n• 玻璃风格短信中心，圆角输入及轻量按钮\n• 默认展开详情，姓名与单位可复制\n• 当前对话、置顶会话TXT导出，支持本地备份\n• 取消日期筛选，显示全部历史并支持姓名搜索\n• 非强制更新",
-  "downloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.1.84/customer-information-assistant-windows.zip",
-  "backupDownloadUrl": "https://raw.githubusercontent.com/a663949987-alt/customer-information-assistant-updates/1cc7960b2f27f0414acd080bf5cf26d9b5e1b2b1/customer-information-assistant-windows.zip",
-  "sha256": "3926D3400B73A8CB5D430697A75613C64642F01D2DC6CFCDD208E235BBB57D0B"
+  "announcement": "4.1.85：浅色/深色外观切换，联系人、聊天和客户资料重新分层。普通可选更新。",
+  "changelog": "4.1.85\n• 浅色/深色即时切换并记住选择\n• 联系人、聊天、客户资料三栏重排\n• 设备设置折叠，复制和导出移入资料侧栏\n• 去掉彩色光斑和紫色置顶，紧凑发送按钮\n• 非强制更新",
+  "downloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.1.85/customer-information-assistant-windows.zip",
+  "backupDownloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.1.85/customer-information-assistant-windows.zip",
+  "sha256": "B16769A6A1A7904093F1180CB8ADA5E3DD3AFBF2CAF5220B1448EC78E1A92FCB"
 }
