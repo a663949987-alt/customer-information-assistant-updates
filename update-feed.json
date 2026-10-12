@@ -4,6 +4,6 @@
   "announcement": "4.1.85：浅色/深色外观切换，联系人、聊天和客户资料重新分层。普通可选更新。",
   "changelog": "4.1.85\n• 浅色/深色即时切换并记住选择\n• 联系人、聊天、客户资料三栏重排\n• 设备设置折叠，复制和导出移入资料侧栏\n• 去掉彩色光斑和紫色置顶，紧凑发送按钮\n• 非强制更新",
   "downloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.1.85/customer-information-assistant-windows.zip",
-  "backupDownloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.1.85/customer-information-assistant-windows.zip",
+  "backupDownloadUrl": "https://raw.githubusercontent.com/a663949987-alt/customer-information-assistant-updates/a3db8ec68dc9ca7169c491d809eb28db555131e4/customer-information-assistant-windows.zip",
   "sha256": "B16769A6A1A7904093F1180CB8ADA5E3DD3AFBF2CAF5220B1448EC78E1A92FCB"
 }
