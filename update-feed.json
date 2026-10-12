@@ -1,9 +1,9 @@
 {
-  "version": "4.1.89",
+  "version": "4.1.90",
   "publishedAt": "2026-10-12",
-  "announcement": "4.1.89：离线设备聊天修复、本机聊天历史保存与独立查看器。普通可选更新。",
-  "changelog": "4.1.89\n• 离线设备可查看已同步记录\n• 本机加密累计保存短信，旧账号历史归档\n• 历史聊天记录查看器、搜索与TXT导出\n• 非强制更新",
-  "downloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.1.89/customer-information-assistant-windows.zip",
-  "backupDownloadUrl": "https://raw.githubusercontent.com/a663949987-alt/customer-information-assistant-updates/b83fa2cae66b40409444208f65d39a18f03e5ae6/customer-information-assistant-windows.zip",
-  "sha256": "B2EC527DA7B1A0ECB998A8FF4B33FFAD2D1CD7BC2FD096DC7824E6601CF02E7B"
+  "announcement": "4.1.90：网关对话、置顶会话和历史记录支持PNG长图导出。普通可选更新。",
+  "changelog": "4.1.90\n• 网关对话与置顶会话可导出PNG长图\n• 历史查看器新增导出长图按钮\n• 包含客户资料、消息与时间，超长自动分段\n• 非强制更新",
+  "downloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.1.90/customer-information-assistant-windows.zip",
+  "backupDownloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.1.90/customer-information-assistant-windows.zip",
+  "sha256": "11959B44860D030BF002C3E11CB7242ECF967235AB71E98899398087CA7DBB2A"
 }
