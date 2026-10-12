@@ -1,9 +1,9 @@
 {
-  "version": "4.1.83",
+  "version": "4.1.84",
   "publishedAt": "2026-10-12",
-  "announcement": "4.1.83：客户详情展开、导入姓名纠错、网关短信本地加密备份。普通可选更新。",
-  "changelog": "4.1.83\n• 网关与手机连接展开单位、年龄详情\n• 排除含数字的姓名，修复编号首列名单识别\n• 网关短信加密备份，登录失败也可查看\n• 仅成功切换不同账号后替换对应备份\n• 非强制更新",
-  "downloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.1.83/customer-information-assistant-windows.zip",
-  "backupDownloadUrl": "https://raw.githubusercontent.com/a663949987-alt/customer-information-assistant-updates/919035cef78934a885dc0b9673cc53616bd5b954/customer-information-assistant-windows.zip",
-  "sha256": "3EC47C26E2206BE2AFFFD72E3FA623D57FFC66CF3A5447A66ED60644CBAC3880"
+  "announcement": "4.1.84：玻璃风格短信中心、详情默认展开、姓名单位复制、当前及置顶对话TXT导出。普通可选更新。",
+  "changelog": "4.1.84\n• 玻璃风格短信中心，圆角输入及轻量按钮\n• 默认展开详情，姓名与单位可复制\n• 当前对话、置顶会话TXT导出，支持本地备份\n• 取消日期筛选，显示全部历史并支持姓名搜索\n• 非强制更新",
+  "downloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.1.84/customer-information-assistant-windows.zip",
+  "backupDownloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.1.84/customer-information-assistant-windows.zip",
+  "sha256": "3926D3400B73A8CB5D430697A75613C64642F01D2DC6CFCDD208E235BBB57D0B"
 }
