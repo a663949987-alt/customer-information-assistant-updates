@@ -4,6 +4,6 @@
   "announcement": "4.1.95：手机连接当前会话与历史记录查看，支持TXT和长图导出。普通可选更新。",
   "changelog": "4.1.95\n• 手机连接当前记录、历史记录入口\n• 已同步收发正文与时间，聊天气泡查看\n• TXT和PNG长图导出，本机加密历史保存\n• 非强制更新",
   "downloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.1.95/customer-information-assistant-windows.zip",
-  "backupDownloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.1.95/customer-information-assistant-windows.zip",
+  "backupDownloadUrl": "https://raw.githubusercontent.com/a663949987-alt/customer-information-assistant-updates/9759075e4f3ffbc96a27af2d03e8718c8169c827/customer-information-assistant-windows.zip",
   "sha256": "882710584482745147E982E0B609C1C2C3687B42EF552D8BA9285F99C786BF90"
 }
