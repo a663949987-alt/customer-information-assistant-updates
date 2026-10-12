@@ -4,6 +4,6 @@
   "announcement": "4.1.100：自助查询可直接打开，网关与手机连接资料条更紧凑。普通可选更新。",
   "changelog": "4.1.100\n• 自助查询无可复制号码时仍打开网页\n• 网关顶部上移、联系人区加宽、底部资料条缩小\n• 手机连接底部资料条缩小，历史任职无结果时可打开百度搜索\n• 非强制更新",
   "downloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.1.100/customer-information-assistant-windows.zip",
-  "backupDownloadUrl": "",
+  "backupDownloadUrl": "https://raw.githubusercontent.com/a663949987-alt/customer-information-assistant-updates/f9ce6bb/customer-information-assistant-windows.zip",
   "sha256": "D0DF4DEEEECD15715E3FFF33DBB8B5F024321F893417A23F6C14718E6C2B52DB"
 }
