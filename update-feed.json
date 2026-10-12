@@ -4,6 +4,6 @@
   "announcement": "4.1.86：手机连接标签紧凑显示，详情与复制操作放入独立浮层。普通可选更新。",
   "changelog": "4.1.86\n• 手机连接标签两行紧凑显示\n• 详情与复制按钮移入独立浮层\n• 点击外部、切换客户时关闭浮层\n• 标签限制宽度，避让原生按钮\n• 非强制更新",
   "downloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.1.86/customer-information-assistant-windows.zip",
-  "backupDownloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.1.86/customer-information-assistant-windows.zip",
+  "backupDownloadUrl": "https://raw.githubusercontent.com/a663949987-alt/customer-information-assistant-updates/e50841743c42bac4aec850f32c99e98f8beab298/customer-information-assistant-windows.zip",
   "sha256": "75C0073B07D01BBB96A0E0257DFF4587B0C4F40F83A9327D55556304C0376A63"
 }
