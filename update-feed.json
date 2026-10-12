@@ -4,6 +4,6 @@
   "announcement": "4.1.98：底部“更多”可查询历史任职公开资料，修复网关新导入客户姓名匹配。普通可选更新。",
   "changelog": "4.1.98\n• 网关与手机连接底部增加“更多”，查询2020—2024年校长/院长及教育局/卫健委副职公开资料\n• 优先显示2022—2024年的校长/院长，附原始来源，第一副职排名待官网核对\n• 网关新导入客户资料后可重新匹配姓名\n• 非强制更新",
   "downloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.1.98/customer-information-assistant-windows.zip",
-  "backupDownloadUrl": "https://raw.githubusercontent.com/a663949987-alt/customer-information-assistant-updates/main/customer-information-assistant-windows.zip",
+  "backupDownloadUrl": "https://raw.githubusercontent.com/a663949987-alt/customer-information-assistant-updates/3708f4c/customer-information-assistant-windows.zip",
   "sha256": "97F41567C8090D8A2684BBA48915AACB6BF3DC8AB09FD94F1B0340824291BF71"
 }
