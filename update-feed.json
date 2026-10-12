@@ -4,6 +4,6 @@
   "announcement": "4.1.87：网关彩色头像与短信预览，网关和手机连接底部客户资料条。普通可选更新。",
   "changelog": "4.1.87\n• 网关彩色圆头像、姓名标题和最新短信预览\n• 聊天顶部头像，全宽输入与表情/箭头发送\n• 网关与手机连接底部客户资料条及复制操作\n• 设备和运营商信息放左侧折叠区\n• 非强制更新",
   "downloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.1.87/customer-information-assistant-windows.zip",
-  "backupDownloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.1.87/customer-information-assistant-windows.zip",
+  "backupDownloadUrl": "https://raw.githubusercontent.com/a663949987-alt/customer-information-assistant-updates/00d10446ebcb383950887d5868cd0d68569f404c/customer-information-assistant-windows.zip",
   "sha256": "2BC2900B1517478F77D42B04696D07DE712730087EB7DBD7A35000DA66917671"
 }
