@@ -4,6 +4,6 @@
   "announcement": "4.1.93：历史聊天分类与气泡界面，合并收发记录，列表右键操作并移除收起详情。普通可选更新。",
   "changelog": "4.1.93\n• 移除展开/收起详情，资料保持显示\n• 历史今天/昨天/全部与气泡界面\n• 统一号码前缀合并收发消息及长图\n• 会话右键置顶、删除、TXT和长图导出\n• 非强制更新",
   "downloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.1.93/customer-information-assistant-windows.zip",
-  "backupDownloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.1.93/customer-information-assistant-windows.zip",
+  "backupDownloadUrl": "https://raw.githubusercontent.com/a663949987-alt/customer-information-assistant-updates/f3e12950dc9d80a9052e530eba93ff451a0f881c/customer-information-assistant-windows.zip",
   "sha256": "44E1E7D8814D6F8429E6D4857F27A31EB92BD7451F4CA7EC7B20498A9C60F38D"
 }
