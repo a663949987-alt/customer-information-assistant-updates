@@ -1,9 +1,9 @@
 {
-  "version": "4.1.100",
+  "version": "4.1.101",
   "publishedAt": "2026-10-13",
-  "announcement": "4.1.100：自助查询可直接打开，网关与手机连接资料条更紧凑。普通可选更新。",
-  "changelog": "4.1.100\n• 自助查询无可复制号码时仍打开网页\n• 网关顶部上移、联系人区加宽、底部资料条缩小\n• 手机连接底部资料条缩小，历史任职无结果时可打开百度搜索\n• 非强制更新",
-  "downloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.1.100/customer-information-assistant-windows.zip",
-  "backupDownloadUrl": "https://raw.githubusercontent.com/a663949987-alt/customer-information-assistant-updates/f9ce6bb/customer-information-assistant-windows.zip",
-  "sha256": "D0DF4DEEEECD15715E3FFF33DBB8B5F024321F893417A23F6C14718E6C2B52DB"
+  "announcement": "4.1.101：更多可保存 API Key 联网查询，手机连接资料条自动切换深浅外观。普通可选更新。",
+  "changelog": "4.1.101\n• 更多新增 API Key 设置，默认 ToAPIs 与已验证可联网搜索的低价模型\n• 先确认单位所在地，再查询两类任职，附来源并拒绝相似单位误匹配\n• 手机连接底部资料条自动深浅切换，平整分隔式外观与宽窄自适应布局\n• 非强制更新",
+  "downloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.1.101/customer-information-assistant-windows.zip",
+  "backupDownloadUrl": "",
+  "sha256": "BC0616C02319485A83D1AB373FB494755A6C9DC5A51C5C4D3A4BBEA9C51FF2E2"
 }
