@@ -1,9 +1,9 @@
 {
-  "version": "4.1.103",
+  "version": "4.1.104",
   "publishedAt": "2026-10-13",
-  "announcement": "4.1.103：网关紧凑布局、拖动分栏、三类提醒音效；日报合并为手机1统计全月总加。普通可选更新。",
-  "changelog": "4.1.103\n• 手机号三段显示，联系人栏可拖动，聊天文字缩放与自适应\n• 资料折叠，复制号码/置顶上下可操作，连接归入通用设置\n• 未读红点、运营商异常去重提醒、30秒脱机提醒与三类轻量音效\n• 通用设置可试听、调音量与静音\n• 当前/置顶长图入口，按电话+名字分别导出\n• 日报合并手机1，全月客户跨发送号码去重统计\n• 非强制更新",
-  "downloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.1.103/customer-information-assistant-windows.zip",
-  "backupDownloadUrl": "https://raw.githubusercontent.com/a663949987-alt/customer-information-assistant-updates/41f6c6d/customer-information-assistant-windows.zip",
-  "sha256": "85415213FD21E89DE65C09A8792A1C504607826709F0145AA6A88C5146E44956"
+  "announcement": "4.1.104：客户资料顶部居中与响应式排版、空客户标签、查询进度与任期说明，运营商异常使用指定音效。普通可选更新。",
+  "changelog": "4.1.104\n• 客户资料顶部居中，自动适度缩字与换行，极窄回退避免遮挡导航\n• 手机连接未选客户也保留标签及历史记录入口\n• 当前对话导出先选择文字或长图\n• 查询显示阶段和等待秒数，小区与任职复核并行\n• 优先人选显示有依据的任期，未确认边界明确标注\n• 运营商关停、异常、本人实名验证通知使用指定MP3，保留去重、音量和静音\n• 非强制更新",
+  "downloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.1.104/customer-information-assistant-windows.zip",
+  "backupDownloadUrl": "",
+  "sha256": "2282798775822DF07F85DC0170E79F745D362F7D656F0262E1199CBA8EC388A4"
 }
