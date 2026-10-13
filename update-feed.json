@@ -1,9 +1,9 @@
 {
-  "version": "4.1.101",
+  "version": "4.1.102",
   "publishedAt": "2026-10-13",
-  "announcement": "4.1.101：更多可保存 API Key 联网查询，手机连接资料条自动切换深浅外观。普通可选更新。",
-  "changelog": "4.1.101\n• 更多新增 API Key 设置，默认 ToAPIs 与已验证可联网搜索的低价模型\n• 先确认单位所在地，再查询两类任职，附来源并拒绝相似单位误匹配\n• 手机连接底部资料条自动深浅切换，平整分隔式外观与宽窄自适应布局\n• 非强制更新",
-  "downloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.1.101/customer-information-assistant-windows.zip",
-  "backupDownloadUrl": "https://raw.githubusercontent.com/a663949987-alt/customer-information-assistant-updates/4e08795/customer-information-assistant-windows.zip",
-  "sha256": "BC0616C02319485A83D1AB373FB494755A6C9DC5A51C5C4D3A4BBEA9C51FF2E2"
+  "announcement": "4.1.102：三个打粉号码显示归属地运营商，优化号码查询、历史任职查询与日报。普通可选更新。",
+  "changelog": "4.1.102\n• 三个打粉号码即时显示归属地运营商\n• 其他号码查询上移，自助标记直接打开网页\n• 云端确认所在地并复核历史任职，新增同城其他区小区参考，距离待核实\n• 编辑接粉人和出生年份，按指定格式生成日报\n• 非强制更新",
+  "downloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.1.102/customer-information-assistant-windows.zip",
+  "backupDownloadUrl": "",
+  "sha256": "8346FDF47A7232D69DDE61881787B954D5C8639B99155FC9269ACFE43462185D"
 }
