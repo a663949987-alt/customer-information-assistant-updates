@@ -4,6 +4,6 @@
   "announcement": "4.1.101：更多可保存 API Key 联网查询，手机连接资料条自动切换深浅外观。普通可选更新。",
   "changelog": "4.1.101\n• 更多新增 API Key 设置，默认 ToAPIs 与已验证可联网搜索的低价模型\n• 先确认单位所在地，再查询两类任职，附来源并拒绝相似单位误匹配\n• 手机连接底部资料条自动深浅切换，平整分隔式外观与宽窄自适应布局\n• 非强制更新",
   "downloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.1.101/customer-information-assistant-windows.zip",
-  "backupDownloadUrl": "",
+  "backupDownloadUrl": "https://raw.githubusercontent.com/a663949987-alt/customer-information-assistant-updates/4e08795/customer-information-assistant-windows.zip",
   "sha256": "BC0616C02319485A83D1AB373FB494755A6C9DC5A51C5C4D3A4BBEA9C51FF2E2"
 }
