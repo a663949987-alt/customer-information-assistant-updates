@@ -4,6 +4,6 @@
   "announcement": "4.1.104：客户资料顶部居中与响应式排版、空客户标签、查询进度与任期说明，运营商异常使用指定音效。普通可选更新。",
   "changelog": "4.1.104\n• 客户资料顶部居中，自动适度缩字与换行，极窄回退避免遮挡导航\n• 手机连接未选客户也保留标签及历史记录入口\n• 当前对话导出先选择文字或长图\n• 查询显示阶段和等待秒数，小区与任职复核并行\n• 优先人选显示有依据的任期，未确认边界明确标注\n• 运营商关停、异常、本人实名验证通知使用指定MP3，保留去重、音量和静音\n• 非强制更新",
   "downloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.1.104/customer-information-assistant-windows.zip",
-  "backupDownloadUrl": "",
+  "backupDownloadUrl": "https://raw.githubusercontent.com/a663949987-alt/customer-information-assistant-updates/2ac2d72/customer-information-assistant-windows.zip",
   "sha256": "2282798775822DF07F85DC0170E79F745D362F7D656F0262E1199CBA8EC388A4"
 }
