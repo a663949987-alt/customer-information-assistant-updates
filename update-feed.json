@@ -4,6 +4,6 @@
   "announcement": "4.2.0：Discord 风格全界面升级，保留原网关、手机连接与自动招呼接口；新增深浅主题和完整工具箱。普通可选更新。",
   "changelog": "4.2.0\n• WPF + Blazor Hybrid 全界面升级，深色、浅色和跟随系统\n• 保留原网关、手机连接、自动招呼、额度、去重和异常锁定逻辑\n• 客户工作台、号码与导出、日报、历史、留言板、统计、话术等统一重排\n• 当前与置顶对话可选文字或长图导出，网关右键菜单统一\n• 更多提供百度查询及可选原云端查询，先确认所在地并显示进度和来源\n• 4.2 更新器支持完整子目录并保留用户话术文件\n• 非强制更新",
   "downloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.2.0/customer-information-assistant-windows.zip",
-  "backupDownloadUrl": "https://raw.githubusercontent.com/a663949987-alt/customer-information-assistant-updates/2ac2d72/customer-information-assistant-windows.zip",
+  "backupDownloadUrl": "https://raw.githubusercontent.com/a663949987-alt/customer-information-assistant-updates/fb4e09a/customer-information-assistant-windows.zip",
   "sha256": "D240C914189D61C987A5DE30D4D271226C5E7CD391FA7D9F80A389AA64908A4E"
 }
