@@ -1,10 +1,10 @@
 {
-  "version": "4.2.13",
+  "version": "4.2.14",
   "publishedAt": "2026-10-15",
-  "announcement": "4.2.13：聊天客户独立下粉导出、时间分组、通道打粉号码快捷设置和查询优化。",
-  "changelog": "客户信息助手 4.2.13\n\n- 最近会话显示消息时间，按日期分组。\n- 短信中心新增“成功下粉”和“生成客户信息”，使用当前聊天客户，独立于自动发送客户和倒计时。\n- 成功下粉保存标记并进入号码与导出；重复点击复用记录。\n- 三通道旁可直接填写并保存打粉号码，仅影响后续记录。\n- 主管部门查询改为“一把手”；新增万达附近小区查询，包含区、街道和距离关键词。\n- 保持固定主程序文件名，使用完整包升级。微软后台发送仍未实现，本次未合入实验功能。\n",
-  "downloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.2.13/customer-information-assistant-windows.zip",
-  "backupDownloadUrl": "https://raw.githubusercontent.com/a663949987-alt/customer-information-assistant-updates/fdb20064a8de89110ab7a71dae6bc7d12bd3d2f6/customer-information-assistant-windows.zip",
-  "sha256": "C74BAE481D8E227679EDDE4358590CAA2C2C32B707E5E275A978EB5E1E576D6E",
+  "announcement": "4.2.14：修复手机连接再次回复音效，恢复三通道独立再次回复声音。",
+  "changelog": "客户信息助手 4.2.14\n\n- 修复手机连接同一客户再次回复时错误播放首次回复音效。\n- 恢复手机连接、网关 1、网关 2 各自的再次回复音效及自选入口。\n- 初次同步历史保持静音，并用历史回复建立分类基线，避免重启后把老客户再次回复当成首次。\n- 保留消息去重、静音和音量设置；本版不含微软后台发送实验。\n",
+  "downloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.2.14/customer-information-assistant-windows.zip",
+  "backupDownloadUrl": "https://raw.githubusercontent.com/a663949987-alt/customer-information-assistant-updates/63e031ecbadb65597ec571d01960d23608fd0ac5/customer-information-assistant-windows.zip",
+  "sha256": "72ED041E53A18476003EC0BDBBE292951C19FF4BAA335DD0E19472EC9CFCB069",
   "patches": []
 }
