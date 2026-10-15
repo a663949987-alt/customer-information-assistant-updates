@@ -1,10 +1,10 @@
 {
-  "version": "4.2.12",
+  "version": "4.2.13",
   "publishedAt": "2026-10-15",
-  "announcement": "4.2.12：修复更新安装卡住；保留短信中心暂停自动发送。",
-  "changelog": "客户信息助手 4.2.12\n\n- 修复 4.2.11 发布包主程序文件名不符合安装器约定，造成安装前版本校验失败的问题。\n- 修复更新状态跨线程刷新，安装失败时正确显示错误并恢复操作。\n- 保留短信中心“暂停自动发送”按钮。\n- 本次使用完整安装包更新；微软后台发送实验未合入。\n",
-  "downloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.2.12/customer-information-assistant-windows.zip",
-  "backupDownloadUrl": "https://raw.githubusercontent.com/a663949987-alt/customer-information-assistant-updates/509400f4845d184d67a1a9aded01d13e7d918b29/customer-information-assistant-windows.zip",
-  "sha256": "1A3DD06B987BC3EE8716BDD7AB6F7AEDC2D54D902EB303E12B1B91FA10C39CEA",
+  "announcement": "4.2.13：聊天客户独立下粉导出、时间分组、通道打粉号码快捷设置和查询优化。",
+  "changelog": "客户信息助手 4.2.13\n\n- 最近会话显示消息时间，按日期分组。\n- 短信中心新增“成功下粉”和“生成客户信息”，使用当前聊天客户，独立于自动发送客户和倒计时。\n- 成功下粉保存标记并进入号码与导出；重复点击复用记录。\n- 三通道旁可直接填写并保存打粉号码，仅影响后续记录。\n- 主管部门查询改为“一把手”；新增万达附近小区查询，包含区、街道和距离关键词。\n- 保持固定主程序文件名，使用完整包升级。微软后台发送仍未实现，本次未合入实验功能。\n",
+  "downloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.2.13/customer-information-assistant-windows.zip",
+  "backupDownloadUrl": "https://raw.githubusercontent.com/a663949987-alt/customer-information-assistant-updates/fdb20064a8de89110ab7a71dae6bc7d12bd3d2f6/customer-information-assistant-windows.zip",
+  "sha256": "C74BAE481D8E227679EDDE4358590CAA2C2C32B707E5E275A978EB5E1E576D6E",
   "patches": []
 }
