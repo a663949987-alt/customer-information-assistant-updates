@@ -1,10 +1,10 @@
 {
-  "version": "4.2.14",
+  "version": "4.2.15",
   "publishedAt": "2026-10-15",
-  "announcement": "4.2.14：修复手机连接再次回复音效，恢复三通道独立再次回复声音。",
-  "changelog": "客户信息助手 4.2.14\n\n- 修复手机连接同一客户再次回复时错误播放首次回复音效。\n- 恢复手机连接、网关 1、网关 2 各自的再次回复音效及自选入口。\n- 初次同步历史保持静音，并用历史回复建立分类基线，避免重启后把老客户再次回复当成首次。\n- 保留消息去重、静音和音量设置；本版不含微软后台发送实验。\n",
-  "downloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.2.14/customer-information-assistant-windows.zip",
-  "backupDownloadUrl": "https://raw.githubusercontent.com/a663949987-alt/customer-information-assistant-updates/63e031ecbadb65597ec571d01960d23608fd0ac5/customer-information-assistant-windows.zip",
-  "sha256": "72ED041E53A18476003EC0BDBBE292951C19FF4BAA335DD0E19472EC9CFCB069",
+  "announcement": "4.2.15：最小化浮条清理与桌面菜单干扰防护；新增默认关闭的实验性半后台发送。",
+  "changelog": "客户信息助手 4.2.15\n\n- 最小化时隐藏手机连接浮条并释放 WPF 鼠标捕获；浮条仅在手机连接或浮条自身处于前台时显示，异步读取后再次检查，避免遮挡桌面菜单。\n- 被动监听只读本机缓存，不再后台调用微软刷新控件，减少抢焦点和桌面右键菜单干扰；手动刷新保留。\n- 设置→手机连接新增实验性半后台发送，默认关闭。通过直接控件填写准备内容，必要时短暂激活，提交后尝试返回原窗口。\n- 实验模式不使用键盘或鼠标输入回退；已有草稿、用户输入、窗口切换、号码或正文校验失败即停止。\n- 提交只尝试一次，匹配新增的本地已发送缓存记录才确认；结果不明保持锁定，不自动重发。缓存确认不代表对方已读。\n- 已有草稿准备、切窗返回测试和用户确认的前台单条发送测试；正式整合后的半后台发送仍待真人验收，不宣称完全后台。\n",
+  "downloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.2.15/customer-information-assistant-windows.zip",
+  "backupDownloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.2.15/customer-information-assistant-windows.zip",
+  "sha256": "9A89DE19C81AE0C3C21FBBAF77546E4D5FF63970619B4BBE81510A99B70A4D7B",
   "patches": []
 }
