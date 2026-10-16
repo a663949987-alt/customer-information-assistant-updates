@@ -1,10 +1,10 @@
 {
-  "version": "4.2.18",
+  "version": "4.2.19",
   "publishedAt": "2026-10-16",
-  "announcement": "4.2.18：修复当前有姓名客户的今日回复计数，排除发送回显；音量静音自动保存。",
-  "changelog": "客户信息助手 4.2.18\n\n- 修复工作台今日回复误计数：仅统计当前资料中有姓名、所选线路有此前发送记录的客户；隔离其他资料、其他账号/设备缓存，按消息去重。\n- 与此前发出内容完全相同（忽略首尾空白、换行差异）的来信保守视为疑似回显，不计回复且不播放回复音效。原始聊天记录仍保留；无法据此绝对区分对方逐字复制回复和系统回显。\n- 本机只读复核：当前100位客户资料，原计数15条，修复后0条；没有清空短信或统计文件。\n- 静音和音量改为修改后自动加密保存；更换音效继续立即保存。其他设置仍按相应保存按钮保存，界面已明确说明。\n- 保留发送确认、防重复发送保护及所有4.2.17功能。本次验证不发送短信、不检查真实网关连接、不操作微软窗口。\n",
-  "downloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.2.18/customer-information-assistant-windows.zip",
-  "backupDownloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.2.18/customer-information-assistant-windows.zip",
-  "sha256": "9D3476BE195EF1246EF12346195A3C19C4CE5885BB55827B60C7522AAD2F77A8",
+  "announcement": "4.2.19：登出后停止检查并记忆状态，更多查询、出生年份、Excel原文显示和最小化修正。",
+  "changelog": "# 客户信息助手 4.2.19\n\n- 网关主动登出后停止检查、重连和离线提醒；重启软件仍保持登出，手动连接后恢复。\n- 客户工作台增加更多查询入口。\n- 年龄旁显示出生年份：身份证有效时使用身份证年份，否则按年龄推算并标注“约”。\n- 文档原文支持读取 Excel 单元格文本；原文件不可用时明确显示已保存字段，不再显示空白。\n- 手机历史页切换客户时重新读取本机记录。\n- 最小化时隐藏网页宿主并停止命中测试，修正桌面右键干扰的可能来源；实际效果仍需用户环境验证。\n\n保留现有聊天数据，不自动删除历史，不发送测试短信。真正不切窗的微软手机连接后台刷新尚未实现。\n",
+  "downloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.2.19/customer-information-assistant-windows.zip",
+  "backupDownloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.2.19/customer-information-assistant-windows.zip",
+  "sha256": "C17B6200B5F3061133F10C1C54D2E49CFF7ED56D0695A881BAB97A9FF9CA700D",
   "patches": []
 }
