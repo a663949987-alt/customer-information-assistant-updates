@@ -1,10 +1,10 @@
 {
-  "version": "4.2.15",
-  "publishedAt": "2026-10-15",
-  "announcement": "4.2.15：最小化浮条清理与桌面菜单干扰防护；新增默认关闭的实验性半后台发送。",
-  "changelog": "客户信息助手 4.2.15\n\n- 最小化时隐藏手机连接浮条并释放 WPF 鼠标捕获；浮条仅在手机连接或浮条自身处于前台时显示，异步读取后再次检查，避免遮挡桌面菜单。\n- 被动监听只读本机缓存，不再后台调用微软刷新控件，减少抢焦点和桌面右键菜单干扰；手动刷新保留。\n- 设置→手机连接新增实验性半后台发送，默认关闭。通过直接控件填写准备内容，必要时短暂激活，提交后尝试返回原窗口。\n- 实验模式不使用键盘或鼠标输入回退；已有草稿、用户输入、窗口切换、号码或正文校验失败即停止。\n- 提交只尝试一次，匹配新增的本地已发送缓存记录才确认；结果不明保持锁定，不自动重发。缓存确认不代表对方已读。\n- 已有草稿准备、切窗返回测试和用户确认的前台单条发送测试；正式整合后的半后台发送仍待真人验收，不宣称完全后台。\n",
-  "downloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.2.15/customer-information-assistant-windows.zip",
-  "backupDownloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.2.15/customer-information-assistant-windows.zip",
-  "sha256": "9A89DE19C81AE0C3C21FBBAF77546E4D5FF63970619B4BBE81510A99B70A4D7B",
+  "version": "4.2.16",
+  "publishedAt": "2026-10-16",
+  "announcement": "4.2.16：仅客户回复播报，窄窗口修复及发送后延迟刷新。",
+  "changelog": "客户信息助手 4.2.16\n\n- 修复客户回复语音误播：网关及手机连接仅对同一设备、同一号码已有更早发出记录后的新来信播放回复音效。普通陌生来信、历史首次同步和重复刷新不播报客户回复。\n- 保留首次/再次回复分类及各通道音效，移除旧窗口按任意来信播放回复音效的重复路径。\n- 合入窄窗口排版修复：通道名称不再被号码输入框挤成竖排，聊天工具栏可换行。\n- 发送流程返回后安排 2 秒延迟刷新；允许微软控件短暂激活，结束后尝试返回刷新前工作窗口。用户输入/切换窗口时取消后续操作，不强抢焦点。此为半后台刷新，不是无切窗接口。\n- 刷新失败不重发短信；触发微软刷新不等于远端同步完成。真实手机刷新及焦点返回仍需用户验收。\n",
+  "downloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.2.16/customer-information-assistant-windows.zip",
+  "backupDownloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.2.16/customer-information-assistant-windows.zip",
+  "sha256": "471E3C60BD6B1D8DF5B840E3C1A2ADA43FFFFE18B9030A73F24CF75685BEEFDD",
   "patches": []
 }
