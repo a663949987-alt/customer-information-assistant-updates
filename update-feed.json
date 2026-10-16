@@ -1,16 +1,16 @@
 {
-  "version": "4.2.20",
+  "version": "4.2.21",
   "publishedAt": "2026-10-16",
-  "announcement": "4.2.20：手机连接仅新增保存有姓名及手机号的导入客户聊天，支持4.2.19增量更新。",
-  "changelog": "# 客户信息助手 4.2.20\n\n- 手机连接后续同步仅新增保存导入资料中有姓名和手机号的客户聊天。\n- 手机连接聊天列表只展示上述客户，过滤陌生号码及服务短信。\n- 原有备份记录不删除；不会删除微软手机连接或手机中的短信。\n- 为标准 4.2.19 安装提供校验后增量更新；文件不匹配时使用完整包。\n\n客户范围按导入资料匹配，不要求此前已发送招呼。保留现有发送保护，本次验证不发送真实短信。\n",
-  "downloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.2.20/customer-information-assistant-windows.zip",
-  "backupDownloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.2.20/customer-information-assistant-windows.zip",
-  "sha256": "9C5D3135604024A7FB2C41692DB074FAC04F8DF18EA4BE7AD9BBB8BEE0CB6090",
+  "announcement": "4.2.21：两个网关及手机连接仅新增保存有姓名及手机号的导入客户聊天，支持4.2.20增量更新。",
+  "changelog": "# 客户信息助手 4.2.21\n\n- 网关 1、网关 2 与手机连接统一：只新增保存、展示导入资料中有姓名和手机号的客户聊天。\n- 客户导入范围变化后重新筛选同步，不因收件箱内容相同而跳过新客户。\n- 旧备份保留，不删除手机或网关服务器中的短信。\n- 保留原始收件箱供发送及回执确认使用。\n- 提供从标准 4.2.20 安装升级的增量包；本地基础文件校验不匹配则回退完整包。\n\n已通过两个网关客户范围、旧备份保留及发送保护的隔离自检；验证不发送真实短信。\n",
+  "downloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.2.21/customer-information-assistant-windows.zip",
+  "backupDownloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.2.21/customer-information-assistant-windows.zip",
+  "sha256": "E3A2FAF6B192EB6654A826DBEC6F51635F76701B0931C521AD363BC0B4F82C71",
   "patches": [
     {
-      "fromVersion": "4.2.19",
-      "downloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.2.20/customer-information-assistant-patch.zip",
-      "sha256": "8E56D8AB7ED34D03FD84EAFC02BF1AFB034E5D5E6D2371061EC5B0FACD6EC8AB",
+      "fromVersion": "4.2.20",
+      "downloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.2.21/customer-information-assistant-patch.zip",
+      "sha256": "54866756557FEF882B86C5D1CA154D8A0D7E90DA995138D715F9042706BB7968",
       "requiredFiles": {
         "客户信息助手.runtimeconfig.json": "2556F3E7CB7F562C3139A4C08EA55A28FBA36F396A1FF2E49F1AA66AA27ADAA3",
         "客户信息助手.staticwebassets.endpoints.json": "9A0D0C995064006A086E66BEE1FA1D1DC14EDB3D604310249B3672D2D002500A",
