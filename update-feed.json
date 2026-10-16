@@ -1,10 +1,10 @@
 {
-  "version": "4.2.17",
+  "version": "4.2.18",
   "publishedAt": "2026-10-16",
-  "announcement": "4.2.17：三线路独立随机间隔、顶部提示6秒自动关闭及手机历史兼容修复。",
-  "changelog": "客户信息助手 4.2.17\n\n- 两个网关各自增加保存设置和打粉号码；只保存所选网关，不覆盖另一网关及其他设置。\n- SIM自动识别优先精确匹配打粉号码，再按本地号码归属库唯一匹配运营商；手选SIM保留优先规则。双卡同运营商/未知结果不猜测，携号转网需手动核对。\n- 工作台显示今日已处理人数和今日客户总回复条数（按消息去重）；当前客户增加标记已处理，不发短信，并同步正在运行的领取队列。\n- 网关已连接/ONLINE显示绿色，未连接/OFFLINE显示红色。\n- 日报客户条目显示（已死亡）、（已开）；未标记显示（存活第X天），首次添加当天为第1天，重复导出不重置。\n- 网关持续未连接超过60秒才播报离线，同次故障只播报一次；已有自动轮询持续尝试连接，手动登出不自动连回。\n- 设置增加手动发送前确认开关，默认开启；关闭后手动点击发送直接提交，发送校验和防重复保护不变。\n\n- 网关1、网关2、手机连接分别设置随机最小/最大间隔，独立保存、显示剩余秒数。只有到时间的线路领取客户，其他线路计时不重置；沿用跨线路客户去重及未知结果锁。\n- 每条线路独立冻结暂停时间；修改一条线路时间不影响其他线路；正在提交的批次继续确认，不因此重复下发。旧设置迁移时以原共同范围初始化。\n- 顶部操作提示增加6秒倒计时并自动关闭，保留手动关闭；新提示重新计时。\n- 补强手机历史读取：RCS专用会话与参与者地址回退，保留短号码及国际号码，补读彩信文本部分、RCS附件条目。\n- 只读核对本机当前缓存43条，可读取43条。但未复现用户具体缺失记录，不能保证微软所有UI记录都已覆盖；群聊、草稿及失败/待发送状态、附件二进制仍未完整支持。\n- 回复声音仍独立按客户回复筛选，不因扩大历史读取范围而把普通来信播报为回复。\n",
-  "downloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.2.17/customer-information-assistant-windows.zip",
-  "backupDownloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.2.17/customer-information-assistant-windows.zip",
-  "sha256": "76CD3FA0D41D17FD6A1A586C970A065FC3A7AA3A9A38C3774EA3173AC9633941",
+  "announcement": "4.2.18：修复当前有姓名客户的今日回复计数，排除发送回显；音量静音自动保存。",
+  "changelog": "客户信息助手 4.2.18\n\n- 修复工作台今日回复误计数：仅统计当前资料中有姓名、所选线路有此前发送记录的客户；隔离其他资料、其他账号/设备缓存，按消息去重。\n- 与此前发出内容完全相同（忽略首尾空白、换行差异）的来信保守视为疑似回显，不计回复且不播放回复音效。原始聊天记录仍保留；无法据此绝对区分对方逐字复制回复和系统回显。\n- 本机只读复核：当前100位客户资料，原计数15条，修复后0条；没有清空短信或统计文件。\n- 静音和音量改为修改后自动加密保存；更换音效继续立即保存。其他设置仍按相应保存按钮保存，界面已明确说明。\n- 保留发送确认、防重复发送保护及所有4.2.17功能。本次验证不发送短信、不检查真实网关连接、不操作微软窗口。\n",
+  "downloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.2.18/customer-information-assistant-windows.zip",
+  "backupDownloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.2.18/customer-information-assistant-windows.zip",
+  "sha256": "9D3476BE195EF1246EF12346195A3C19C4CE5885BB55827B60C7522AAD2F77A8",
   "patches": []
 }
