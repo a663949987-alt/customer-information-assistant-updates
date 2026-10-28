@@ -1,16 +1,16 @@
 {
-  "version": "4.2.25",
+  "version": "4.2.26",
   "publishedAt": "2026-10-28",
-  "announcement": "4.2.25：默认横向长布局、顶部字号调节滑块、紧凑客户会话列表。",
-  "changelog": "4.2.25\n\n- 启动默认使用横向长布局，随后按窗口变化自动适配长屏、宽屏、窄屏。\n- 界面顶部常驻字号小滑块，支持75%～120%，即时应用、自动保存及重置100%。\n- 最近会话列表缩小头像、行高与间距，压缩上方线路区，让同一窗口显示更多客户。\n- 缩放同步调整字体、控件与间距，布局按缩放后的可用空间判断。\n\n支持从4.2.24增量更新。\n",
-  "downloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.2.25/customer-information-assistant-windows.zip",
-  "backupDownloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.2.25/customer-information-assistant-windows.zip",
-  "sha256": "5468F233C259CEC3301A5D4AA5472B19CB2C31CA9AE88E201FE8F084407D6E08",
+  "announcement": "4.2.26：核对发送与回复监听，修复手机发送记录保存，禁止未确认招呼自动重发。",
+  "changelog": "4.2.26\n\n- 手机连接确认发送后独立保存正文与本机号码，微软缓存缺失不再造成新增本机发送记录丢失；缓存补入时合并对应记录。\n- 回复监听只处理有姓名手机号的导入客户及有此前发送依据的回复，修正历史补入误播、回复时间顺序及历史同内容误排除。\n- 网关手动、一键及自动招呼统一禁止未确认任务自动再次下发；保留发送锁、SIM校验及暂停保护。\n- 当前客户资料旁增加一键复制招呼，调整今日处理与回复指标对齐。\n\n旧备份缺失的招呼正文无法据客户来信推测补造。测试使用隔离数据，未发送真实短信。\n",
+  "downloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.2.26/customer-information-assistant-windows.zip",
+  "backupDownloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.2.26/customer-information-assistant-windows.zip",
+  "sha256": "4FC9601CDAB61241D5AAEDABD7C278E7D0B5C178DF3ADA2C183458BDBF66545E",
   "patches": [
     {
-      "fromVersion": "4.2.24",
-      "downloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.2.25/customer-information-assistant-patch.zip",
-      "sha256": "0C606C5411C91B75E436E21B3A81B5F4C7F339F5C2098F30D3BEBF576E20933B",
+      "fromVersion": "4.2.25",
+      "downloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.2.26/customer-information-assistant-patch.zip",
+      "sha256": "0C5E82DBA5BAACA6431E073D5A71475536DA583A90ED5A705108763DD01FCC7E",
       "requiredFiles": {
         "客户信息助手.runtimeconfig.json": "2556F3E7CB7F562C3139A4C08EA55A28FBA36F396A1FF2E49F1AA66AA27ADAA3",
         "Accessibility.dll": "8A445CFD0D566A0BFBEBD30BA3CD1BAB449C73F22F40DC4ABA499BF96A2F0850",
@@ -483,6 +483,7 @@
         "wwwroot\\app.js": "3603C94E3F71EFBA34D079F6C20F522DBA4CDD9B2777A7D674414B5695BA7490",
         "wwwroot\\index.html": "1D3C5D032E4644E35058AC16D1B20B2949B3D2D9F5472A9FF750240FE7A0BFC0",
         "wwwroot\\refined-ui.css": "E40F9E65C4B67E8EEAED53C17294A174B49474D4F67457D90BD89934500D51D3",
+        "wwwroot\\responsive-layout.js": "4C285CE818B5BE878935EE68CD4639B02957636913FBE4EECDE483D61774340D",
         "wwwroot\\shell.css": "A93181E5A588A9EF6718956465C64C7A19BD6A311DCA99843F0797472CED7A73",
         "wwwroot\\theme.css": "0F8106BA8F0D4D062DE7F61B24704E899AFFDFB88D3004D5863C0139225F1EC4",
         "wwwroot\\update-enhancements.css": "FFE75DC1EF95C8DD60AFF74DDDA3BF5FE1DF4C4A66116C08D08E9AEB5F986A11",
