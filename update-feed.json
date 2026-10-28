@@ -1,16 +1,16 @@
 {
-  "version": "4.2.24",
+  "version": "4.2.25",
   "publishedAt": "2026-10-28",
-  "announcement": "4.2.24：长屏、宽屏、窄屏自动紧凑布局，修正手机连接资料浮条顶部定位。",
-  "changelog": "4.2.24\n\n- “启动自动发送”提升为卡片顶部醒目主按钮，旁边提供停止按钮及启动条件提示。\n\n- 根据宽度与宽高比自动选择横向长屏、常规宽屏和窄屏，加入切换缓冲；横向布局压缩间距与控件高度。\n- 长屏展开多栏，宽屏紧凑分栏，窄屏减少分栏；保留正常滚动条作为空间不足时的后备。\n- 一键发送招呼固定在客户卡片底部，资料在卡片内滚动；窗口布局切换保留当前客户及输入内容。\n- 保留4.2.23的右键取消处理、网关检查连接并保存、登出及自动重连。\n- 手机连接客户资料浮条“移到顶部”改为整个手机连接窗口上沿，底部位置保持不变。\n\n支持从4.2.23增量更新。\n",
-  "downloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.2.24/customer-information-assistant-windows.zip",
-  "backupDownloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.2.24/customer-information-assistant-windows.zip",
-  "sha256": "C9B7DE0E698627A9F4BE7F3BCAF996E0D313855BC5DFA9D8F4808FA3DF5A9D5D",
+  "announcement": "4.2.25：默认横向长布局、顶部字号调节滑块、紧凑客户会话列表。",
+  "changelog": "4.2.25\n\n- 启动默认使用横向长布局，随后按窗口变化自动适配长屏、宽屏、窄屏。\n- 界面顶部常驻字号小滑块，支持75%～120%，即时应用、自动保存及重置100%。\n- 最近会话列表缩小头像、行高与间距，压缩上方线路区，让同一窗口显示更多客户。\n- 缩放同步调整字体、控件与间距，布局按缩放后的可用空间判断。\n\n支持从4.2.24增量更新。\n",
+  "downloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.2.25/customer-information-assistant-windows.zip",
+  "backupDownloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.2.25/customer-information-assistant-windows.zip",
+  "sha256": "5468F233C259CEC3301A5D4AA5472B19CB2C31CA9AE88E201FE8F084407D6E08",
   "patches": [
     {
-      "fromVersion": "4.2.23",
-      "downloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.2.24/customer-information-assistant-patch.zip",
-      "sha256": "68CD65B5FE43E222A6FC0C4B9CD77B5DC855B0A863BF664761287E7331B8FFC9",
+      "fromVersion": "4.2.24",
+      "downloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.2.25/customer-information-assistant-patch.zip",
+      "sha256": "0C606C5411C91B75E436E21B3A81B5F4C7F339F5C2098F30D3BEBF576E20933B",
       "requiredFiles": {
         "客户信息助手.runtimeconfig.json": "2556F3E7CB7F562C3139A4C08EA55A28FBA36F396A1FF2E49F1AA66AA27ADAA3",
         "Accessibility.dll": "8A445CFD0D566A0BFBEBD30BA3CD1BAB449C73F22F40DC4ABA499BF96A2F0850",
@@ -481,6 +481,7 @@
         "tr\\UIAutomationTypes.resources.dll": "1E43F857BBA2F731ED6E5DBD56D6E2418E4D75DB7D6A8948B280371BBD8CF988",
         "tr\\WindowsBase.resources.dll": "BA24D3F4A9F67CE4651D208F0146AFE0423956E0B5F381869FFFEC7BF400F8B8",
         "wwwroot\\app.js": "3603C94E3F71EFBA34D079F6C20F522DBA4CDD9B2777A7D674414B5695BA7490",
+        "wwwroot\\index.html": "1D3C5D032E4644E35058AC16D1B20B2949B3D2D9F5472A9FF750240FE7A0BFC0",
         "wwwroot\\refined-ui.css": "E40F9E65C4B67E8EEAED53C17294A174B49474D4F67457D90BD89934500D51D3",
         "wwwroot\\shell.css": "A93181E5A588A9EF6718956465C64C7A19BD6A311DCA99843F0797472CED7A73",
         "wwwroot\\theme.css": "0F8106BA8F0D4D062DE7F61B24704E899AFFDFB88D3004D5863C0139225F1EC4",
