@@ -1,0 +1,47 @@
+name: Assemble verified 4.2.23 release
+on:
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  assemble:
+    runs-on: windows-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Assemble and verify every application file
+        shell: pwsh
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          $ErrorActionPreference='Stop'
+          $base=Join-Path $env:RUNNER_TEMP 'base-package'
+          $delta=Join-Path $env:RUNNER_TEMP 'delta-package'
+          $app=Join-Path $env:RUNNER_TEMP 'verified-app'
+          $overlay=Join-Path $env:RUNNER_TEMP 'verified-overlay'
+          New-Item -ItemType Directory -Path $base,$delta | Out-Null
+          gh release download v4.2.21 --pattern customer-information-assistant-windows.zip --dir $base
+          if($LASTEXITCODE -ne 0){throw 'Base download failed'}
+          gh release download v4.2.23 --pattern customer-information-assistant-patch.zip --dir $delta
+          if($LASTEXITCODE -ne 0){throw 'Delta download failed'}
+          Expand-Archive -LiteralPath (Join-Path $base 'customer-information-assistant-windows.zip') -DestinationPath $app
+          Expand-Archive -LiteralPath (Join-Path $delta 'customer-information-assistant-patch.zip') -DestinationPath $overlay
+          foreach($file in Get-ChildItem -LiteralPath $overlay -File -Recurse){
+            $rel=[IO.Path]::GetRelativePath($overlay,$file.FullName)
+            $target=Join-Path $app $rel
+            New-Item -ItemType Directory -Path (Split-Path $target) -Force | Out-Null
+            Copy-Item -LiteralPath $file.FullName -Destination $target -Force
+          }
+          $manifest=Get-Content release-manifest-4.2.23.json -Raw | ConvertFrom-Json -AsHashtable
+          $actual=@(Get-ChildItem -LiteralPath $app -File -Recurse)
+          if($actual.Count -ne $manifest.Count){throw 'Unexpected file count'}
+          foreach($file in $actual){
+            $rel=[IO.Path]::GetRelativePath($app,$file.FullName).Replace('\','/')
+            if(!$manifest.ContainsKey($rel) -or (Get-FileHash -LiteralPath $file.FullName).Hash -ne $manifest[$rel]){throw "File mismatch: $rel"}
+          }
+          if([Diagnostics.FileVersionInfo]::GetVersionInfo((Join-Path $app '客户信息助手.dll')).FileVersion -ne '4.2.23.0'){throw 'Version mismatch'}
+          $zip=Join-Path $env:RUNNER_TEMP 'customer-information-assistant-windows.zip'
+          Compress-Archive -Path (Join-Path $app '*') -DestinationPath $zip -CompressionLevel Optimal
+          gh release upload v4.2.23 $zip --clobber
+          if($LASTEXITCODE -ne 0){throw 'Release upload failed'}
+          Write-Output ('Verified files: '+$manifest.Count)
+          Get-FileHash -LiteralPath $zip -Algorithm SHA256
