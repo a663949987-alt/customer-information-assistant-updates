@@ -1,16 +1,16 @@
 {
-  "version": "4.2.36",
+  "version": "4.2.37",
   "publishedAt": "2026-10-29",
-  "announcement": "4.2.36：修复网关短信返回JSON对象时同步报错，兼容嵌套短信列表。",
-  "changelog": "4.2.36\n\n- 修复网关返回对象包含短信数组时解析失败的问题，兼容JSON对象、直接数组和嵌套items/data结构，分页继续正常读取。\n- 非法或错误响应保留原本机聊天记录，不当作空历史覆盖。\n\n隔离回归和补丁安装校验通过，未发送真实短信。\n",
-  "downloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.2.36/customer-information-assistant-windows.zip",
-  "backupDownloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.2.36/customer-information-assistant-windows.zip",
-  "sha256": "1039EC841D1903075DFE1C5E0531597192F4C2950C42C53861217B99BFA5E0DF",
+  "announcement": "4.2.37：修复手动新建网关会话发送后不显示聊天内容。",
+  "changelog": "修复网关手动新建号码会话的短信记录被客户范围过滤，导致发送成功后聊天区仍为空的问题。\n\n手动新建的会话按各自网关保存和显示记录，其他无关短信继续过滤。已通过隔离回归测试；未发送真实短信。\n",
+  "downloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.2.37/customer-information-assistant-windows.zip",
+  "backupDownloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.2.37/customer-information-assistant-windows.zip",
+  "sha256": "F297DA408B81F3AA9D58AF0C850AEFE805157D6F312A33EF259CFD24E392DB28",
   "patches": [
     {
-      "fromVersion": "4.2.35",
-      "downloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.2.36/customer-information-assistant-patch.zip",
-      "sha256": "CAC99D1C66649E75F890FE1382876746B11F3E655EECCA20118A1452BE119518",
+      "fromVersion": "4.2.36",
+      "downloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.2.37/customer-information-assistant-patch.zip",
+      "sha256": "519F132AF0315CD50C004F51588432226E0EE426AA8656D66C83CA8FA6623937",
       "requiredFiles": {
         "客户信息助手.runtimeconfig.json": "2556F3E7CB7F562C3139A4C08EA55A28FBA36F396A1FF2E49F1AA66AA27ADAA3",
         "客户信息助手.staticwebassets.endpoints.json": "42335271D1BC14B73B5931DDF80A814F432AF7BDF08DADD3DB3CB801B93BC9AC",
