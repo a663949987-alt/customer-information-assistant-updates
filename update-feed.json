@@ -1,16 +1,16 @@
 {
-  "version": "4.2.26",
-  "publishedAt": "2026-10-28",
-  "announcement": "4.2.26：核对发送与回复监听，修复手机发送记录保存，禁止未确认招呼自动重发。",
-  "changelog": "4.2.26\n\n- 手机连接确认发送后独立保存正文与本机号码，微软缓存缺失不再造成新增本机发送记录丢失；缓存补入时合并对应记录。\n- 回复监听只处理有姓名手机号的导入客户及有此前发送依据的回复，修正历史补入误播、回复时间顺序及历史同内容误排除。\n- 网关手动、一键及自动招呼统一禁止未确认任务自动再次下发；保留发送锁、SIM校验及暂停保护。\n- 当前客户资料旁增加一键复制招呼，调整今日处理与回复指标对齐。\n\n旧备份缺失的招呼正文无法据客户来信推测补造。测试使用隔离数据，未发送真实短信。\n",
-  "downloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.2.26/customer-information-assistant-windows.zip",
-  "backupDownloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.2.26/customer-information-assistant-windows.zip",
-  "sha256": "4FC9601CDAB61241D5AAEDABD7C278E7D0B5C178DF3ADA2C183458BDBF66545E",
+  "version": "4.2.27",
+  "publishedAt": "2026-10-29",
+  "announcement": "4.2.27：每天一次获取发送资格，当天重启复用；修复启动失败原因不明显。",
+  "changelog": "4.2.27\n\n- 自动发送每天首次使用联网校验一次，当天停止后再启动、重开软件和一键招呼共用本机加密保存的资格，不再反复请求账号额度。\n- 按北京时间跨天后重新校验，切换登录或版本后重新校验；失败结果不会缓存，发送线路仍正常检查连接。\n- 修复启动失败后按钮恢复但原因不显眼的问题，在启动按钮下方持续显示网络、VPN、登录过期或线路错误，并提供账号页面入口。\n- 启动中明确显示正在启动；发送引擎未进入运行状态时不再当作启动成功。\n\n已通过隔离回归与更新包安装校验；未发送真实短信。\n",
+  "downloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.2.27/customer-information-assistant-windows.zip",
+  "backupDownloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.2.27/customer-information-assistant-windows.zip",
+  "sha256": "C6471754B215C9EDA868346284811E43853C266D1728F14EF35FF8FFE5380DC3",
   "patches": [
     {
-      "fromVersion": "4.2.25",
-      "downloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.2.26/customer-information-assistant-patch.zip",
-      "sha256": "0C5E82DBA5BAACA6431E073D5A71475536DA583A90ED5A705108763DD01FCC7E",
+      "fromVersion": "4.2.26",
+      "downloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.2.27/customer-information-assistant-patch.zip",
+      "sha256": "29645835F5CD947BCC832C95D00E61D82BFA69D1352EB8AD75B2F3DB1069DFB6",
       "requiredFiles": {
         "客户信息助手.runtimeconfig.json": "2556F3E7CB7F562C3139A4C08EA55A28FBA36F396A1FF2E49F1AA66AA27ADAA3",
         "Accessibility.dll": "8A445CFD0D566A0BFBEBD30BA3CD1BAB449C73F22F40DC4ABA499BF96A2F0850",
