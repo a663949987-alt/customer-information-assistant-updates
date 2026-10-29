@@ -1,16 +1,16 @@
 {
-  "version": "4.2.32",
+  "version": "4.2.34",
   "publishedAt": "2026-10-29",
-  "announcement": "4.2.32：新增手机弱网确认与限次补发，自动发送期间可独立浏览客户资料。",
-  "changelog": "4.2.32\n\n- 自动发送期间可通过上一位、下一位查看客户资料，浏览位置独立于发送队列，定时刷新不会抢回浏览位置。\n- 手机线路新增可自行勾选并保存的弱网模式：确认等待上限取该线路最小间隔；确认成功或超时跳过后，再完整等待下一轮随机间隔，其他网关线路不受影响。等待记录重开软件后保留。\n- 已提交但未确认的客户保持未处理并锁定，不再因缓存延迟直接暂停整个手机线路；延迟确认后同步记录和处理进度。\n- 明确未提交且可安全重试的手机失败，在下一次正常发送时机自动补发一次；预算持久保存，二次失败锁定并暂停手机线路。\n- 当前客户处新增核对并补发入口：停止自动发送后人工确认，再检查原设备缓存；已有发送记录则取消补发，缓存无法核对时保留锁定。\n- 半后台准备和提交期间短暂锁定鼠标键盘，提交后解锁，独立线程最长12秒自动解锁。Ctrl+Alt+Del可提前解除。\n\n隔离回归、独立界面浏览测试与补丁安装校验通过。未发送真实短信，未实测桌面键鼠锁定和真实弱网运营商延迟。\n",
-  "downloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.2.32/customer-information-assistant-windows.zip",
-  "backupDownloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.2.32/customer-information-assistant-windows.zip",
-  "sha256": "40662B276F633ACC9D2227C46CBDCEDDC7BFE562130E2CDF2B13E661CDE246C1",
+  "announcement": "4.2.34：修复半后台开关覆盖和锁定失败，启动申请管理员权限；回复按客户去重及最窄长布局。",
+  "changelog": "4.2.34\n\n- 正常启动申请 Windows 管理员权限，拒绝授权则退出；隔离测试和只读审计入口不提权。\n- 修复发送引擎旧配置覆盖半后台开关，关闭后使用普通发送流程，不要求锁定键鼠。\n- 半后台尽量短暂锁定键鼠；系统拒绝锁定时明确提示并保留原来的输入监测保护，有用户操作立即停止，不再直接因锁定失败阻止发送。锁定仍有独立12秒自动解锁。\n- 今日总回复按客户手机号去重，同一客户当天回复多次或跨所选线路回复均只计1条。\n- 长布局按钮按当前字号调整至最窄横向长布局并居中，不再拉成大窗口。\n\n隔离回归和补丁安装校验通过；未发送真实短信，未在用户桌面实测管理员授权和键鼠锁定。\n",
+  "downloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.2.34/customer-information-assistant-windows.zip",
+  "backupDownloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.2.34/customer-information-assistant-windows.zip",
+  "sha256": "52E76DB722BAF4C611E49FCEF355B49F2679D61331214110A39A988A0B709A51",
   "patches": [
     {
-      "fromVersion": "4.2.29",
-      "downloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.2.32/customer-information-assistant-patch.zip",
-      "sha256": "D2DED4BA2C0FECECD24CFD3B0A657D81DF0CD1BE9E6B741BBE1A26E8D9974750",
+      "fromVersion": "4.2.32",
+      "downloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.2.34/customer-information-assistant-patch.zip",
+      "sha256": "401DE1E3133A40CADCEB8344637282BC5C61AD014A092D553954CFD42D87DAF0",
       "requiredFiles": {
         "客户信息助手.runtimeconfig.json": "2556F3E7CB7F562C3139A4C08EA55A28FBA36F396A1FF2E49F1AA66AA27ADAA3",
         "客户信息助手.staticwebassets.endpoints.json": "7C78BB8910EFDC8D53B07D4531C4A313CF22C1BE678ADF0B19DD172346A7303A",
