@@ -25,8 +25,8 @@ jobs:
           if((Get-FileHash $baseZip -Algorithm SHA256).Hash -ne '8FD85C97E3123A1646EB8B0E8950D2AE14A1451FE7C9203FF19E2ABB882E6B48'){throw 'Base hash mismatch'}
           $patch=Join-Path $delta 'customer-information-assistant-patch.zip'
           $headers=@{Authorization='Bearer '+$env:GH_TOKEN;Accept='application/octet-stream';'User-Agent'='release-verifier'}
-          Invoke-WebRequest -Uri 'https://api.github.com/repos/a663949987-alt/customer-information-assistant-updates/releases/assets/692166148' -Headers $headers -OutFile $patch
-          if((Get-FileHash $patch -Algorithm SHA256).Hash -ne 'FA94FBE2981D0959104033C006D35523DF8597CA34D376E848EFCAF3E0E6EFD8'){throw 'Patch hash mismatch'}
+          Invoke-WebRequest -Uri 'https://api.github.com/repos/a663949987-alt/customer-information-assistant-updates/releases/assets/692175823' -Headers $headers -OutFile $patch
+          if((Get-FileHash $patch -Algorithm SHA256).Hash -ne 'C1C69BFA696559B48921221CE1CB6F0ACA9DE21909764E034551DC757C45E593'){throw 'Patch hash mismatch'}
           Expand-Archive -LiteralPath $baseZip -DestinationPath $app
           Expand-Archive -LiteralPath $patch -DestinationPath $overlay
           foreach($file in Get-ChildItem -LiteralPath $overlay -File -Recurse){
@@ -45,7 +45,7 @@ jobs:
           if([Diagnostics.FileVersionInfo]::GetVersionInfo((Join-Path $app '客户信息助手.dll')).FileVersion -ne '4.2.53.0'){throw 'Version mismatch'}
           $zip=Join-Path $env:RUNNER_TEMP 'customer-information-assistant-windows.zip'
           Compress-Archive -Path (Join-Path $app '*') -DestinationPath $zip -CompressionLevel Optimal
-          $api='https://uploads.github.com/repos/a663949987-alt/customer-information-assistant-updates/releases/429049283/assets?name=customer-information-assistant-windows.zip'
+          $api='https://uploads.github.com/repos/a663949987-alt/customer-information-assistant-updates/releases/429053141/assets?name=customer-information-assistant-windows.zip'
           $uploaded=Invoke-RestMethod -Method Post -Uri $api -Headers @{Authorization='Bearer '+$env:GH_TOKEN;'User-Agent'='release-verifier'} -ContentType 'application/zip' -InFile $zip
           if($uploaded.state -ne 'uploaded' -or $uploaded.digest -ne 'sha256:'+(Get-FileHash $zip -Algorithm SHA256).Hash.ToLowerInvariant()){throw 'Uploaded full package hash mismatch'}
           Write-Output ('Verified full package SHA256: '+$uploaded.digest)
