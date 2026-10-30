@@ -3,13 +3,13 @@
   "publishedAt": "2026-10-30",
   "announcement": "4.2.50：手机发送未确认及余额不足提醒。",
   "changelog": "客户信息助手 4.2.50\n\n- 手机连接自动发送超过一分钟未确认时停止、弹窗并播放提醒，不自动重发。\n- 运营商余额不足短信使用相同提醒音。\n- 改善操作后返回窗口和发送后的刷新。\n",
-  "downloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.2.50/customer-information-assistant-windows.zip",
-  "backupDownloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.2.50/customer-information-assistant-windows.zip",
+  "downloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.2.50/customer-information-assistant-windows.zip?release=4.2.50",
+  "backupDownloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.2.50/customer-information-assistant-windows.zip?release=4.2.50",
   "sha256": "E9D56C085DD086415502AE0CE8B5279935DB2B417063C53E154A4864D25A94EE",
   "patches": [
     {
       "fromVersion": "4.2.49",
-      "downloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.2.50/customer-information-assistant-patch.zip",
+      "downloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.2.50/customer-information-assistant-patch.zip?release=4.2.50",
       "sha256": "6D7EEEDDE2A6D700364493498BCBD4B3699EF227B2AAE1E5A206E61B021C8BA2",
       "requiredFiles": {
         "Accessibility.dll": "8A445CFD0D566A0BFBEBD30BA3CD1BAB449C73F22F40DC4ABA499BF96A2F0850",
