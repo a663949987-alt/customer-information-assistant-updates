@@ -1,10 +1,10 @@
 {
-  "version": "4.2.64",
+  "version": "4.2.65",
   "publishedAt": "2026-10-31",
-  "announcement": "4.2.64：修复多通道顶栏姓名、招呼计时与消息计时重叠；独立收缩和省略显示，适配窄窗口。",
-  "changelog": "4.2.64：修复多通道顶栏姓名、招呼计时与消息计时重叠；独立收缩和省略显示，适配窄窗口。",
-  "downloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.2.64/customer-information-assistant-windows.zip",
-  "backupDownloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.2.64/customer-information-assistant-windows.zip",
-  "sha256": "7D2CFC55BA9545CBAB9A8CEA11CCD83D6816A93E9653490EB58257759935DCE8",
+  "announcement": "4.2.65：自动刷新开关统一控制定时、弱网与发送后刷新；关闭时仅读取缓存。修复刷新窗口恢复顺序导致前台露出。",
+  "changelog": "4.2.65：自动刷新开关统一控制定时、弱网与发送后刷新；关闭时仅读取缓存。修复刷新窗口恢复顺序导致前台露出。",
+  "downloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.2.65/customer-information-assistant-windows.zip",
+  "backupDownloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.2.65/customer-information-assistant-windows.zip",
+  "sha256": "FFEF0F44C6B33233BA8C9E519FBB80A5F6C5DEC13FC6B14ABA11FFC16CB68851",
   "patches": []
 }
