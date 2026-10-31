@@ -1,10 +1,10 @@
 {
-  "version": "4.2.67",
+  "version": "4.2.68",
   "publishedAt": "2026-10-31",
-  "announcement": "4.2.67：顶部仅显示正在启用的线路，暂停网关后保留手机连接状态；单通道紧凑布局；下一位使用实际队列筛选。包含屏幕外手动刷新及三个会话置顶后重新加载。",
-  "changelog": "4.2.67：顶部仅显示正在启用的线路，暂停网关后保留手机连接状态；单通道紧凑布局；下一位使用实际队列筛选。包含屏幕外手动刷新及三个会话置顶后重新加载。",
-  "downloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.2.67/customer-information-assistant-windows.zip",
-  "backupDownloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.2.67/customer-information-assistant-windows.zip",
-  "sha256": "4FE44518201B6773414CDEAF4B4444268358C73E3A42E7CFBF7E5A290A2D86DD",
+  "announcement": "4.2.68：新增1080×1080正方形聊天滚动视频导出，支持慢速、正常、快速及10至900秒自定义时长，优先MP4；包含屏幕外手动刷新、三个会话置顶变更后重新加载、停用通道顶栏适配。",
+  "changelog": "4.2.68：新增1080×1080正方形聊天滚动视频导出，支持慢速、正常、快速及10至900秒自定义时长，优先MP4；包含屏幕外手动刷新、三个会话置顶变更后重新加载、停用通道顶栏适配。",
+  "downloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.2.68/customer-information-assistant-windows.zip",
+  "backupDownloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.2.68/customer-information-assistant-windows.zip",
+  "sha256": "AB1D9557E10B0283E94252C5D5EA5CA2FFDEF2A001A6BA36ABF4239F8AA46B42",
   "patches": []
 }
