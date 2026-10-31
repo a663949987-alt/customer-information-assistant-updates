@@ -1,10 +1,10 @@
 {
-  "version": "4.2.65",
+  "version": "4.2.67",
   "publishedAt": "2026-10-31",
-  "announcement": "4.2.65：自动刷新开关统一控制定时、弱网与发送后刷新；关闭时仅读取缓存。修复刷新窗口恢复顺序导致前台露出。",
-  "changelog": "4.2.65：自动刷新开关统一控制定时、弱网与发送后刷新；关闭时仅读取缓存。修复刷新窗口恢复顺序导致前台露出。",
-  "downloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.2.65/customer-information-assistant-windows-clean.zip",
-  "backupDownloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.2.65/customer-information-assistant-windows-clean.zip",
-  "sha256": "BD43B4B5472DC6319313F7473FF8CE390A2BC5D90EEFED2F0D982C39D6845D85",
+  "announcement": "4.2.67：顶部仅显示正在启用的线路，暂停网关后保留手机连接状态；单通道紧凑布局；下一位使用实际队列筛选。包含屏幕外手动刷新及三个会话置顶后重新加载。",
+  "changelog": "4.2.67：顶部仅显示正在启用的线路，暂停网关后保留手机连接状态；单通道紧凑布局；下一位使用实际队列筛选。包含屏幕外手动刷新及三个会话置顶后重新加载。",
+  "downloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.2.67/customer-information-assistant-windows.zip",
+  "backupDownloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.2.67/customer-information-assistant-windows.zip",
+  "sha256": "4FE44518201B6773414CDEAF4B4444268358C73E3A42E7CFBF7E5A290A2D86DD",
   "patches": []
 }
