@@ -1,6 +1,6 @@
 {
   "version": "4.2.68",
-  "publishedAt": "2026-10-31",
+  "publishedAt": "2026-10-31T22:05:04.7045748+08:00",
   "announcement": "4.2.68：新增1080×1080正方形聊天滚动视频导出，支持慢速、正常、快速及10至900秒自定义时长，优先MP4；包含屏幕外手动刷新、三个会话置顶变更后重新加载、停用通道顶栏适配。",
   "changelog": "4.2.68：新增1080×1080正方形聊天滚动视频导出，支持慢速、正常、快速及10至900秒自定义时长，优先MP4；包含屏幕外手动刷新、三个会话置顶变更后重新加载、停用通道顶栏适配。",
   "downloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.2.68/customer-information-assistant-windows.zip",
