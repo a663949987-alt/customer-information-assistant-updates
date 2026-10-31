@@ -1,12 +1,20 @@
 {
-  "version": "4.2.59",
+  "version": "4.2.60",
   "publishedAt": "2026-10-31",
-  "announcement": "4.2.59：手机弱网发送 2 分钟未确认即停止并提示，顶栏显示今日发送、回复和下粉。",
-  "changelog": "# 客户信息助手 4.2.59\n\n- 顶栏统计今日已发、今日回复、今日下粉，数字加粗并随窗口宽度收紧。\n- 去掉聊天头部重复的“下次招呼”倒计时，保留自动发送状态、下一位客户和招呼预览。\n- 手机连接发送提交后仍未从本机缓存确认时，自动刷新并重新核对；只刷新与读缓存，不会重发。弱网模式每 10 秒刷新核对，2 分钟仍未确认则停止本轮自动发送并弹窗说明；客户保持发送锁，不自动补发。\n- 普通模式发送 1 分钟仍未确认时停止本轮自动发送并弹窗说明；超时先再核对一次本机缓存。\n- 顶栏网络延迟改为可点击按钮，点按立即重新 ping。\n- 修复窄窗口侧栏展开箭头遮挡“短信中心”标题的问题。\n- 修改每条线路的随机间隔后，当前轮倒计时不变，新时间范围从下一轮发送开始生效。\r\n",
-  "downloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.2.59/customer-information-assistant-windows.zip?release=4.2.59",
-  "backupDownloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.2.59/customer-information-assistant-windows.zip?release=4.2.59",
-  "sha256": "B3ADCA6428BA4BDE2CCE06086F1A610938FDD6CE3CAA50077646AE24394A36F3",
+  "announcement": "4.2.60：修复 smstop.cn 网关设备列表读取失败，兼容设备唯一标识字段。",
+  "changelog": "# 客户信息助手 4.2.60\n\n- 修复 smstop.cn 网关登录成功后，设备列表误报“账号下没有设备”的问题。\n- 兼容设备列表 `data.devices`、设备标识 `device_uuid`，并保留 `last_seen_at` 在线状态和双 SIM 号码读取。\n- 保留 4.2.59 的弱网发送确认与顶栏统计改动。\n\n验证：使用用户提供的网关账号只读登录，设备接口返回 1 台设备；没有调用短信发送接口。离线设备格式回归测试和全量自检通过。",
+  "downloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.2.60/customer-information-assistant-windows.zip?release=4.2.60",
+  "backupDownloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.2.60/customer-information-assistant-windows.zip?release=4.2.60",
+  "sha256": "35F39A7405EE8CD2F8314250F282977DED4707B91A71BC2D12FA2EF9D964914C",
   "patches": [
+    {
+      "fromVersion": "4.2.59",
+      "downloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.2.60/customer-information-assistant-patch.zip?release=4.2.60",
+      "sha256": "53447F63ADC01E9339266B0C66AEFE0CEA955D62932B6E715677F353B1A85EFB",
+      "requiredFiles": {
+        "客户信息助手.dll": "5335BE55E7358FD2ACAF03F4696EC89F38810E9BFEE33621DBB056A792E03E1E"
+      }
+    },
     {
       "fromVersion": "4.2.57",
       "downloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.2.58/customer-information-assistant-patch.zip?release=4.2.58",
