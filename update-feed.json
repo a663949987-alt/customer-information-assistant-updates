@@ -1,10 +1,10 @@
 {
-  "version": "4.2.61",
+  "version": "4.2.62",
   "publishedAt": "2026-10-31",
-  "announcement": "4.2.61：修复 smstop 登录令牌解析；顶栏今日已处理与客户工作台统一统计。",
-  "changelog": "4.2.61：修复 smstop 登录令牌解析；顶栏今日已处理与客户工作台统一统计。",
-  "downloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.2.61/customer-information-assistant-windows-clean.zip",
-  "backupDownloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.2.61/customer-information-assistant-windows-clean.zip",
-  "sha256": "441ADE4CBB38CE65B7BBF5E50B962B55F4F95A69C277AA1BE110CDD9BF643871",
+  "announcement": "4.2.62：锁键鼠时显示屏幕光晕，解锁后消失；下载前重新检查更新；修正打包目录。包含网关登录及统计修复。",
+  "changelog": "4.2.62：锁键鼠时显示屏幕光晕，解锁后消失；下载前重新检查更新；修正打包目录。包含网关登录及统计修复。",
+  "downloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.2.62/customer-information-assistant-windows.zip",
+  "backupDownloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.2.62/customer-information-assistant-windows.zip",
+  "sha256": "73EE53D675A46445139898458CAC40F09E90E19B4292213E9B6DBC98C93385A5",
   "patches": []
 }
