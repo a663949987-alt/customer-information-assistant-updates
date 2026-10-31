@@ -1,10 +1,10 @@
 {
-  "version": "4.2.63",
+  "version": "4.2.64",
   "publishedAt": "2026-10-31",
-  "announcement": "4.2.63：修复切页重复弹网关登录；多通道姓名与下次时间按网关1、网关2、手机连接排序；独立保存各通道招呼及消息计时；紧凑适配顶栏。",
-  "changelog": "4.2.63：修复切页重复弹网关登录；多通道姓名与下次时间按网关1、网关2、手机连接排序；独立保存各通道招呼及消息计时；紧凑适配顶栏。",
-  "downloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.2.63/customer-information-assistant-windows.zip",
-  "backupDownloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.2.63/customer-information-assistant-windows.zip",
-  "sha256": "7383431A8F81FB8BA151A83BCBC23D74112A230D4CC8BBA45C40D12012971A55",
+  "announcement": "4.2.64：修复多通道顶栏姓名、招呼计时与消息计时重叠；独立收缩和省略显示，适配窄窗口。",
+  "changelog": "4.2.64：修复多通道顶栏姓名、招呼计时与消息计时重叠；独立收缩和省略显示，适配窄窗口。",
+  "downloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.2.64/customer-information-assistant-windows.zip",
+  "backupDownloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.2.64/customer-information-assistant-windows.zip",
+  "sha256": "7D2CFC55BA9545CBAB9A8CEA11CCD83D6816A93E9653490EB58257759935DCE8",
   "patches": []
 }
