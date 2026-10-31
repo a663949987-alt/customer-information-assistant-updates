@@ -1,0 +1,51 @@
+name: Assemble verified 4.2.58 release
+on:
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  assemble:
+    runs-on: windows-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Assemble and verify application files
+        shell: pwsh
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          $ErrorActionPreference='Stop'
+          $base=Join-Path $env:RUNNER_TEMP 'base-package'
+          $delta=Join-Path $env:RUNNER_TEMP 'delta-package'
+          $app=Join-Path $env:RUNNER_TEMP 'verified-app'
+          $overlay=Join-Path $env:RUNNER_TEMP 'verified-overlay'
+          New-Item -ItemType Directory -Path $base,$delta | Out-Null
+          gh release download v4.2.57 --pattern customer-information-assistant-windows.zip --dir $base
+          if($LASTEXITCODE -ne 0){throw 'Base download failed'}
+          $baseZip=Join-Path $base 'customer-information-assistant-windows.zip'
+          if((Get-FileHash $baseZip -Algorithm SHA256).Hash -ne '05715536A84F27990840D524C211C27419409D9F668496BF5DAF1A0D253E53B1'){throw 'Base hash mismatch'}
+          $patch=Join-Path $delta 'customer-information-assistant-patch.zip'
+          $headers=@{Authorization='Bearer '+$env:GH_TOKEN;Accept='application/octet-stream';'User-Agent'='release-verifier'}
+          Invoke-WebRequest -Uri 'https://api.github.com/repos/a663949987-alt/customer-information-assistant-updates/releases/assets/693921296' -Headers $headers -OutFile $patch
+          if((Get-FileHash $patch -Algorithm SHA256).Hash -ne 'A67C81204708E6F774DD61E02BE2B55463F9FC240279EC98B11324097907FCD7'){throw 'Patch hash mismatch'}
+          Expand-Archive -LiteralPath $baseZip -DestinationPath $app
+          Expand-Archive -LiteralPath $patch -DestinationPath $overlay
+          foreach($file in Get-ChildItem -LiteralPath $overlay -File -Recurse){
+            $rel=[IO.Path]::GetRelativePath($overlay,$file.FullName)
+            $target=Join-Path $app $rel
+            New-Item -ItemType Directory -Path (Split-Path $target) -Force | Out-Null
+            Copy-Item -LiteralPath $file.FullName -Destination $target -Force
+          }
+          $manifest=Get-Content release-manifest-4.2.58.json -Raw | ConvertFrom-Json -AsHashtable
+          $actual=@(Get-ChildItem -LiteralPath $app -File -Recurse)
+          if($actual.Count -ne $manifest.Count){throw 'Unexpected file count'}
+          foreach($file in $actual){
+            $rel=[IO.Path]::GetRelativePath($app,$file.FullName).Replace('\','/')
+            if(!$manifest.ContainsKey($rel) -or (Get-FileHash -LiteralPath $file.FullName).Hash -ne $manifest[$rel]){throw "File mismatch: $rel"}
+          }
+          if([Diagnostics.FileVersionInfo]::GetVersionInfo((Join-Path $app '客户信息助手.dll')).FileVersion -ne '4.2.58.0'){throw 'Version mismatch'}
+          $zip=Join-Path $env:RUNNER_TEMP 'customer-information-assistant-windows.zip'
+          Compress-Archive -Path (Join-Path $app '*') -DestinationPath $zip -CompressionLevel Optimal
+          $api='https://uploads.github.com/repos/a663949987-alt/customer-information-assistant-updates/releases/429626034/assets?name=customer-information-assistant-windows.zip'
+          $uploaded=Invoke-RestMethod -Method Post -Uri $api -Headers @{Authorization='Bearer '+$env:GH_TOKEN;'User-Agent'='release-verifier'} -ContentType 'application/zip' -InFile $zip
+          if($uploaded.state -ne 'uploaded' -or $uploaded.digest -ne 'sha256:'+(Get-FileHash $zip -Algorithm SHA256).Hash.ToLowerInvariant()){throw 'Uploaded full package hash mismatch'}
+          Write-Output ('Verified full package SHA256: '+$uploaded.digest)
