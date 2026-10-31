@@ -3,8 +3,8 @@
   "publishedAt": "2026-10-31",
   "announcement": "4.2.65：自动刷新开关统一控制定时、弱网与发送后刷新；关闭时仅读取缓存。修复刷新窗口恢复顺序导致前台露出。",
   "changelog": "4.2.65：自动刷新开关统一控制定时、弱网与发送后刷新；关闭时仅读取缓存。修复刷新窗口恢复顺序导致前台露出。",
-  "downloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.2.65/customer-information-assistant-windows.zip",
-  "backupDownloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.2.65/customer-information-assistant-windows.zip",
-  "sha256": "FFEF0F44C6B33233BA8C9E519FBB80A5F6C5DEC13FC6B14ABA11FFC16CB68851",
+  "downloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.2.65/customer-information-assistant-windows-clean.zip",
+  "backupDownloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.2.65/customer-information-assistant-windows-clean.zip",
+  "sha256": "BD43B4B5472DC6319313F7473FF8CE390A2BC5D90EEFED2F0D982C39D6845D85",
   "patches": []
 }
