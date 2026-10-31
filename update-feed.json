@@ -3,8 +3,8 @@
   "publishedAt": "2026-10-31",
   "announcement": "4.2.61：修复 smstop 登录令牌解析；顶栏今日已处理与客户工作台统一统计。",
   "changelog": "4.2.61：修复 smstop 登录令牌解析；顶栏今日已处理与客户工作台统一统计。",
-  "downloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.2.61/customer-information-assistant-windows.zip?release=4.2.61",
-  "backupDownloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.2.61/customer-information-assistant-windows.zip?release=4.2.61",
-  "sha256": "D1E5F8936CF09AC7CCE0487D75F15661A35A3B5DBD9689B7E979DAED394F71DF",
+  "downloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.2.61/customer-information-assistant-windows-clean.zip",
+  "backupDownloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.2.61/customer-information-assistant-windows-clean.zip",
+  "sha256": "441ADE4CBB38CE65B7BBF5E50B962B55F4F95A69C277AA1BE110CDD9BF643871",
   "patches": []
 }
