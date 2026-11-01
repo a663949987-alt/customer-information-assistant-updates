@@ -1,10 +1,10 @@
 {
-  "version": "4.2.79",
-  "publishedAt": "2026-11-01T17:24:17.5898563+08:00",
-  "announcement": "4.2.79：消息发送失败、发送超时和网关脱机共用提醒音，声音设置增加明确入口，支持更换、试听和恢复默认。手机短信提交后待缓存确认期间，普通模式约10秒、弱网约5秒尝试刷新，等待键鼠空闲、不重复发送；确认或超时后停止加密刷新。缓存确认排除失败/发送中/旧记录，兼容+86及换行。定时草稿支持秒数输入和30秒/2分钟/5分钟快捷选项，跨会话持续倒计时并可停止。完整包自带运行环境，不含AI及本地模型。",
-  "changelog": "4.2.79：消息发送失败、发送超时和网关脱机共用提醒音，声音设置增加明确入口，支持更换、试听和恢复默认。手机短信提交后待缓存确认期间，普通模式约10秒、弱网约5秒尝试刷新，等待键鼠空闲、不重复发送；确认或超时后停止加密刷新。缓存确认排除失败/发送中/旧记录，兼容+86及换行。定时草稿支持秒数输入和30秒/2分钟/5分钟快捷选项，跨会话持续倒计时并可停止。完整包自带运行环境，不含AI及本地模型。",
-  "downloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.2.79/customer-information-assistant-windows.zip",
-  "backupDownloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.2.79/customer-information-assistant-windows.zip",
-  "sha256": "3C3BDE817359457BC4C20EFECC6A0D02100E304A162D5253425731AF0B41BCC0",
+  "version": "4.2.80",
+  "publishedAt": "2026-11-01T18:20:57.6703545+08:00",
+  "announcement": "4.2.80：兼容手机连接保留多个手机短信缓存的情况。发送前冻结可读缓存及消息基线，按新增已发送记录、号码、正文和时间识别本次发送；不同缓存相同编号独立处理。旧缓存保留，不删除聊天，不因未确认而重复发送；全部缓存不可读时明确提示。包含此前发送失败和网关脱机提醒音、待发送加密刷新及秒数定时草稿修复。完整包自带运行环境，不含本地AI模型。",
+  "changelog": "4.2.80：兼容手机连接保留多个手机短信缓存的情况。发送前冻结可读缓存及消息基线，按新增已发送记录、号码、正文和时间识别本次发送；不同缓存相同编号独立处理。旧缓存保留，不删除聊天，不因未确认而重复发送；全部缓存不可读时明确提示。包含此前发送失败和网关脱机提醒音、待发送加密刷新及秒数定时草稿修复。完整包自带运行环境，不含本地AI模型。",
+  "downloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.2.80/customer-information-assistant-windows.zip",
+  "backupDownloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.2.80/customer-information-assistant-windows.zip",
+  "sha256": "41A43686D582118DB86CBA94F6AE339E362C5B16F173AF3E9BDC4679CAE7A476",
   "patches": []
 }
