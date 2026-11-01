@@ -1,10 +1,10 @@
 {
-  "version": "4.2.69",
+  "version": "4.2.71",
   "publishedAt": "2026-10-31T22:05:04.7045748+08:00",
-  "announcement": "4.2.69：修复手机连接发送后界面无响应。顶栏下一位不再在界面线程反复读取待确认记录，发送队列批量筛选；待确认记录按文件变更缓存；计时及统计后台加载；无法判断连接状态时保留上次确认状态。",
-  "changelog": "4.2.69：修复手机连接发送后界面无响应。顶栏下一位不再在界面线程反复读取待确认记录，发送队列批量筛选；待确认记录按文件变更缓存；计时及统计后台加载；无法判断连接状态时保留上次确认状态。",
-  "downloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.2.69/customer-information-assistant-windows.zip",
-  "backupDownloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.2.69/customer-information-assistant-windows.zip",
-  "sha256": "F941ABA2D383DAC2309B95B0EB726B8295CF3D6A8672036FF7394544628EAA32",
+  "announcement": "4.2.71：修复顶部距上次招呼在单通道和缓存延迟确认后未更新；自定义招呼语保留发送上下文；缓存确认后解除弱网等待；全部会话筛选改为下粉；输入框按通道与客户独立。已按用户要求先完成本机替换并确认后发布。",
+  "changelog": "4.2.71：修复顶部距上次招呼在单通道和缓存延迟确认后未更新；自定义招呼语保留发送上下文；缓存确认后解除弱网等待；全部会话筛选改为下粉；输入框按通道与客户独立。已按用户要求先完成本机替换并确认后发布。",
+  "downloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.2.71/customer-information-assistant-windows.zip",
+  "backupDownloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.2.71/customer-information-assistant-windows.zip",
+  "sha256": "4359C205D7B9D0EE715C1F9BB5FD639100BDD30D37437CF91152887B86CCC3D9",
   "patches": []
 }
