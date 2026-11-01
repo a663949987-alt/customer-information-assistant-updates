@@ -1,10 +1,10 @@
 {
-  "version": "4.2.71",
-  "publishedAt": "2026-10-31T22:05:04.7045748+08:00",
-  "announcement": "4.2.71：修复顶部距上次招呼在单通道和缓存延迟确认后未更新；自定义招呼语保留发送上下文；缓存确认后解除弱网等待；全部会话筛选改为下粉；输入框按通道与客户独立。已按用户要求先完成本机替换并确认后发布。",
-  "changelog": "4.2.71：修复顶部距上次招呼在单通道和缓存延迟确认后未更新；自定义招呼语保留发送上下文；缓存确认后解除弱网等待；全部会话筛选改为下粉；输入框按通道与客户独立。已按用户要求先完成本机替换并确认后发布。",
-  "downloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.2.71/customer-information-assistant-windows.zip",
-  "backupDownloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.2.71/customer-information-assistant-windows.zip",
-  "sha256": "4359C205D7B9D0EE715C1F9BB5FD639100BDD30D37437CF91152887B86CCC3D9",
+  "version": "4.2.76",
+  "publishedAt": "2026-11-01T15:10:40.8227700+08:00",
+  "announcement": "4.2.76：修复更新安装依赖Get-FileHash导致失败的问题，使用内置.NET SHA256校验；完整包自带Windows x64运行环境，无需另装.NET。保留4.2.74手机连接缓存目录及分表读取兼容修复、缓存读取异常隔离和发送前缓存检查。保留本机历史和用户文件。本次不包含AI及本地模型。",
+  "changelog": "4.2.76：修复更新安装依赖Get-FileHash导致失败的问题，使用内置.NET SHA256校验；完整包自带Windows x64运行环境，无需另装.NET。保留4.2.74手机连接缓存目录及分表读取兼容修复、缓存读取异常隔离和发送前缓存检查。保留本机历史和用户文件。本次不包含AI及本地模型。",
+  "downloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.2.76/customer-information-assistant-windows.zip",
+  "backupDownloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.2.76/customer-information-assistant-windows.zip",
+  "sha256": "AEF73F9950DD055C0B886CD69874C5BBF661BE2BA7063C7234634345BF0B4364",
   "patches": []
 }
