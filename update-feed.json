@@ -1,10 +1,10 @@
 {
-  "version": "4.2.71",
-  "publishedAt": "2026-10-31T22:05:04.7045748+08:00",
-  "announcement": "4.2.71：修复顶部距上次招呼在单通道和缓存延迟确认后未更新；自定义招呼语保留发送上下文；缓存确认后解除弱网等待；全部会话筛选改为下粉；输入框按通道与客户独立。已按用户要求先完成本机替换并确认后发布。",
-  "changelog": "4.2.71：修复顶部距上次招呼在单通道和缓存延迟确认后未更新；自定义招呼语保留发送上下文；缓存确认后解除弱网等待；全部会话筛选改为下粉；输入框按通道与客户独立。已按用户要求先完成本机替换并确认后发布。",
-  "downloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.2.71/customer-information-assistant-windows.zip",
-  "backupDownloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.2.71/customer-information-assistant-windows.zip",
-  "sha256": "4359C205D7B9D0EE715C1F9BB5FD639100BDD30D37437CF91152887B86CCC3D9",
+  "version": "4.2.74",
+  "publishedAt": "2026-11-01T14:34:46.7885771+08:00",
+  "announcement": "4.2.74：修复手机连接缓存目录兼容及部分短信表不兼容导致整批聊天不显示；一个设备缓存异常不再阻断其他设备；置顶读取异常不再阻断聊天同步。新增发送前缓存可读性检查，缓存缺失时明确提示且不提交短信，避免发一条后误报网络超时。保留已有聊天和防重发保护。本次不包含AI及本地模型。另一台电脑需更新后验证。",
+  "changelog": "4.2.74：修复手机连接缓存目录兼容及部分短信表不兼容导致整批聊天不显示；一个设备缓存异常不再阻断其他设备；置顶读取异常不再阻断聊天同步。新增发送前缓存可读性检查，缓存缺失时明确提示且不提交短信，避免发一条后误报网络超时。保留已有聊天和防重发保护。本次不包含AI及本地模型。另一台电脑需更新后验证。",
+  "downloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.2.74/customer-information-assistant-windows.zip",
+  "backupDownloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.2.74/customer-information-assistant-windows.zip",
+  "sha256": "1479BBD6D3D6F5CC2BF5AE167C7748EED791DA31064CCC8532DE43D233A1585F",
   "patches": []
 }
