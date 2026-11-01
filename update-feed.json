@@ -1,10 +1,10 @@
 {
-  "version": "4.2.68",
+  "version": "4.2.69",
   "publishedAt": "2026-10-31T22:05:04.7045748+08:00",
-  "announcement": "4.2.68：新增1080×1080正方形聊天滚动视频导出，支持慢速、正常、快速及10至900秒自定义时长，优先MP4；包含屏幕外手动刷新、三个会话置顶变更后重新加载、停用通道顶栏适配。",
-  "changelog": "4.2.68：新增1080×1080正方形聊天滚动视频导出，支持慢速、正常、快速及10至900秒自定义时长，优先MP4；包含屏幕外手动刷新、三个会话置顶变更后重新加载、停用通道顶栏适配。",
-  "downloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.2.68/customer-information-assistant-windows.zip",
-  "backupDownloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.2.68/customer-information-assistant-windows.zip",
-  "sha256": "AB1D9557E10B0283E94252C5D5EA5CA2FFDEF2A001A6BA36ABF4239F8AA46B42",
+  "announcement": "4.2.69：修复手机连接发送后界面无响应。顶栏下一位不再在界面线程反复读取待确认记录，发送队列批量筛选；待确认记录按文件变更缓存；计时及统计后台加载；无法判断连接状态时保留上次确认状态。",
+  "changelog": "4.2.69：修复手机连接发送后界面无响应。顶栏下一位不再在界面线程反复读取待确认记录，发送队列批量筛选；待确认记录按文件变更缓存；计时及统计后台加载；无法判断连接状态时保留上次确认状态。",
+  "downloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.2.69/customer-information-assistant-windows.zip",
+  "backupDownloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.2.69/customer-information-assistant-windows.zip",
+  "sha256": "F941ABA2D383DAC2309B95B0EB726B8295CF3D6A8672036FF7394544628EAA32",
   "patches": []
 }
