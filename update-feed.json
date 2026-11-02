@@ -1,10 +1,10 @@
 {
-  "version": "4.2.82",
-  "publishedAt": "2026-11-01T21:14:31.3544183+08:00",
-  "announcement": "4.2.82：聊天视频导出增加静音音轨，不使用麦克风，改善无声视频被聊天软件当成动图展示的兼容性；修复带音视频编码参数的数据导出解析。手机连接聊天记录合并兼容同一消息时间校正，统一合并本机确认和缓存备份，保留不同消息编号的真实发送记录。保留网关登录错误分类及多手机缓存兼容。完整包自带运行环境。",
-  "changelog": "4.2.82：聊天视频导出增加静音音轨，不使用麦克风，改善无声视频被聊天软件当成动图展示的兼容性；修复带音视频编码参数的数据导出解析。手机连接聊天记录合并兼容同一消息时间校正，统一合并本机确认和缓存备份，保留不同消息编号的真实发送记录。保留网关登录错误分类及多手机缓存兼容。完整包自带运行环境。",
-  "downloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.2.82/customer-information-assistant-windows.zip",
-  "backupDownloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.2.82/customer-information-assistant-windows.zip",
-  "sha256": "204C065D9DF2643041A3BFFB6AA70165462BFA0F5FE20B6B8C391B5FB88BAAD5",
+  "version": "4.2.88",
+  "publishedAt": "2026-11-02T14:17:14.5266050+08:00",
+  "announcement": "4.2.88：增加独立启动加载窗口，至少显示5秒，并等待主界面及首轮本机缓存初始化；优化短信中心布局、聊天气泡和视频导出；改进手机连接刷新状态、发送进度提示及网关登录错误提示；日报保留跨月存活客户并分组，手机连接会话支持删除本机记录。完整安装包包含运行环境。",
+  "changelog": "4.2.88：增加独立启动加载窗口，至少显示5秒，并等待主界面及首轮本机缓存初始化；优化短信中心布局、聊天气泡和视频导出；改进手机连接刷新状态、发送进度提示及网关登录错误提示；日报保留跨月存活客户并分组，手机连接会话支持删除本机记录。完整安装包包含运行环境。",
+  "downloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.2.88/customer-information-assistant-windows.zip",
+  "backupDownloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.2.88/customer-information-assistant-windows.zip",
+  "sha256": "08811BCAD8D63B026214F3CF4F29C7AEB9EA96B29AD3B8C3680D964DE08C9AEC",
   "patches": []
 }
