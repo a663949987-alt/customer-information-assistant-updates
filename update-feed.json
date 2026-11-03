@@ -1,10 +1,10 @@
 {
-  "version": "4.2.89",
-  "publishedAt": "2026-11-02T16:12:33.3732242+08:00",
-  "announcement": "4.2.89：修正网关手动选卡优先、刷新间隔保存和已确认发送后草稿清理；改进网关置顶容错与运营商异常提醒；优化聊天界面、客户资料识别和启动体验。完整安装包包含运行环境。",
-  "changelog": "4.2.89：修正网关手动选卡优先、刷新间隔保存和已确认发送后草稿清理；改进网关置顶容错与运营商异常提醒；优化聊天界面、客户资料识别和启动体验。完整安装包包含运行环境。",
-  "downloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.2.89/customer-information-assistant-windows.zip",
-  "backupDownloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.2.89/customer-information-assistant-windows.zip",
-  "sha256": "FE958D2BD5C947B2EB0E710903C8E0F23FE76BA661CAE4FF22D13ED7F46EB7ED",
+  "version": "4.2.94",
+  "publishedAt": "2026-11-03T09:37:14.0835709+08:00",
+  "announcement": "4.2.94：统一移除带六秒倒计时的操作悬浮提示，保留发送进度、消息通知及异常弹窗；修正网关弱网状态判定与独立轮询，改进发送状态读取和聊天刷新性能；手机连接置顶由信息助手管理；新增配对码手机输入及保存安卓 APK 按钮。安装包包含运行环境。",
+  "changelog": "4.2.94：统一移除带六秒倒计时的操作悬浮提示，保留发送进度、消息通知及异常弹窗；修正网关弱网状态判定与独立轮询，改进发送状态读取和聊天刷新性能；手机连接置顶由信息助手管理；新增配对码手机输入及保存安卓 APK 按钮。安装包包含运行环境。",
+  "downloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.2.94/customer-information-assistant-windows.zip",
+  "backupDownloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.2.94/customer-information-assistant-windows.zip",
+  "sha256": "DB82C797E4E67104B53BF9CD0DD681B37F0830ABD074D8D4E366DB3C7578D665",
   "patches": []
 }
