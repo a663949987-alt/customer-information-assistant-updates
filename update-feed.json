@@ -1,12 +1,10 @@
-﻿{
-    "version":  "4.3.3",
-    "publishedAt":  "2026-11-04T08:20:25.2212025+08:00",
-    "announcement":  "4.3.3：优化手机连接发送和顶部统计读取，减少界面卡顿；支持 Ctrl+Enter 发送，新增消息自动滚到对话底部；顶部发送栏闲置收紧、运行时动画展开；地区分布入口加大；招呼样本按话术合并统计；悬浮窗重做圆角并支持等比例缩小和尺寸记忆。安装包包含运行环境。",
-    "changelog":  "4.3.3：优化手机连接发送和顶部统计读取，减少界面卡顿；支持 Ctrl+Enter 发送，新增消息自动滚到对话底部；顶部发送栏闲置收紧、运行时动画展开；地区分布入口加大；招呼样本按话术合并统计；悬浮窗重做圆角并支持等比例缩小和尺寸记忆。安装包包含运行环境。",
-    "downloadUrl":  "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.3.3/customer-information-assistant-windows.zip",
-    "backupDownloadUrl":  "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.3.3/customer-information-assistant-windows.zip",
-    "sha256":  "2A620C6FEA90FBD6E6D5FCFCEB865A5303E80CF36F50C5BD013D0E24C65E1302",
-    "patches":  [
-
-                ]
+{
+  "version": "4.3.10",
+  "publishedAt": "2026-11-04T17:51:47.8426339+08:00",
+  "announcement": "4.3.10：同一客户、设备、方向及正文在3秒内重复的消息合并显示，主界面、浮窗和导出保持一致；浮窗新回复改为点击提示才展开，新增客户置顶、最近消息列表及右键复制删除；优化按钮、滚动条、气泡间距和窄窗口布局；发送进度按通道显示。安装包包含运行环境。",
+  "changelog": "4.3.10：同一客户、设备、方向及正文在3秒内重复的消息合并显示，主界面、浮窗和导出保持一致；浮窗新回复改为点击提示才展开，新增客户置顶、最近消息列表及右键复制删除；优化按钮、滚动条、气泡间距和窄窗口布局；发送进度按通道显示。安装包包含运行环境。",
+  "downloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.3.10/customer-information-assistant-windows.zip",
+  "backupDownloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.3.10/customer-information-assistant-windows.zip",
+  "sha256": "F185001A74A3412D87FBDAE2D9A66A2A7309230DB2E8191F439E8E02E765D7DD",
+  "patches": []
 }
