@@ -1,11 +1,11 @@
 ﻿{
-    "version":  "4.3.1",
-    "publishedAt":  "2026-11-03T17:37:24.4221392+08:00",
-    "announcement":  "4.3.1：悬浮窗支持拖动边缘调整尺寸并记住大小和位置；置顶按钮区分开启与关闭状态；顶部悬浮窗入口改为醒目图标按钮，适配深浅外观；合并此前本机测试的发送显示、地区优先和界面优化。安装包包含运行环境。",
-    "changelog":  "4.3.1：悬浮窗支持拖动边缘调整尺寸并记住大小和位置；置顶按钮区分开启与关闭状态；顶部悬浮窗入口改为醒目图标按钮，适配深浅外观；合并此前本机测试的发送显示、地区优先和界面优化。安装包包含运行环境。",
-    "downloadUrl":  "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.3.1/customer-information-assistant-windows.zip",
-    "backupDownloadUrl":  "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.3.1/customer-information-assistant-windows.zip",
-    "sha256":  "B06C46B986C8675656265A4A334A7168EDD10B81BCA091665B21406CD141B81F",
+    "version":  "4.3.3",
+    "publishedAt":  "2026-11-04T08:20:25.2212025+08:00",
+    "announcement":  "4.3.3：优化手机连接发送和顶部统计读取，减少界面卡顿；支持 Ctrl+Enter 发送，新增消息自动滚到对话底部；顶部发送栏闲置收紧、运行时动画展开；地区分布入口加大；招呼样本按话术合并统计；悬浮窗重做圆角并支持等比例缩小和尺寸记忆。安装包包含运行环境。",
+    "changelog":  "4.3.3：优化手机连接发送和顶部统计读取，减少界面卡顿；支持 Ctrl+Enter 发送，新增消息自动滚到对话底部；顶部发送栏闲置收紧、运行时动画展开；地区分布入口加大；招呼样本按话术合并统计；悬浮窗重做圆角并支持等比例缩小和尺寸记忆。安装包包含运行环境。",
+    "downloadUrl":  "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.3.3/customer-information-assistant-windows.zip",
+    "backupDownloadUrl":  "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.3.3/customer-information-assistant-windows.zip",
+    "sha256":  "2A620C6FEA90FBD6E6D5FCFCEB865A5303E80CF36F50C5BD013D0E24C65E1302",
     "patches":  [
 
                 ]
