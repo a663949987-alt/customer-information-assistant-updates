@@ -1,10 +1,10 @@
 {
-  "version": "4.3.16",
-  "publishedAt": "2026-11-05T07:38:35.460Z",
-  "announcement": "4.3.16：兼容手机连接 AesGcm1 加密短信缓存，使用本机手机连接组件和当前 Windows 用户原设备密钥只读读取，不重建或修改原数据库。修复手机招呼已提交但未标记已处理的路径，等待确认仍保留防重复发送锁；缓存确认兼容 +86 号码。加密格式、错误密钥保护、原文件完整性和处理状态持久化自检通过；其他电脑升级后仍需确认实际缓存可读。",
-  "changelog": "4.3.16：兼容手机连接 AesGcm1 加密短信缓存，使用本机手机连接组件和当前 Windows 用户原设备密钥只读读取，不重建或修改原数据库。修复手机招呼已提交但未标记已处理的路径，等待确认仍保留防重复发送锁；缓存确认兼容 +86 号码。加密格式、错误密钥保护、原文件完整性和处理状态持久化自检通过；其他电脑升级后仍需确认实际缓存可读。",
-  "downloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.3.16/customer-information-assistant-windows.zip",
-  "backupDownloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.3.16/customer-information-assistant-windows.zip",
-  "sha256": "37A7B8E83C787A9E559E4D8034BA6B4AF04BC5C7B7C87B9E5F9D02003BF82618",
+  "version": "4.3.17",
+  "publishedAt": "2026-11-05T11:20:09.361Z",
+  "announcement": "4.3.17：修复网关一键粘贴账号密码连写识别，单独区分设备码和手机号，避免将设备码当作多余账号；包含4.3.16加密缓存兼容和已处理防重发修复。",
+  "changelog": "4.3.17：修复网关一键粘贴账号密码连写识别，单独区分设备码和手机号，避免将设备码当作多余账号；包含4.3.16加密缓存兼容和已处理防重发修复。",
+  "downloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.3.17/customer-information-assistant-windows.zip",
+  "backupDownloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.3.17/customer-information-assistant-windows.zip",
+  "sha256": "CDE9A0919A437B491278625247C4FE89A69F055031969F0D289FD4933FDA2603",
   "patches": []
 }
