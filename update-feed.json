@@ -1,10 +1,10 @@
 {
-  "version": "4.3.11",
-  "publishedAt": "2026-11-04T19:58:02.7572327+08:00",
-  "announcement": "4.3.11：3秒内同客户同方向相同正文合并显示；视频直接复用原生快捷回复卡，提供深浅外观，顶部与底栏固定、消息区滚动，生成后可复制视频或保存；快捷回复卡新增生成信息、生成视频与客户置顶；最近消息只显示已登录在线通道，置顶优先；悬浮窗置顶状态记忆；改善按钮、滚动条、气泡留白和窗口布局。包含运行环境。",
-  "changelog": "4.3.11：3秒内同客户同方向相同正文合并显示；视频直接复用原生快捷回复卡，提供深浅外观，顶部与底栏固定、消息区滚动，生成后可复制视频或保存；快捷回复卡新增生成信息、生成视频与客户置顶；最近消息只显示已登录在线通道，置顶优先；悬浮窗置顶状态记忆；改善按钮、滚动条、气泡留白和窗口布局。包含运行环境。",
-  "downloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.3.11/customer-information-assistant-windows.zip",
-  "backupDownloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.3.11/customer-information-assistant-windows.zip",
-  "sha256": "821143E48A86FCF261A3847F59DB960D888F7092140D7233655AEA1E6E6ADBA9",
+  "version": "4.3.14",
+  "publishedAt": "2026-11-05T10:51:41.0468494+08:00",
+  "announcement": "4.3.14：新增10分钟内回复统计，按发送时段及地区查看，云端匿名同步真实发送和收信时间；全部历史样本统计，长列表排行榜、待观察分组、地区柱状图；首次与再次回复提示音顺序播放，避免覆盖；地区剩余角标、当日额度入口、工具排序、快捷对话框高度拖拽及视频比例跟随；空闲静默更新。包含4.3.12以来的修复和Windows运行环境。旧样本无准确收信时间的部分不混入精确10分钟统计。",
+  "changelog": "4.3.14：新增10分钟内回复统计，按发送时段及地区查看，云端匿名同步真实发送和收信时间；全部历史样本统计，长列表排行榜、待观察分组、地区柱状图；首次与再次回复提示音顺序播放，避免覆盖；地区剩余角标、当日额度入口、工具排序、快捷对话框高度拖拽及视频比例跟随；空闲静默更新。包含4.3.12以来的修复和Windows运行环境。旧样本无准确收信时间的部分不混入精确10分钟统计。",
+  "downloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.3.14/customer-information-assistant-windows.zip",
+  "backupDownloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.3.14/customer-information-assistant-windows.zip",
+  "sha256": "72BE88D53FBC92EDE6D3EAC4BA15863867BEC8785FE398DC5284951152B88A23",
   "patches": []
 }
