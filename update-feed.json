@@ -1,10 +1,10 @@
 {
-  "downloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.3.21/v4321-static-release.zip",
-  "version": "4.3.21",
-  "backupDownloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.3.21/v4321-static-release.zip",
-  "changelog": "发送状态改用静态提示，优化手机连接回执核对和浅色外观。",
-  "announcement": "发送状态改用静态提示，优化手机连接回执核对和浅色外观。",
-  "publishedAt": "2026-11-06T08:22:21.9108529Z",
-  "sha256": "571C84809528D26C70164DED702D512C59158CFA8E2E81E5FCE2034AAC1768E1",
-  "patches": []
+  "sha256": "011aa4189afdcc11a80022fffe83afa32e6e9d200803887b9f0eb0645379f438",
+  "downloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.3.22/v4322-release.zip",
+  "backupDownloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.3.22/v4322-release.zip",
+  "publishedAt": "2026-11-06T14:27:05.5618523Z",
+  "version": "4.3.22",
+  "patches": [],
+  "announcement": "优化手机连接历史同步和单条发送回执核对，增加本地性能日志。",
+  "changelog": "优化手机连接历史同步和单条发送回执核对，增加本地性能日志。"
 }
