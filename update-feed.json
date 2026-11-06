@@ -1,10 +1,10 @@
 {
-  "changelog": "新增流畅度诊断和可选轻量模式。可查看发送、缓存合并、刷新和界面调度耗时。轻量模式在发送期间延后例行历史同步、置顶检查和网关轮询。",
-  "version": "4.3.19",
-  "patches": [],
-  "announcement": "新增流畅度诊断和可选轻量模式。可查看发送、缓存合并、刷新和界面调度耗时。轻量模式在发送期间延后例行历史同步、置顶检查和网关轮询。",
-  "sha256": "E90BAFEF021E5EAD87B3ECC840F44F357BD4C3B2A19E8E7919EB15109150BC08",
-  "downloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.3.19/customer-information-assistant-windows.zip",
-  "backupDownloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.3.19/customer-information-assistant-windows.zip",
-  "publishedAt": "2026-11-06T00:57:47.1811818Z"
+  "changelog": "自动保存界面卡顿线程快照，工具箱可打开快照目录。顶部自动发送通道和工作台线路开关双向同步，界面轮询合并排队。",
+  "announcement": "自动保存界面卡顿线程快照，工具箱可打开快照目录。顶部自动发送通道和工作台线路开关双向同步，界面轮询合并排队。",
+  "backupDownloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.3.20/customer-information-assistant-windows.zip",
+  "downloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.3.20/customer-information-assistant-windows.zip",
+  "version": "4.3.20",
+  "sha256": "DDCE97991EF1667F76542937B3693A993A1601AE6816E875572E21E4C802DEBC",
+  "publishedAt": "2026-11-06T01:53:18.6938922Z",
+  "patches": []
 }
