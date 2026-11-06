@@ -1,10 +1,10 @@
 {
-  "publishedAt": "2026-11-06T00:34:48.6535022Z",
-  "announcement": "手机连接提交短信后约 100 毫秒尝试刷新，未触发则在提交满 2 秒时补一次。发送回执与历史同步分开，并修复打粉号码被旧值覆盖。",
-  "sha256": "964880D2EEA3EFC8D988C5332C4DB0C7A082F366F3BE268C9CDCC948FDBC93C6",
-  "backupDownloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.3.18/customer-information-assistant-windows.zip",
-  "version": "4.3.18",
-  "downloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.3.18/customer-information-assistant-windows.zip",
+  "changelog": "新增流畅度诊断和可选轻量模式。可查看发送、缓存合并、刷新和界面调度耗时。轻量模式在发送期间延后例行历史同步、置顶检查和网关轮询。",
+  "version": "4.3.19",
   "patches": [],
-  "changelog": "手机连接提交短信后约 100 毫秒尝试刷新，未触发则在提交满 2 秒时补一次。发送回执与历史同步分开，并修复打粉号码被旧值覆盖。"
+  "announcement": "新增流畅度诊断和可选轻量模式。可查看发送、缓存合并、刷新和界面调度耗时。轻量模式在发送期间延后例行历史同步、置顶检查和网关轮询。",
+  "sha256": "E90BAFEF021E5EAD87B3ECC840F44F357BD4C3B2A19E8E7919EB15109150BC08",
+  "downloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.3.19/customer-information-assistant-windows.zip",
+  "backupDownloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.3.19/customer-information-assistant-windows.zip",
+  "publishedAt": "2026-11-06T00:57:47.1811818Z"
 }
