@@ -1,10 +1,10 @@
 {
-  "version": "4.3.17",
-  "publishedAt": "2026-11-05T11:20:09.361Z",
-  "announcement": "4.3.17：修复网关一键粘贴账号密码连写识别，单独区分设备码和手机号，避免将设备码当作多余账号；包含4.3.16加密缓存兼容和已处理防重发修复。",
-  "changelog": "4.3.17：修复网关一键粘贴账号密码连写识别，单独区分设备码和手机号，避免将设备码当作多余账号；包含4.3.16加密缓存兼容和已处理防重发修复。",
-  "downloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.3.17/customer-information-assistant-windows.zip",
-  "backupDownloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.3.17/customer-information-assistant-windows.zip",
-  "sha256": "CDE9A0919A437B491278625247C4FE89A69F055031969F0D289FD4933FDA2603",
-  "patches": []
+  "publishedAt": "2026-11-06T00:34:48.6535022Z",
+  "announcement": "手机连接提交短信后约 100 毫秒尝试刷新，未触发则在提交满 2 秒时补一次。发送回执与历史同步分开，并修复打粉号码被旧值覆盖。",
+  "sha256": "964880D2EEA3EFC8D988C5332C4DB0C7A082F366F3BE268C9CDCC948FDBC93C6",
+  "backupDownloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.3.18/customer-information-assistant-windows.zip",
+  "version": "4.3.18",
+  "downloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.3.18/customer-information-assistant-windows.zip",
+  "patches": [],
+  "changelog": "手机连接提交短信后约 100 毫秒尝试刷新，未触发则在提交满 2 秒时补一次。发送回执与历史同步分开，并修复打粉号码被旧值覆盖。"
 }
