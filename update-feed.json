@@ -1,10 +1,10 @@
 {
-  "changelog": "自动保存界面卡顿线程快照，工具箱可打开快照目录。顶部自动发送通道和工作台线路开关双向同步，界面轮询合并排队。",
-  "announcement": "自动保存界面卡顿线程快照，工具箱可打开快照目录。顶部自动发送通道和工作台线路开关双向同步，界面轮询合并排队。",
-  "backupDownloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.3.20/customer-information-assistant-windows.zip",
-  "downloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.3.20/customer-information-assistant-windows.zip",
-  "version": "4.3.20",
-  "sha256": "DDCE97991EF1667F76542937B3693A993A1601AE6816E875572E21E4C802DEBC",
-  "publishedAt": "2026-11-06T01:53:18.6938922Z",
+  "downloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.3.21/v4321-static-release.zip",
+  "version": "4.3.21",
+  "backupDownloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.3.21/v4321-static-release.zip",
+  "changelog": "发送状态改用静态提示，优化手机连接回执核对和浅色外观。",
+  "announcement": "发送状态改用静态提示，优化手机连接回执核对和浅色外观。",
+  "publishedAt": "2026-11-06T08:22:21.9108529Z",
+  "sha256": "571C84809528D26C70164DED702D512C59158CFA8E2E81E5FCE2034AAC1768E1",
   "patches": []
 }
