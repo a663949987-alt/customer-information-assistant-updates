@@ -1,10 +1,10 @@
 {
-  "sha256": "011aa4189afdcc11a80022fffe83afa32e6e9d200803887b9f0eb0645379f438",
-  "downloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.3.22/v4322-release.zip",
-  "backupDownloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.3.22/v4322-release.zip",
-  "publishedAt": "2026-11-06T14:27:05.5618523Z",
-  "version": "4.3.22",
+  "announcement": "优化手机连接屏幕外刷新、回执等待和视频后台导出。",
+  "downloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.3.23/v4323-release.zip",
+  "sha256": "a1e3581c00fd916db0160d3a83038055b63d9ec9fb48eec18441bf8ea2e4aaa6",
   "patches": [],
-  "announcement": "优化手机连接历史同步和单条发送回执核对，增加本地性能日志。",
-  "changelog": "优化手机连接历史同步和单条发送回执核对，增加本地性能日志。"
+  "publishedAt": "2026-11-07T02:43:16.2607642Z",
+  "changelog": "优化手机连接屏幕外刷新、回执等待和视频后台导出。",
+  "version": "4.3.23",
+  "backupDownloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.3.23/v4323-release.zip"
 }
