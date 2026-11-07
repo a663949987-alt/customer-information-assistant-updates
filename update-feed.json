@@ -1,10 +1,10 @@
 {
-  "version": "4.3.29",
-  "downloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.3.29/v4329-release.zip",
-  "changelog": "优化手机连接发送后的补刷新和回执显示，修复普通窗口移出屏幕失败，更新客户资料条。",
+  "version": "4.3.37",
+  "downloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.3.37/customer-information-assistant-windows.zip",
+  "changelog": "多份待发送资料合并统计地区。开启智能建议后，按电脑当前时间换算北京时间，每轮重新排序待处理地区，发送仍按各线路设定间隔执行。",
   "patches": [],
-  "publishedAt": "2026-11-07T08:24:37.3672423Z",
-  "backupDownloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.3.29/v4329-release.zip",
-  "sha256": "724c6028eedf940c49f4f924398cfd99860d934e90633d533c92bf2067e07ad8",
-  "announcement": "优化手机连接发送后的补刷新和回执显示，修复普通窗口移出屏幕失败，更新客户资料条。"
+  "publishedAt": "2026-11-07T20:35:52.6842320+08:00",
+  "backupDownloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.3.37/customer-information-assistant-windows.zip",
+  "sha256": "d8c4492a874c012e902b84fe591704abbf26e003abd35e22fd668bd5b0337dd6",
+  "announcement": "多份待发送资料合并统计地区。开启智能建议后，按电脑当前时间换算北京时间，每轮重新排序待处理地区，发送仍按各线路设定间隔执行。"
 }
