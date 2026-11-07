@@ -1,10 +1,10 @@
 {
-  "version": "4.3.26",
-  "downloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.3.26/v4326-release.zip",
-  "changelog": "修复手机连接窄窗口下刷新按钮未显示时仍尝试刷新的问题。",
+  "version": "4.3.29",
+  "downloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.3.29/v4329-release.zip",
+  "changelog": "优化手机连接发送后的补刷新和回执显示，修复普通窗口移出屏幕失败，更新客户资料条。",
   "patches": [],
-  "publishedAt": "2026-11-07T06:35:17.2064374Z",
-  "backupDownloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.3.26/v4326-release.zip",
-  "sha256": "0c25e7dca700d5186a81b5f8862851cf010671cae970fdc4f4c46ecc2aca6def",
-  "announcement": "修复手机连接窄窗口下刷新按钮未显示时仍尝试刷新的问题。"
+  "publishedAt": "2026-11-07T08:24:37.3672423Z",
+  "backupDownloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.3.29/v4329-release.zip",
+  "sha256": "724c6028eedf940c49f4f924398cfd99860d934e90633d533c92bf2067e07ad8",
+  "announcement": "优化手机连接发送后的补刷新和回执显示，修复普通窗口移出屏幕失败，更新客户资料条。"
 }
