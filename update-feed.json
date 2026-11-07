@@ -1,10 +1,10 @@
 {
+  "version": "4.3.25",
+  "downloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.3.25/v4325-release.zip",
+  "changelog": "修复 MP4 时长兼容性、单次招呼通道选择与手机连接窗口移动。",
   "patches": [],
-  "sha256": "e8a3ae5692132ed9fdb254b6545fe66626dc659a9fa441b791040357b218f87f",
-  "backupDownloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.3.24/v4324-release.zip",
-  "announcement": "主界面使用普通权限，手机连接按需提权锁定键鼠。优化新建消息按钮加载较慢时的处理。",
-  "downloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.3.24/v4324-release.zip",
-  "publishedAt": "2026-11-07T03:29:08.1120427Z",
-  "changelog": "主界面使用普通权限，手机连接按需提权锁定键鼠。优化新建消息按钮加载较慢时的处理。",
-  "version": "4.3.24"
+  "publishedAt": "2026-11-07T05:32:22.5056319Z",
+  "backupDownloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.3.25/v4325-release.zip",
+  "sha256": "6bf6be5dcb988d8bce18f89d1b6a107dbcd32ce959034d15fe1e5f0758d8f96b",
+  "announcement": "修复 MP4 时长兼容性、单次招呼通道选择与手机连接窗口移动。"
 }
