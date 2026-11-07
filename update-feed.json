@@ -1,10 +1,10 @@
 {
-  "version": "4.3.25",
-  "downloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.3.25/v4325-release.zip",
-  "changelog": "修复 MP4 时长兼容性、单次招呼通道选择与手机连接窗口移动。",
+  "version": "4.3.26",
+  "downloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.3.26/v4326-release.zip",
+  "changelog": "修复手机连接窄窗口下刷新按钮未显示时仍尝试刷新的问题。",
   "patches": [],
-  "publishedAt": "2026-11-07T05:32:22.5056319Z",
-  "backupDownloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.3.25/v4325-release.zip",
-  "sha256": "6bf6be5dcb988d8bce18f89d1b6a107dbcd32ce959034d15fe1e5f0758d8f96b",
-  "announcement": "修复 MP4 时长兼容性、单次招呼通道选择与手机连接窗口移动。"
+  "publishedAt": "2026-11-07T06:35:17.2064374Z",
+  "backupDownloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.3.26/v4326-release.zip",
+  "sha256": "0c25e7dca700d5186a81b5f8862851cf010671cae970fdc4f4c46ecc2aca6def",
+  "announcement": "修复手机连接窄窗口下刷新按钮未显示时仍尝试刷新的问题。"
 }
