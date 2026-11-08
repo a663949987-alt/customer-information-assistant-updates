@@ -1,10 +1,10 @@
 {
-  "version": "4.3.38",
-  "downloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.3.38/customer-information-assistant-windows-4.3.38-export-fix.zip",
-  "changelog": "4.3.38 同版本修复：客户资料导出补全本机号码、归属地和运营商。",
+  "version": "4.3.39",
+  "downloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.3.39/customer-information-assistant-windows.zip",
+  "changelog": "4.3.39：手机发送回执记录默认后台保存，减少界面卡顿。可在工具的流畅度诊断中切换。",
   "patches": [],
-  "publishedAt": "2026-11-08T10:02:42.3219287+08:00",
-  "backupDownloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.3.38/customer-information-assistant-windows-4.3.38-export-fix.zip",
-  "sha256": "cb09dff18acaa3dd90c0e79304b97c5663ab5f04ae2b3524ae5ff22ee3aece09",
-  "announcement": "4.3.38 同版本修复：客户资料导出补全本机号码、归属地和运营商。"
+  "publishedAt": "2026-11-08T15:06:52.0842697+08:00",
+  "backupDownloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.3.39/customer-information-assistant-windows.zip",
+  "sha256": "bc19e36985ff2478433957e87c7a3d840997ac8c3ddfd9ad3d2bd3335fa17d0d",
+  "announcement": "4.3.39：手机发送回执记录默认后台保存，减少界面卡顿。可在工具的流畅度诊断中切换。"
 }
