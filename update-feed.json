@@ -1,10 +1,10 @@
 {
-  "version": "4.3.37",
-  "downloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.3.37/customer-information-assistant-windows.zip",
-  "changelog": "多份待发送资料合并统计地区。开启智能建议后，按电脑当前时间换算北京时间，每轮重新排序待处理地区，发送仍按各线路设定间隔执行。",
+  "version": "4.3.38",
+  "downloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.3.38/customer-information-assistant-windows.zip",
+  "changelog": "获取当日发送额度时同步样本。智能建议新增随机对照轮次，样本统计可比较本机与云端的 24 小时、10 分钟首次回复率。",
   "patches": [],
-  "publishedAt": "2026-11-07T20:35:52.6842320+08:00",
-  "backupDownloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.3.37/customer-information-assistant-windows.zip",
-  "sha256": "d8c4492a874c012e902b84fe591704abbf26e003abd35e22fd668bd5b0337dd6",
-  "announcement": "多份待发送资料合并统计地区。开启智能建议后，按电脑当前时间换算北京时间，每轮重新排序待处理地区，发送仍按各线路设定间隔执行。"
+  "publishedAt": "2026-11-08T08:11:43.3542237+08:00",
+  "backupDownloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.3.38/customer-information-assistant-windows.zip",
+  "sha256": "23b4e37468f98de40ab87ce73d427b4f514b22a0625ac78d973001be7c3edfea",
+  "announcement": "获取当日发送额度时同步样本。智能建议新增随机对照轮次，样本统计可比较本机与云端的 24 小时、10 分钟首次回复率。"
 }
