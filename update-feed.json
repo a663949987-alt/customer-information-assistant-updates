@@ -1,10 +1,10 @@
 {
-  "version": "4.3.39",
-  "downloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.3.39/customer-information-assistant-windows.zip",
-  "changelog": "4.3.39：手机发送回执记录默认后台保存，减少界面卡顿。可在工具的流畅度诊断中切换。",
+  "version": "4.3.40",
+  "downloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.3.40/customer-information-assistant-windows.zip",
+  "changelog": "4.3.40：自动发送的回执超时检查改为后台读取，避免界面线程等待核对记录的锁。",
   "patches": [],
-  "publishedAt": "2026-11-08T15:06:52.0842697+08:00",
-  "backupDownloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.3.39/customer-information-assistant-windows.zip",
-  "sha256": "bc19e36985ff2478433957e87c7a3d840997ac8c3ddfd9ad3d2bd3335fa17d0d",
-  "announcement": "4.3.39：手机发送回执记录默认后台保存，减少界面卡顿。可在工具的流畅度诊断中切换。"
+  "publishedAt": "2026-11-08T17:00:38.5231778+08:00",
+  "backupDownloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.3.40/customer-information-assistant-windows.zip",
+  "sha256": "244f1868dd7ac46588b0b9bd9c18677638ba495586e04b02f6a3f58976b372a9",
+  "announcement": "4.3.40：自动发送的回执超时检查改为后台读取，避免界面线程等待核对记录的锁。"
 }
