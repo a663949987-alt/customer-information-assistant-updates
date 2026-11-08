@@ -1,10 +1,10 @@
 {
   "version": "4.3.38",
-  "downloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.3.38/customer-information-assistant-windows.zip",
-  "changelog": "获取当日发送额度时同步样本。智能建议新增随机对照轮次，样本统计可比较本机与云端的 24 小时、10 分钟首次回复率。",
+  "downloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.3.38/customer-information-assistant-windows-4.3.38-export-fix.zip",
+  "changelog": "4.3.38 同版本修复：客户资料导出补全本机号码、归属地和运营商。",
   "patches": [],
-  "publishedAt": "2026-11-08T08:11:43.3542237+08:00",
-  "backupDownloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.3.38/customer-information-assistant-windows.zip",
-  "sha256": "23b4e37468f98de40ab87ce73d427b4f514b22a0625ac78d973001be7c3edfea",
-  "announcement": "获取当日发送额度时同步样本。智能建议新增随机对照轮次，样本统计可比较本机与云端的 24 小时、10 分钟首次回复率。"
+  "publishedAt": "2026-11-08T10:02:42.3219287+08:00",
+  "backupDownloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.3.38/customer-information-assistant-windows-4.3.38-export-fix.zip",
+  "sha256": "cb09dff18acaa3dd90c0e79304b97c5663ab5f04ae2b3524ae5ff22ee3aece09",
+  "announcement": "4.3.38 同版本修复：客户资料导出补全本机号码、归属地和运营商。"
 }
