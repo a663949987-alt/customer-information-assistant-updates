@@ -1,10 +1,10 @@
 {
-  "version": "4.3.40",
-  "downloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.3.40/customer-information-assistant-windows.zip",
-  "changelog": "4.3.40：自动发送的回执超时检查改为后台读取，避免界面线程等待核对记录的锁。",
+  "version": "4.3.41",
+  "downloadUrl": "https://customer-assistant-api.a663949987.workers.dev/downloads/4.3.41/customer-information-assistant-windows.zip",
+  "changelog": "4.3.41：资料导出新增可编辑、可记忆的三方人物。当前时段无匹配建议时，按全天样本地区排名继续查找。",
   "patches": [],
-  "publishedAt": "2026-11-08T17:00:38.5231778+08:00",
-  "backupDownloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.3.40/customer-information-assistant-windows.zip",
-  "sha256": "244f1868dd7ac46588b0b9bd9c18677638ba495586e04b02f6a3f58976b372a9",
-  "announcement": "4.3.40：自动发送的回执超时检查改为后台读取，避免界面线程等待核对记录的锁。"
+  "publishedAt": "2026-11-08T18:18:32.4905682+08:00",
+  "backupDownloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.3.41/customer-information-assistant-windows.zip",
+  "sha256": "39e78136f01dea29c6002360352e1a384e4f53150dbfcd95894dfd8361329f89",
+  "announcement": "4.3.41：资料导出新增可编辑、可记忆的三方人物。当前时段无匹配建议时，按全天样本地区排名继续查找。"
 }
