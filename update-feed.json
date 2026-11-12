@@ -1,10 +1,10 @@
 {
-  "version": "4.3.41",
-  "downloadUrl": "https://customer-assistant-api.a663949987.workers.dev/downloads/4.3.41/customer-information-assistant-windows.zip",
-  "changelog": "4.3.41：资料导出新增可编辑、可记忆的三方人物。当前时段无匹配建议时，按全天样本地区排名继续查找。",
+  "version": "4.3.45",
+  "downloadUrl": "https://customer-assistant-api.a663949987.workers.dev/downloads/4.3.45/customer-information-assistant-windows.zip",
+  "changelog": "4.3.45：优化网关与手机连接发送队列和回执处理；手机发送后最多自动尝试刷新一次，未确认时可手动刷新；网关缓存与回复统计移到后台，减少界面卡顿。",
   "patches": [],
-  "publishedAt": "2026-11-08T18:18:32.4905682+08:00",
-  "backupDownloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.3.41/customer-information-assistant-windows.zip",
-  "sha256": "39e78136f01dea29c6002360352e1a384e4f53150dbfcd95894dfd8361329f89",
-  "announcement": "4.3.41：资料导出新增可编辑、可记忆的三方人物。当前时段无匹配建议时，按全天样本地区排名继续查找。"
+  "publishedAt": "2026-11-12T20:12:34.5105098+08:00",
+  "backupDownloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.3.45/customer-information-assistant-windows.zip",
+  "sha256": "8be864e9afba7e109b82d579fb1a4314a1fa473466b6828583dcf5f96e01ff9d",
+  "announcement": "4.3.45：优化网关与手机连接发送队列和回执处理；手机发送后最多自动尝试刷新一次，未确认时可手动刷新；网关缓存与回复统计移到后台，减少界面卡顿。"
 }
