@@ -1,10 +1,10 @@
 {
-  "version": "4.3.46",
-  "downloadUrl": "https://customer-assistant-api.a663949987.workers.dev/downloads/4.3.46/customer-information-assistant-windows.zip",
-  "changelog": "4.3.46：优化网关消息同步，支持 smstop 新消息通知及 118.178.169.23 网关增量检查。",
+  "version": "4.3.47",
+  "downloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.3.47/customer-information-assistant-windows.zip",
+  "backupDownloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.3.47/customer-information-assistant-windows.zip",
+  "changelog": "统一30分钟与12小时回复统计口径，完善智能推荐与全部地区顺位。",
   "patches": [],
-  "publishedAt": "2026-11-13T08:06:22.8898158+08:00",
-  "backupDownloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.3.46/customer-information-assistant-windows.zip",
-  "sha256": "68a46ce9d6a8bf8c64ddab0aec3c686d53acdd871c133543bf9c2c92a7f3d10c",
-  "announcement": "4.3.46：优化网关消息同步，支持 smstop 新消息通知及 118.178.169.23 网关增量检查。"
+  "publishedAt": "2026-11-13T09:03:24.2367143+08:00",
+  "sha256": "bd303045ab2b7649bc51404a2af9defd1b097c292683f5fc53222f4fb81024ef",
+  "announcement": "完善地区顺位和统计口径。"
 }
