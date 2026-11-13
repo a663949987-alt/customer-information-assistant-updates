@@ -1,10 +1,10 @@
 {
-  "version": "4.3.45",
-  "downloadUrl": "https://customer-assistant-api.a663949987.workers.dev/downloads/4.3.45/customer-information-assistant-windows.zip",
-  "changelog": "4.3.45：优化网关与手机连接发送队列和回执处理；手机发送后最多自动尝试刷新一次，未确认时可手动刷新；网关缓存与回复统计移到后台，减少界面卡顿。",
+  "version": "4.3.46",
+  "downloadUrl": "https://customer-assistant-api.a663949987.workers.dev/downloads/4.3.46/customer-information-assistant-windows.zip",
+  "changelog": "4.3.46：优化网关消息同步，支持 smstop 新消息通知及 118.178.169.23 网关增量检查。",
   "patches": [],
-  "publishedAt": "2026-11-12T20:12:34.5105098+08:00",
-  "backupDownloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.3.45/customer-information-assistant-windows.zip",
-  "sha256": "8be864e9afba7e109b82d579fb1a4314a1fa473466b6828583dcf5f96e01ff9d",
-  "announcement": "4.3.45：优化网关与手机连接发送队列和回执处理；手机发送后最多自动尝试刷新一次，未确认时可手动刷新；网关缓存与回复统计移到后台，减少界面卡顿。"
+  "publishedAt": "2026-11-13T08:06:22.8898158+08:00",
+  "backupDownloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.3.46/customer-information-assistant-windows.zip",
+  "sha256": "68a46ce9d6a8bf8c64ddab0aec3c686d53acdd871c133543bf9c2c92a7f3d10c",
+  "announcement": "4.3.46：优化网关消息同步，支持 smstop 新消息通知及 118.178.169.23 网关增量检查。"
 }
