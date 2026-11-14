@@ -1,10 +1,10 @@
 {
-  "version": "4.3.47",
-  "downloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.3.47/customer-information-assistant-windows.zip",
-  "backupDownloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.3.47/customer-information-assistant-windows.zip",
-  "changelog": "统一30分钟与12小时回复统计口径，完善智能推荐与全部地区顺位。",
+  "version": "4.3.48",
+  "downloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.3.48/customer-information-assistant-windows.zip",
+  "backupDownloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.3.48/customer-information-assistant-windows.zip",
+  "changelog": "修复网关选卡设置被覆盖，以及未知卡位误显示为卡1。",
   "patches": [],
-  "publishedAt": "2026-11-13T09:03:24.2367143+08:00",
-  "sha256": "bd303045ab2b7649bc51404a2af9defd1b097c292683f5fc53222f4fb81024ef",
-  "announcement": "完善地区顺位和统计口径。"
+  "publishedAt": "2026-11-14T08:14:30.7522785+08:00",
+  "sha256": "d4905948284b33a3258c22b1be20ea3e2c1668ff7396732da85b1fe286e5014d",
+  "announcement": "修复网关选卡与卡位显示。"
 }
