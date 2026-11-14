@@ -1,10 +1,10 @@
 {
-  "version": "4.3.48",
-  "downloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.3.48/customer-information-assistant-windows.zip",
-  "backupDownloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.3.48/customer-information-assistant-windows.zip",
-  "changelog": "修复网关选卡设置被覆盖，以及未知卡位误显示为卡1。",
+  "version": "4.3.49",
+  "downloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.3.49/customer-information-assistant-windows.zip",
+  "backupDownloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.3.49/customer-information-assistant-windows.zip",
+  "changelog": "优化样本同步：仅上传新增或变化的回复时间记录。",
   "patches": [],
-  "publishedAt": "2026-11-14T08:14:30.7522785+08:00",
-  "sha256": "d4905948284b33a3258c22b1be20ea3e2c1668ff7396732da85b1fe286e5014d",
-  "announcement": "修复网关选卡与卡位显示。"
+  "publishedAt": "2026-11-14T08:28:07.0120778+08:00",
+  "sha256": "56ae92c3ebeed8ee4429d5427f8c5a5750bd3c80e785a1e7fb7db29144286955",
+  "announcement": "减少样本同步重复请求。"
 }
