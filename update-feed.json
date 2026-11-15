@@ -1,10 +1,10 @@
 {
-  "version": "4.3.51",
-  "downloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.3.51/customer-information-assistant-windows.zip",
-  "backupDownloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.3.51/customer-information-assistant-windows.zip",
-  "changelog": "手机连接发送前只核对相关的近期旧消息，发送记录逐条加密保存。统一后台回执核对，每次发送最多自动刷新一次，新来信复用增量同步。",
+  "version": "4.3.52",
+  "downloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.3.52/customer-information-assistant-windows.zip",
+  "backupDownloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.3.52/customer-information-assistant-windows.zip",
+  "changelog": "客户资料新增导入原始资料，按文件展示原列名、备注、自定义列和空白列。修复启动屏挡住异常提示、网关回执迟到误暂停。",
   "patches": [],
-  "publishedAt": "2026-11-15T07:04:35.0000000+08:00",
-  "sha256": "e0606ad5cb38e7894cb53a66916662c3e6310d9ddc61f962716870667c913e49",
-  "announcement": "4.3.51 优化手机连接发送、回执与来信同步"
+  "publishedAt": "2026-11-15T10:04:30.0000000+08:00",
+  "sha256": "be4ff2590f35d021222268140905373663a987d1b4c5a6c79bc77d91b8453404",
+  "announcement": "4.3.52 新增导入原始资料，修复启动提示和网关回执暂停"
 }
