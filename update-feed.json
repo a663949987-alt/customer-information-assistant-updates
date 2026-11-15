@@ -1,10 +1,10 @@
 {
-  "version": "4.3.52",
-  "downloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.3.52/customer-information-assistant-windows.zip",
-  "backupDownloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.3.52/customer-information-assistant-windows.zip",
-  "changelog": "客户资料新增导入原始资料，按文件展示原列名、备注、自定义列和空白列。修复启动屏挡住异常提示、网关回执迟到误暂停。",
+  "version": "4.3.53",
+  "downloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.3.53/customer-information-assistant-windows.zip",
+  "backupDownloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.3.53/customer-information-assistant-windows.zip",
+  "changelog": "修复发布包使用开发机资源路径导致的启动失败。覆盖更新会替换旧资源清单。",
   "patches": [],
-  "publishedAt": "2026-11-15T10:04:30.0000000+08:00",
-  "sha256": "be4ff2590f35d021222268140905373663a987d1b4c5a6c79bc77d91b8453404",
-  "announcement": "4.3.52 新增导入原始资料，修复启动提示和网关回执暂停"
+  "publishedAt": "2026-11-15T10:44:00Z",
+  "sha256": "b190ccd98163bbd052a9da5e8a27c405154aee132bcaf3a7d7cbe24ab31de1ac",
+  "announcement": "4.3.53 修复部分电脑启动失败"
 }
