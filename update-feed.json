@@ -1,10 +1,10 @@
 {
-  "version": "4.3.53",
-  "downloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.3.53/customer-information-assistant-windows.zip",
-  "backupDownloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.3.53/customer-information-assistant-windows.zip",
-  "changelog": "修复发布包使用开发机资源路径导致的启动失败。覆盖更新会替换旧资源清单。",
+  "version": "4.3.54",
+  "downloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.3.54/customer-information-assistant-windows.zip",
+  "backupDownloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.3.54/customer-information-assistant-windows.zip",
+  "changelog": "拉宽窗口时右侧客户资料保持收起，左侧功能栏可展开。收紧客户摘要，扩大聊天区。点开客户资料时，导入原始资料排在基础字段前面。",
   "patches": [],
-  "publishedAt": "2026-11-15T10:44:00Z",
-  "sha256": "b190ccd98163bbd052a9da5e8a27c405154aee132bcaf3a7d7cbe24ab31de1ac",
-  "announcement": "4.3.53 修复部分电脑启动失败"
+  "publishedAt": "2026-11-15T15:38:43Z",
+  "sha256": "bbb0ca7a6f18c17471e59cf702451909cfa09de990986e68d9c66d51f0a982f0",
+  "announcement": "4.3.54 优化聊天布局与客户原始资料显示"
 }
