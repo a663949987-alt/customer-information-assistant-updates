@@ -1,10 +1,10 @@
 {
-  "version": "4.3.50",
-  "downloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.3.50/customer-information-assistant-windows.zip",
-  "backupDownloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.3.50/customer-information-assistant-windows.zip",
-  "changelog": "手机与网关缓存增量合并、无变化不重复写入；缓存客户资料和发送号码快照，聊天按会话更新，减少内存分配；新增独立不限额授权、管理员分级、操作记录及活跃／元老标记。",
+  "version": "4.3.51",
+  "downloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.3.51/customer-information-assistant-windows.zip",
+  "backupDownloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.3.51/customer-information-assistant-windows.zip",
+  "changelog": "手机连接发送前只核对相关的近期旧消息，发送记录逐条加密保存。统一后台回执核对，每次发送最多自动刷新一次，新来信复用增量同步。",
   "patches": [],
-  "publishedAt": "2026-11-15T14:42:03.3417886+08:00",
-  "sha256": "9bf70eae0123dc8836a0d342a4686b98e9400190ec524a5553842d5d1e3089cc",
-  "announcement": "4.3.50：缓存与界面流畅度优化，新增分级权限管理。"
+  "publishedAt": "2026-11-15T07:04:35.0000000+08:00",
+  "sha256": "e0606ad5cb38e7894cb53a66916662c3e6310d9ddc61f962716870667c913e49",
+  "announcement": "4.3.51 优化手机连接发送、回执与来信同步"
 }
