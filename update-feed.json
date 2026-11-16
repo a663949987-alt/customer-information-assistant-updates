@@ -1,10 +1,10 @@
 {
-  "version": "4.3.61",
-  "downloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.3.61/customer-information-assistant-windows.zip",
-  "backupDownloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.3.61/customer-information-assistant-windows.zip",
-  "changelog": "启动画面至少显示 5 秒，并等本机会话缓存和首屏就绪再显示。主界面和悬浮窗支持鼠标悬停查看大头像，最近消息和导出聊天视频显示客户头像。",
+  "version": "4.3.62",
+  "downloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.3.62/customer-information-assistant-windows.zip",
+  "backupDownloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.3.62/customer-information-assistant-windows.zip",
+  "changelog": "按旧导入文件补读历史会话的头像。在设置里可选择自动清理本机过期会话，保留 3、5 或 7 天，默认 7 天。",
   "patches": [],
-  "publishedAt": "2026-11-16T04:34:58Z",
-  "sha256": "f12d89c489238fd0cb813ccc9846888ae09380820baa892c06fa08d52e08d4c4",
-  "announcement": "4.3.61 优化启动和会话头像显示"
+  "publishedAt": "2026-11-16T04:57:02Z",
+  "sha256": "060a8aad9b60f1e0cf5af2eed20dbc5d5444f015fe0eb958780d00ecd221efb2",
+  "announcement": "4.3.62 修复历史头像并增加本机会话清理设置"
 }
