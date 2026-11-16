@@ -1,10 +1,10 @@
 {
-  "version": "4.3.57",
-  "downloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.3.57/customer-information-assistant-windows.zip",
-  "backupDownloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.3.57/customer-information-assistant-windows.zip",
-  "changelog": "会话列表和收到的消息显示客户原始头像并共用本机缓存。修正待发送资料计数和今日已处理统计，整理历史资料布局。",
+  "version": "4.3.61",
+  "downloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.3.61/customer-information-assistant-windows.zip",
+  "backupDownloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.3.61/customer-information-assistant-windows.zip",
+  "changelog": "启动画面至少显示 5 秒，并等本机会话缓存和首屏就绪再显示。主界面和悬浮窗支持鼠标悬停查看大头像，最近消息和导出聊天视频显示客户头像。",
   "patches": [],
-  "publishedAt": "2026-11-16T03:35:17Z",
-  "sha256": "005ddda370b48a77c5f859fde2f89ed7248bf5c0526ca6448f911ffd52fa8c6c",
-  "announcement": "4.3.57 新增客户头像缓存，修正待发送资料和今日处理统计"
+  "publishedAt": "2026-11-16T04:34:58Z",
+  "sha256": "f12d89c489238fd0cb813ccc9846888ae09380820baa892c06fa08d52e08d4c4",
+  "announcement": "4.3.61 优化启动和会话头像显示"
 }
