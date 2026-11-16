@@ -1,10 +1,10 @@
 {
-  "version": "4.3.63",
-  "downloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.3.63/customer-information-assistant-windows.zip",
-  "backupDownloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.3.63/customer-information-assistant-windows.zip",
-  "changelog": "发送失败高亮，新增回复自动置顶和会话备注。支持历史资料多选清理、离线历史全局搜索及定期清理。客户导出记住三项常用设置，两个网关登录入口共用最近地址。",
+  "version": "4.3.64",
+  "downloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.3.64/customer-information-assistant-windows.zip",
+  "backupDownloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.3.64/customer-information-assistant-windows.zip",
+  "changelog": "网关状态和回执使用中文，结果码附中文解释。内置手机输入安卓 0.1.4，支持当前客户头像和资料、点按复制及一键复制单位和姓名。",
   "patches": [],
-  "publishedAt": "2026-11-16T05:21:37Z",
-  "sha256": "af473b497417229118201bc7578d3a0f9fa6f093ac4fe2cfe7405802412f273f",
-  "announcement": "4.3.63 更新短信提醒、资料清理和网关登录"
+  "publishedAt": "2026-11-16T06:37:14Z",
+  "sha256": "6d85cc70121c0c6262c756e0dfbdb9f59c75cc683da1bbc299ed9d9baa68a1d0",
+  "announcement": "4.3.64 网关回执中文化，新增手机端客户资料"
 }
