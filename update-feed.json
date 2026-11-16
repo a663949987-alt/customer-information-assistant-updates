@@ -1,10 +1,10 @@
 {
-  "version": "4.3.62",
-  "downloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.3.62/customer-information-assistant-windows.zip",
-  "backupDownloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.3.62/customer-information-assistant-windows.zip",
-  "changelog": "按旧导入文件补读历史会话的头像。在设置里可选择自动清理本机过期会话，保留 3、5 或 7 天，默认 7 天。",
+  "version": "4.3.63",
+  "downloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.3.63/customer-information-assistant-windows.zip",
+  "backupDownloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.3.63/customer-information-assistant-windows.zip",
+  "changelog": "发送失败高亮，新增回复自动置顶和会话备注。支持历史资料多选清理、离线历史全局搜索及定期清理。客户导出记住三项常用设置，两个网关登录入口共用最近地址。",
   "patches": [],
-  "publishedAt": "2026-11-16T04:57:02Z",
-  "sha256": "060a8aad9b60f1e0cf5af2eed20dbc5d5444f015fe0eb958780d00ecd221efb2",
-  "announcement": "4.3.62 修复历史头像并增加本机会话清理设置"
+  "publishedAt": "2026-11-16T05:21:37Z",
+  "sha256": "af473b497417229118201bc7578d3a0f9fa6f093ac4fe2cfe7405802412f273f",
+  "announcement": "4.3.63 更新短信提醒、资料清理和网关登录"
 }
