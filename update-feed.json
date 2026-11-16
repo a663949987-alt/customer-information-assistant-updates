@@ -1,10 +1,10 @@
 {
-  "version": "4.3.64",
-  "downloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.3.64/customer-information-assistant-windows.zip",
-  "backupDownloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.3.64/customer-information-assistant-windows.zip",
-  "changelog": "网关状态和回执使用中文，结果码附中文解释。内置手机输入安卓 0.1.4，支持当前客户头像和资料、点按复制及一键复制单位和姓名。",
+  "version": "4.3.65",
+  "downloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.3.65/customer-information-assistant-windows.zip",
+  "backupDownloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.3.65/customer-information-assistant-windows.zip",
+  "changelog": "会话按变化刷新，共用号码库，新增网关发送分段耗时。手机输入显示和复制完整客户号码。",
   "patches": [],
-  "publishedAt": "2026-11-16T06:37:14Z",
-  "sha256": "6d85cc70121c0c6262c756e0dfbdb9f59c75cc683da1bbc299ed9d9baa68a1d0",
-  "announcement": "4.3.64 网关回执中文化，新增手机端客户资料"
+  "publishedAt": "2026-11-16T07:16:48Z",
+  "sha256": "89473423e991479861718579f298618dd06d70106868aa13849d97729f5e0c7c",
+  "announcement": "4.3.65 优化会话刷新并增加网关发送诊断"
 }
