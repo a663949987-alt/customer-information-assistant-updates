@@ -1,10 +1,10 @@
 {
-  "version": "4.3.69",
-  "downloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.3.69/customer-information-assistant-windows.zip",
-  "backupDownloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.3.69/customer-information-assistant-windows.zip",
-  "changelog": "客户工作台新增简约中国地图，按实际待发人数统计，单独提示防重发跳过。手机输入 0.1.8 支持会话列表、聊天记录、由电脑发送、置顶同步及待发资料和倒计时。",
+  "version": "4.3.71",
+  "downloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.3.71/customer-information-assistant-windows.zip",
+  "backupDownloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.3.71/customer-information-assistant-windows.zip",
+  "changelog": "优化网关弱网重连与设备检查，区分认证未完成、设备状态待确认和设备离线。微软手机连接读不到状态时显示待确认。",
   "patches": [],
-  "publishedAt": "2026-11-16T10:39:08Z",
-  "sha256": "f3ee4241702df0483c75fb866c89d1d17dc60fec030f6615793b93cf3fe75633",
-  "announcement": "4.3.69 地区优先地图与手机会话更新"
+  "publishedAt": "2026-11-16T14:14:02Z",
+  "sha256": "9a26be95dbae5c07fc8a7cc0e8598d3596f1882a60d8cf9bb368b6698272eb8b",
+  "announcement": "4.3.71 网关连接与手机连接状态修复"
 }
