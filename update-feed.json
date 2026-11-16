@@ -1,10 +1,10 @@
 {
-  "version": "4.3.54",
-  "downloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.3.54/customer-information-assistant-windows.zip",
-  "backupDownloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.3.54/customer-information-assistant-windows.zip",
-  "changelog": "拉宽窗口时右侧客户资料保持收起，左侧功能栏可展开。收紧客户摘要，扩大聊天区。点开客户资料时，导入原始资料排在基础字段前面。",
+  "version": "4.3.57",
+  "downloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.3.57/customer-information-assistant-windows.zip",
+  "backupDownloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.3.57/customer-information-assistant-windows.zip",
+  "changelog": "会话列表和收到的消息显示客户原始头像并共用本机缓存。修正待发送资料计数和今日已处理统计，整理历史资料布局。",
   "patches": [],
-  "publishedAt": "2026-11-15T15:38:43Z",
-  "sha256": "bbb0ca7a6f18c17471e59cf702451909cfa09de990986e68d9c66d51f0a982f0",
-  "announcement": "4.3.54 优化聊天布局与客户原始资料显示"
+  "publishedAt": "2026-11-16T03:35:17Z",
+  "sha256": "005ddda370b48a77c5f859fde2f89ed7248bf5c0526ca6448f911ffd52fa8c6c",
+  "announcement": "4.3.57 新增客户头像缓存，修正待发送资料和今日处理统计"
 }
