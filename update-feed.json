@@ -1,10 +1,10 @@
 {
-  "version": "4.3.65",
-  "downloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.3.65/customer-information-assistant-windows.zip",
-  "backupDownloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.3.65/customer-information-assistant-windows.zip",
-  "changelog": "会话按变化刷新，共用号码库，新增网关发送分段耗时。手机输入显示和复制完整客户号码。",
+  "version": "4.3.69",
+  "downloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.3.69/customer-information-assistant-windows.zip",
+  "backupDownloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.3.69/customer-information-assistant-windows.zip",
+  "changelog": "客户工作台新增简约中国地图，按实际待发人数统计，单独提示防重发跳过。手机输入 0.1.8 支持会话列表、聊天记录、由电脑发送、置顶同步及待发资料和倒计时。",
   "patches": [],
-  "publishedAt": "2026-11-16T07:16:48Z",
-  "sha256": "89473423e991479861718579f298618dd06d70106868aa13849d97729f5e0c7c",
-  "announcement": "4.3.65 优化会话刷新并增加网关发送诊断"
+  "publishedAt": "2026-11-16T10:39:08Z",
+  "sha256": "f3ee4241702df0483c75fb866c89d1d17dc60fec030f6615793b93cf3fe75633",
+  "announcement": "4.3.69 地区优先地图与手机会话更新"
 }
