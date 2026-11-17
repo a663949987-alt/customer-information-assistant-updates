@@ -1,10 +1,10 @@
 {
-  "version": "4.3.75",
-  "downloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.3.75/customer-information-assistant-windows.zip",
-  "backupDownloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.3.75/customer-information-assistant-windows.zip",
-  "changelog": "地图随窗口等比缩放，34 个省级地区无需下滑即可完整查看。聊天页统一为导出信息，调整号码框、疑似下粉条件、新版本提示和更新公告位置。",
+  "version": "4.3.78",
+  "downloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.3.78/customer-information-assistant-windows.zip",
+  "backupDownloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.3.78/customer-information-assistant-windows.zip",
+  "changelog": "一键招呼遇到有历史记录的待处理客户时可确认再次发送，仅向所选客户在指定线路发送一条。单次发送跳过已暂停线路，顺序发送跨地区和资料继续轮换。",
   "patches": [],
-  "publishedAt": "2026-11-17T03:01:12Z",
-  "sha256": "6c234b16db2087bab2ee3cd8f1ba536278c9607b91c1d4fa69795d9b482e1f7a",
-  "announcement": "4.3.75 地图完整显示、导出信息与更新提醒"
+  "publishedAt": "2026-11-17T07:57:49Z",
+  "sha256": "efd46eb9f38c24b1a8978df3430e668751ffb1304a955103fcd44422b4229305",
+  "announcement": "4.3.78 一键招呼与顺序发送修复"
 }
