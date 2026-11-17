@@ -1,10 +1,10 @@
 {
-  "version": "4.3.79",
-  "downloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.3.79/customer-information-assistant-windows.zip",
-  "backupDownloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.3.79/customer-information-assistant-windows.zip",
-  "changelog": "1016b 网关支持在短信中心和悬浮聊天窗查看手机实时画面。画面按原比例显示，关闭面板后停止读取。",
+  "version": "4.3.80",
+  "downloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.3.80/customer-information-assistant-windows.zip",
+  "backupDownloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.3.80/customer-information-assistant-windows.zip",
+  "changelog": "支持 www.laoshazi.xyz 网关的登录、短信同步、SIM 选卡、发送和回执。",
   "patches": [],
-  "publishedAt": "2026-11-17T09:06:42Z",
-  "sha256": "d09f569dde9765e45c2c553be725e21350638d91f17627adfa4b74090220cf88",
-  "announcement": "4.3.79 网关实时画面"
+  "publishedAt": "2026-11-17T09:39:18Z",
+  "sha256": "b0fff40382d108470cf46a87631cc534142f14a37699b2e05bb41c9c132272b5",
+  "announcement": "4.3.80 新增短信网关兼容"
 }
