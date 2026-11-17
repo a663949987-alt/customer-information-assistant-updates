@@ -1,10 +1,10 @@
 {
-  "version": "4.3.74",
-  "downloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.3.74/customer-information-assistant-windows.zip",
-  "backupDownloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.3.74/customer-information-assistant-windows.zip",
-  "changelog": "工作台运行中可勾选线路加入、暂停或恢复。短信标签下显示当前通道号码和登录，号码与归属地运营商每 5 秒轮播。离线历史可打开聊天气泡。包含工作台布局、下粉统计和定时发送修复。",
+  "version": "4.3.75",
+  "downloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.3.75/customer-information-assistant-windows.zip",
+  "backupDownloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.3.75/customer-information-assistant-windows.zip",
+  "changelog": "地图随窗口等比缩放，34 个省级地区无需下滑即可完整查看。聊天页统一为导出信息，调整号码框、疑似下粉条件、新版本提示和更新公告位置。",
   "patches": [],
-  "publishedAt": "2026-11-17T01:50:17Z",
-  "sha256": "37d973142b29809259104ebe5334b5de99bfa6a5478505e9872337d4c626735d",
-  "announcement": "4.3.74 自动发送换线、短信通道栏与离线会话"
+  "publishedAt": "2026-11-17T03:01:12Z",
+  "sha256": "6c234b16db2087bab2ee3cd8f1ba536278c9607b91c1d4fa69795d9b482e1f7a",
+  "announcement": "4.3.75 地图完整显示、导出信息与更新提醒"
 }
