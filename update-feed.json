@@ -1,10 +1,10 @@
 {
-  "version": "4.3.80",
-  "downloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.3.80/customer-information-assistant-windows.zip",
-  "backupDownloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.3.80/customer-information-assistant-windows.zip",
-  "changelog": "支持 www.laoshazi.xyz 网关的登录、短信同步、SIM 选卡、发送和回执。",
+  "version": "4.3.81",
+  "downloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.3.81/customer-information-assistant-windows.zip",
+  "backupDownloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.3.81/customer-information-assistant-windows.zip",
+  "changelog": "新增管理员即时通知，离线补收并自动去重。修复慢缓存导致启动超时退出，以及普通网关账号无法查看实时画面的问题。",
   "patches": [],
-  "publishedAt": "2026-11-17T09:39:18Z",
-  "sha256": "b0fff40382d108470cf46a87631cc534142f14a37699b2e05bb41c9c132272b5",
-  "announcement": "4.3.80 新增短信网关兼容"
+  "publishedAt": "2026-11-17T10:14:16Z",
+  "sha256": "c453b74dd25a6bd6b60a1921d0f1a010ddfba0d35fda16af8ab18e23f2887583",
+  "announcement": "4.3.81 管理员通知与启动修复"
 }
