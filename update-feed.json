@@ -1,10 +1,10 @@
 {
-  "version": "4.3.71",
-  "downloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.3.71/customer-information-assistant-windows.zip",
-  "backupDownloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.3.71/customer-information-assistant-windows.zip",
-  "changelog": "优化网关弱网重连与设备检查，区分认证未完成、设备状态待确认和设备离线。微软手机连接读不到状态时显示待确认。",
+  "version": "4.3.74",
+  "downloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.3.74/customer-information-assistant-windows.zip",
+  "backupDownloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.3.74/customer-information-assistant-windows.zip",
+  "changelog": "工作台运行中可勾选线路加入、暂停或恢复。短信标签下显示当前通道号码和登录，号码与归属地运营商每 5 秒轮播。离线历史可打开聊天气泡。包含工作台布局、下粉统计和定时发送修复。",
   "patches": [],
-  "publishedAt": "2026-11-16T14:14:02Z",
-  "sha256": "9a26be95dbae5c07fc8a7cc0e8598d3596f1882a60d8cf9bb368b6698272eb8b",
-  "announcement": "4.3.71 网关连接与手机连接状态修复"
+  "publishedAt": "2026-11-17T01:50:17Z",
+  "sha256": "37d973142b29809259104ebe5334b5de99bfa6a5478505e9872337d4c626735d",
+  "announcement": "4.3.74 自动发送换线、短信通道栏与离线会话"
 }
