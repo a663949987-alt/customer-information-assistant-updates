@@ -1,10 +1,10 @@
 {
-  "version": "4.3.82",
-  "downloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.3.82/customer-information-assistant-windows.zip",
-  "backupDownloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.3.82/customer-information-assistant-windows.zip",
-  "changelog": "新增茶水间、用户头衔动效及元老用户全员通知。网关实时画面停更时清除旧画面并显示状态。",
+  "version": "4.3.83",
+  "downloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.3.83/customer-information-assistant-windows.zip",
+  "backupDownloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.3.83/customer-information-assistant-windows.zip",
+  "changelog": "修复确认下粉重复新增导出记录的问题，确认时更新原记录并保留导出时间、接粉人和资料。",
   "patches": [],
-  "publishedAt": "2026-11-17T13:05:09Z",
-  "sha256": "3085d202cdf68f53efe56a8808f49bcf10a4b0765869ccc1d13f291b205cc6a4",
-  "announcement": "4.3.82 茶水间与网关实时画面"
+  "publishedAt": "2026-11-17T15:08:43Z",
+  "sha256": "a55a12bd4bbabaafdb8074222f7da1f2ea6bab93f1391759f6e4aa03913475a5",
+  "announcement": "4.3.83 确认下粉记录修复"
 }
