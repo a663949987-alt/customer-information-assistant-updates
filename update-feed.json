@@ -1,10 +1,10 @@
 {
-  "version": "4.3.78",
-  "downloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.3.78/customer-information-assistant-windows.zip",
-  "backupDownloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.3.78/customer-information-assistant-windows.zip",
-  "changelog": "一键招呼遇到有历史记录的待处理客户时可确认再次发送，仅向所选客户在指定线路发送一条。单次发送跳过已暂停线路，顺序发送跨地区和资料继续轮换。",
+  "version": "4.3.79",
+  "downloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.3.79/customer-information-assistant-windows.zip",
+  "backupDownloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.3.79/customer-information-assistant-windows.zip",
+  "changelog": "1016b 网关支持在短信中心和悬浮聊天窗查看手机实时画面。画面按原比例显示，关闭面板后停止读取。",
   "patches": [],
-  "publishedAt": "2026-11-17T07:57:49Z",
-  "sha256": "efd46eb9f38c24b1a8978df3430e668751ffb1304a955103fcd44422b4229305",
-  "announcement": "4.3.78 一键招呼与顺序发送修复"
+  "publishedAt": "2026-11-17T09:06:42Z",
+  "sha256": "d09f569dde9765e45c2c553be725e21350638d91f17627adfa4b74090220cf88",
+  "announcement": "4.3.79 网关实时画面"
 }
