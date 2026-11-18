@@ -1,10 +1,10 @@
 {
-  "version": "4.3.84",
-  "downloadUrl": "https://customer-assistant-connectivity-pilot.pages.dev/downloads/windows/4.3.84.zip",
-  "backupDownloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.3.84/customer-information-assistant-windows.zip",
-  "changelog": "新增网关后台循环录像，每段5分钟、每路保留60分钟，关闭画面面板继续录制，支持在软件内查看和播放录像。",
+  "version": "4.3.85",
+  "downloadUrl": "https://customer-assistant-connectivity-pilot.pages.dev/downloads/windows/4.3.85.zip",
+  "backupDownloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.3.85/customer-information-assistant-windows.zip",
+  "changelog": "修复医护资料年龄识别和手机连接刷新闪动。新增下粉、处理和回复里程碑、个人单日纪录播报，手动通知改为单行内容。",
   "patches": [],
-  "publishedAt": "2026-11-18T02:03:25Z",
-  "sha256": "3f945e08b73d385acb71534411ab7edfbb93c50ded79a346ab94ca5e16884d71",
-  "announcement": "4.3.84 网关后台录像"
+  "publishedAt": "2026-11-18T05:28:07Z",
+  "sha256": "aa9de357d274b54dc65bccc91a26188afbfcbadef20cb35d8746953b32af4852",
+  "announcement": "4.3.85 手机连接与成就通知"
 }
