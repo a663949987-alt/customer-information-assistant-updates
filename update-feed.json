@@ -1,10 +1,12 @@
 {
-  "version": "4.3.85",
-  "downloadUrl": "https://customer-assistant-connectivity-pilot.pages.dev/downloads/windows/4.3.85.zip",
-  "backupDownloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.3.85/customer-information-assistant-windows.zip",
-  "changelog": "修复医护资料年龄识别和手机连接刷新闪动。新增下粉、处理和回复里程碑、个人单日纪录播报，手动通知改为单行内容。",
+  "version": "4.3.87",
+  "downloadUrl": "https://customer-assistant-connectivity-pilot.pages.dev/downloads/windows/4.3.87.zip",
+  "backupDownloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.3.87/customer-information-assistant-windows.zip",
+  "changelog": "新增 Windows EXE 一键安装和桌面快捷方式。短信页支持自定义超链接、Enter 开始会话，置顶移到详细查询后。新增快捷键设置并暂停观战。",
   "patches": [],
-  "publishedAt": "2026-11-18T05:28:07Z",
-  "sha256": "aa9de357d274b54dc65bccc91a26188afbfcbadef20cb35d8746953b32af4852",
-  "announcement": "4.3.85 手机连接与成就通知"
+  "publishedAt": "2026-11-18T12:25:31.0000000Z",
+  "sha256": "129f96c807141cac2a2f34920f5624733441169c5003b8263e94dfe6f850f998",
+  "announcement": "4.3.87 一键安装与快捷键",
+  "installerUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.3.87/customer-information-assistant-setup.exe",
+  "installerSha256": "587894ced1c18d1daae50513032967d2140125c4809b43e6b467ac2d4c10ed1a"
 }
