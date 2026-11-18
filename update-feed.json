@@ -1,6 +1,6 @@
 {
   "version": "4.3.84",
-  "downloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.3.84/customer-information-assistant-windows.zip",
+  "downloadUrl": "https://customer-assistant-connectivity-pilot.pages.dev/downloads/windows/4.3.84.zip",
   "backupDownloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.3.84/customer-information-assistant-windows.zip",
   "changelog": "新增网关后台循环录像，每段5分钟、每路保留60分钟，关闭画面面板继续录制，支持在软件内查看和播放录像。",
   "patches": [],
