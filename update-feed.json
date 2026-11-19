@@ -1,12 +1,12 @@
 {
-  "version": "4.3.92",
-  "downloadUrl": "https://customer-assistant-connectivity-pilot.pages.dev/downloads/windows/4.3.92.zip",
-  "backupDownloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.3.92/customer-information-assistant-windows.zip",
-  "changelog": "附近状态默认开启，可在小伙伴设置关闭。附近角色可看到正在回复客户或当前前台应用。包含桌面附近发言修复、附近最多 5 个完整角色，以及手机连接出现本次发出消息后自动刷新一次。",
+  "version": "4.3.101",
+  "downloadUrl": "https://customer-assistant-connectivity-pilot.pages.dev/downloads/windows/4.3.101.zip",
+  "backupDownloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.3.101/customer-information-assistant-windows.zip",
+  "changelog": "4.3.101 弹珠与守城按小时轮换，成就播报互动与已读人数，恢复下粉确认，手机连接缓存重查。",
   "patches": [],
-  "publishedAt": "2026-11-19T01:51:07.2467382+00:00",
-  "sha256": "01f7411fb957295cd496d50f6f0d4c1ff2ee5eee43e6de89d8aad8dc09b77b14",
-  "announcement": "4.3.92 小伙伴状态分享",
-  "installerUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.3.92/customer-information-assistant-setup.exe",
-  "installerSha256": "ff24d63d531ed1378d036eb393f1c55e47e20461c288d068f145aa8355bc6767"
+  "publishedAt": "2026-11-19T11:09:23.0000000+00:00",
+  "sha256": "54b1acdd6c6fd12a2e4ebb90242b44a4c586c3b1eb7f87e0f806c0873d9af5d7",
+  "announcement": "4.3.101 弹珠与守城按小时轮换，成就播报互动与已读人数，恢复下粉确认，手机连接缓存重查。",
+  "installerUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.3.101/customer-information-assistant-setup.exe",
+  "installerSha256": "43af952b78549c6d77e750b8969bd299255237869fcd45258c2b6f82568373e8"
 }
