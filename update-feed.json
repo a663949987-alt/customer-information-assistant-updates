@@ -1,12 +1,12 @@
 {
-  "version": "4.3.89",
-  "downloadUrl": "https://customer-assistant-connectivity-pilot.pages.dev/downloads/windows/4.3.89.zip",
-  "backupDownloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.3.89/customer-information-assistant-windows.zip",
-  "changelog": "修复记住最大化窗口后启动失败的问题。一键安装保留招呼模板和常见回复。桌宠支持桌面走动遇怪、悬浮窗在线人数与等级、两套女角装扮、角色名查重和偶遇表情。",
+  "version": "4.3.90",
+  "downloadUrl": "https://customer-assistant-connectivity-pilot.pages.dev/downloads/windows/4.3.90.zip",
+  "backupDownloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.3.90/customer-information-assistant-windows.zip",
+  "changelog": "桌宠可分享附近状态，显示最近五个角色，支持附近发言与共享银两。微软手机连接出现刚发出的消息时自动刷新一次。置顶同步有结果提示，聊天超链接支持左键打开、右键设置。修复悬浮窗拖动。",
   "patches": [],
-  "publishedAt": "2026-11-19T00:35:17.7973618+00:00",
-  "sha256": "1a55f4fdc71ebd5ffa80b62f505108be796111f226a3ef591bcb6bb336b42a05",
-  "announcement": "4.3.89 启动修复与桌宠更新",
-  "installerUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.3.89/customer-information-assistant-setup.exe",
-  "installerSha256": "6679b1470a2e90a4b76e86646fff2f9cf57e23edb0de3357941451d9e1c9e952"
+  "publishedAt": "2026-11-19T01:34:38.5970023+00:00",
+  "sha256": "7ec99877c350bd70c00ab918c966cdea90a39fe4d9add526c069f3467f8c5b3f",
+  "announcement": "4.3.90 桌宠状态与手机连接刷新",
+  "installerUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.3.90/customer-information-assistant-setup.exe",
+  "installerSha256": "ebbf1cd397838462d9fb6c5cd98190d0db7b4bb8ce59465a199ae505bd43754b"
 }
