@@ -1,12 +1,12 @@
 {
-  "version": "4.3.88",
-  "downloadUrl": "https://customer-assistant-connectivity-pilot.pages.dev/downloads/windows/4.3.88.zip",
-  "backupDownloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.3.88/customer-information-assistant-windows.zip",
-  "changelog": "新增桌宠小伙伴。支持正式账号角色保存、在线人数、附近角色和真人偶遇。改名与换装可使用商城积分。新增桌面活动、本地历练、召唤兽和装备鉴定。",
+  "version": "4.3.89",
+  "downloadUrl": "https://customer-assistant-connectivity-pilot.pages.dev/downloads/windows/4.3.89.zip",
+  "backupDownloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.3.89/customer-information-assistant-windows.zip",
+  "changelog": "修复记住最大化窗口后启动失败的问题。一键安装保留招呼模板和常见回复。桌宠支持桌面走动遇怪、悬浮窗在线人数与等级、两套女角装扮、角色名查重和偶遇表情。",
   "patches": [],
-  "publishedAt": "2026-11-18T23:47:24.0231800+00:00",
-  "sha256": "ce2b79f57b6f2a5fc56d1898d9c5f29fae6c1354e0f3aefcf3befd91872e10f6",
-  "announcement": "4.3.88 桌宠小伙伴与真人偶遇",
-  "installerUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.3.88/customer-information-assistant-setup.exe",
-  "installerSha256": "dd87588a2d054f7b032eef25814faa38d23348b0fe9188de2970d07727b60dfc"
+  "publishedAt": "2026-11-19T00:35:17.7973618+00:00",
+  "sha256": "1a55f4fdc71ebd5ffa80b62f505108be796111f226a3ef591bcb6bb336b42a05",
+  "announcement": "4.3.89 启动修复与桌宠更新",
+  "installerUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.3.89/customer-information-assistant-setup.exe",
+  "installerSha256": "6679b1470a2e90a4b76e86646fff2f9cf57e23edb0de3357941451d9e1c9e952"
 }
