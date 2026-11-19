@@ -1,12 +1,12 @@
 {
-  "version": "4.3.91",
-  "downloadUrl": "https://customer-assistant-connectivity-pilot.pages.dev/downloads/windows/4.3.91.zip",
-  "backupDownloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.3.91/customer-information-assistant-windows.zip",
-  "changelog": "修复桌面附近发言框重复关闭的提示，回车只发送一次。包含桌宠状态分享、附近最多 5 个完整角色和手机连接发出消息后自动刷新一次。",
+  "version": "4.3.92",
+  "downloadUrl": "https://customer-assistant-connectivity-pilot.pages.dev/downloads/windows/4.3.92.zip",
+  "backupDownloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.3.92/customer-information-assistant-windows.zip",
+  "changelog": "附近状态默认开启，可在小伙伴设置关闭。附近角色可看到正在回复客户或当前前台应用。包含桌面附近发言修复、附近最多 5 个完整角色，以及手机连接出现本次发出消息后自动刷新一次。",
   "patches": [],
-  "publishedAt": "2026-11-19T01:41:40.8759511+00:00",
-  "sha256": "19394f6efd5be41efcc5c874e05fd8ff3aca25ceaf12269e3c6e28581bd6ce6d",
-  "announcement": "4.3.91 附近发言修复",
-  "installerUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.3.91/customer-information-assistant-setup.exe",
-  "installerSha256": "5974da485d50aa92e7643f1436a38c0d8afef40fe111374bda2aedf6fcd3a778"
+  "publishedAt": "2026-11-19T01:51:07.2467382+00:00",
+  "sha256": "01f7411fb957295cd496d50f6f0d4c1ff2ee5eee43e6de89d8aad8dc09b77b14",
+  "announcement": "4.3.92 小伙伴状态分享",
+  "installerUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.3.92/customer-information-assistant-setup.exe",
+  "installerSha256": "ff24d63d531ed1378d036eb393f1c55e47e20461c288d068f145aa8355bc6767"
 }
