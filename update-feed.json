@@ -1,12 +1,12 @@
 {
-  "version": "4.3.103",
-  "downloadUrl": "https://customer-assistant-connectivity-pilot.pages.dev/downloads/windows/4.3.103.zip",
-  "backupDownloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.3.103/customer-information-assistant-windows.zip",
-  "changelog": "- SafeW 授权改为在机器人私聊发送一次授权指令，结果自动同步。新账号通过 SafeW 授权注册，每个 SafeW 账号最多关联 3 个信息助手账号。个人资料显示 SafeW 的 @用户名。\n- 未绑定 SafeW 的账号无法发送短信。超级管理员可开启发送维护，期间只有完成绑定的超级管理员能使用一键发送和自动发送。\n- 茶水间采用楼层布局，楼中回复默认折叠，帖子和回复支持图片，单张原图最大 3 MB。\n- 修复个人资料保存多件装饰、提醒音解码失败后的备用播放。用户列表按最近活跃时间排序。\n- 短信栏可直接导出长图，超过 5 分钟未返回网关回执的消息标红。小伙伴显示自己的当前状态。小游戏可关闭和打开，守城状态条显示报名人数。",
+  "version": "4.3.104",
+  "downloadUrl": "https://customer-assistant-connectivity-pilot.pages.dev/downloads/windows/4.3.104.zip",
+  "backupDownloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.3.104/customer-information-assistant-windows.zip",
+  "changelog": "## 4.3.104\n\n- 短信页小游戏支持文字赛况、小窗和大画面，跟随软件主题。未参赛的文字观战显示第一名，结算显示冠军和积分。弹珠赛使用 8 倍长赛道和随机弹射、加速、转轮、挡板等机关，正式比赛仍最多 5 分钟。\n- 弹珠赛与吞噬成长每 20 分钟轮换。报名显示真人数量。吞噬成长使用公开昵称和自动分房，真人不足 8 人时用随机 AI 补位。报名后默认跟拍自己的球。\n- 两款游戏加入积分奖池。真人赢家按投入比例分输家的积分，缺少真人对手时庄家按投入的 50% 补奖。结算由服务器执行，重连或重复请求只结算一次。\n- 「同步 SafeW 显示名」改为独立按钮，放在领取当日额度旁。自动发送启动失败时会显示具体原因，并提供相应入口。\r\n\r\n",
   "patches": [],
-  "sha256": "fbde2aa61452f8ec0419c420425881599ef3f8754bc741c368b6e613954dbf0f",
-  "announcement": "4.3.103 修复 SafeW 授权卡住，授权结果自动同步。茶水间支持图片及楼中楼，并优化提醒音、发送回执和权限管理。",
-  "installerUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.3.103/customer-information-assistant-setup.exe",
-  "installerSha256": "fba3a4543d83a56b589e6bc02cb96ba147b75c4c7591289d65f9841ab11ee01b",
-  "publishedAt": "2026-11-20T00:48:27.6381667+00:00"
+  "sha256": "1ea72accc2d1030f13e746113793458901b2b8f5f907488445877bbafd92eee0",
+  "announcement": "4.3.104 更新短信页两款小游戏、积分奖池、SafeW 按钮和自动发送提示。",
+  "installerUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.3.104/customer-information-assistant-setup.exe",
+  "installerSha256": "dee0cf91c401c0adfeb0b438aba65125d8bd6ae2c941f2e31b1578ce350eded4",
+  "publishedAt": "2026-11-20T04:55:39.1836537+00:00"
 }
