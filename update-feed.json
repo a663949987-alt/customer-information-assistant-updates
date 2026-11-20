@@ -1,12 +1,12 @@
 {
-  "version": "4.3.104",
-  "downloadUrl": "https://customer-assistant-connectivity-pilot.pages.dev/downloads/windows/4.3.104.zip",
-  "backupDownloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.3.104/customer-information-assistant-windows.zip",
-  "changelog": "## 4.3.104\n\n- 短信页小游戏支持文字赛况、小窗和大画面，跟随软件主题。未参赛的文字观战显示第一名，结算显示冠军和积分。弹珠赛使用 8 倍长赛道和随机弹射、加速、转轮、挡板等机关，正式比赛仍最多 5 分钟。\n- 弹珠赛与吞噬成长每 20 分钟轮换。报名显示真人数量。吞噬成长使用公开昵称和自动分房，真人不足 8 人时用随机 AI 补位。报名后默认跟拍自己的球。\n- 两款游戏加入积分奖池。真人赢家按投入比例分输家的积分，缺少真人对手时庄家按投入的 50% 补奖。结算由服务器执行，重连或重复请求只结算一次。\n- 「同步 SafeW 显示名」改为独立按钮，放在领取当日额度旁。自动发送启动失败时会显示具体原因，并提供相应入口。\r\n\r\n",
+  "version": "4.3.105",
+  "publishedAt": "2026-11-20T15:57:32.3080401+08:00",
+  "announcement": "4.3.105 可选更新。球球作战加入分裂、尖刺爆分和合体，弹珠赛本机演示支持手动开赛与慢放。",
+  "changelog": "- 球球作战支持分裂。正式对局由 AI 择机分裂，本机演示可手动分裂。碰到尖刺时会散成同阵营的球，分身可被吞噬，冷却后可以靠拢合体。排名按同一玩家所有分身的总重量计算。\n- 弹珠赛本机演示支持手动开赛与 1×、0.5×、0.25× 播放。正式赛程和积分结算继续由服务器控制。\n- 短信页游戏面板可查看本人的历史积分。\n- 本版本为可选更新。4.3.104 仍可使用短信和弹珠。分裂规则场次需 4.3.105 或以上版本参赛。",
+  "downloadUrl": "https://customer-assistant-connectivity-pilot.pages.dev/downloads/windows/4.3.105.zip",
+  "backupDownloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.3.105/customer-information-assistant-windows.zip",
   "patches": [],
-  "sha256": "1ea72accc2d1030f13e746113793458901b2b8f5f907488445877bbafd92eee0",
-  "announcement": "4.3.104 更新短信页两款小游戏、积分奖池、SafeW 按钮和自动发送提示。",
-  "installerUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.3.104/customer-information-assistant-setup.exe",
-  "installerSha256": "dee0cf91c401c0adfeb0b438aba65125d8bd6ae2c941f2e31b1578ce350eded4",
-  "publishedAt": "2026-11-20T04:55:39.1836537+00:00"
+  "sha256": "065d07d82f25d5e987b7c17078688c49fe854989d0d7b04a2824da4d3b3133b0",
+  "installerUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.3.105/customer-information-assistant-setup.exe",
+  "installerSha256": "1d0d84d1cf9f4a9d317c27f30af53f97890a83fa7e3feb6d7d5d70337a60897c"
 }
