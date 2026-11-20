@@ -1,12 +1,12 @@
 {
-  "version": "4.3.106",
-  "publishedAt": "2026-11-20T21:42:35.8297901+08:00",
-  "announcement": "4.3.106 已发布。新增 AI 大逃杀观战和游戏轮播管理，优化小伙伴与云端统计，修复双网关和手机连接显示。",
-  "changelog": "- 短信页支持弹珠、球球和 AI 大逃杀观战。大逃杀由服务器安排同一局，205×83 小窗按时钟播放，交火和拾物切第一视角，跑图切第三视角。观战不计积分。\n- 超级管理员可在「用户与权限」启停游戏轮播、选择游戏和设置每款播放时长。正在进行的比赛按整局结算。\n- 保留弹珠与球球既有玩法和积分结算。小窗按准备、开赛、结算三个阶段读取赛况。\n- 小伙伴平时降低在线状态同步频率。私信和表情在通知连接可用时即时提醒，保留 SafeW 私信提醒。\n- 样本错峰分批上传。云端统计每日生成四批共享快照，发送建议展示数据时间并复用本机缓存。\n- 修复双网关悬浮窗的单路暂停显示，以及手机连接未读到客户资料时的会话标题识别。",
-  "downloadUrl": "https://customer-assistant-connectivity-pilot.pages.dev/downloads/windows/4.3.106.zip",
-  "backupDownloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.3.106/customer-information-assistant-windows.zip",
+  "version": "4.3.107",
+  "publishedAt": "2026-11-20T22:18:01.6404825+08:00",
+  "announcement": "4.3.107 已发布。新增 AI 大逃杀观战和游戏轮播管理，优化小伙伴与云端统计，修复双网关和手机连接显示。",
+  "changelog": "- 短信页支持弹珠、球球和 AI 大逃杀观战。大逃杀由服务器安排同一局，205×83 小窗按时钟播放，交火和拾物切第一视角，跑图切第三视角。观战不计积分。\n- 超级管理员可在「用户与权限」启停游戏轮播、选择游戏和设置每款播放时长。正在进行的比赛按整局结算。\n- 保留弹珠与球球既有玩法和积分结算。小窗按准备、开赛、结算三个阶段读取赛况。\n- 小伙伴平时降低在线状态同步频率。私信和表情在通知连接可用时即时提醒，保留 SafeW 私信提醒。\n- 样本错峰分批上传。云端统计每日生成四批共享快照，发送建议展示数据时间并复用本机缓存。\n- 修复双网关悬浮窗的单路暂停显示，以及手机连接未读到客户资料时的会话标题识别。\r\n- 大逃杀观战接入 Pages 备用网络。\r\n- 修复大逃杀重新展开时暂时停在旧画面的问题。重新展示时先对齐当前赛况。",
+  "downloadUrl": "https://customer-assistant-connectivity-pilot.pages.dev/downloads/windows/4.3.107.zip",
+  "backupDownloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.3.107/customer-information-assistant-windows.zip",
   "patches": [],
-  "sha256": "efbb2267181b6aa12aa0764d74971f8670676c1888696da1cfb78ac7999e3963",
-  "installerUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.3.106/customer-information-assistant-setup.exe",
-  "installerSha256": "fc406cdd5a0e10d85f42fb1d9a06881e205af3b74f480e26fc17ec2069306bc2"
+  "sha256": "4375a61790b708af25d4b40fdb0488cefe6f0ef009c73709783a069ee3a690f2",
+  "installerUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.3.107/customer-information-assistant-setup.exe",
+  "installerSha256": "11ac289763de8d063ec8fbf1781ece1c47c66dfe310862b0fa709593c25d8be1"
 }
