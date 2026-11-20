@@ -1,12 +1,12 @@
 {
-  "version": "4.3.105",
-  "publishedAt": "2026-11-20T15:57:32.3080401+08:00",
-  "announcement": "4.3.105 可选更新。球球作战加入分裂、尖刺爆分和合体，弹珠赛本机演示支持手动开赛与慢放。",
-  "changelog": "- 球球作战支持分裂。正式对局由 AI 择机分裂，本机演示可手动分裂。碰到尖刺时会散成同阵营的球，分身可被吞噬，冷却后可以靠拢合体。排名按同一玩家所有分身的总重量计算。\n- 弹珠赛本机演示支持手动开赛与 1×、0.5×、0.25× 播放。正式赛程和积分结算继续由服务器控制。\n- 短信页游戏面板可查看本人的历史积分。\n- 本版本为可选更新。4.3.104 仍可使用短信和弹珠。分裂规则场次需 4.3.105 或以上版本参赛。",
-  "downloadUrl": "https://customer-assistant-connectivity-pilot.pages.dev/downloads/windows/4.3.105.zip",
-  "backupDownloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.3.105/customer-information-assistant-windows.zip",
+  "version": "4.3.106",
+  "publishedAt": "2026-11-20T21:42:35.8297901+08:00",
+  "announcement": "4.3.106 已发布。新增 AI 大逃杀观战和游戏轮播管理，优化小伙伴与云端统计，修复双网关和手机连接显示。",
+  "changelog": "- 短信页支持弹珠、球球和 AI 大逃杀观战。大逃杀由服务器安排同一局，205×83 小窗按时钟播放，交火和拾物切第一视角，跑图切第三视角。观战不计积分。\n- 超级管理员可在「用户与权限」启停游戏轮播、选择游戏和设置每款播放时长。正在进行的比赛按整局结算。\n- 保留弹珠与球球既有玩法和积分结算。小窗按准备、开赛、结算三个阶段读取赛况。\n- 小伙伴平时降低在线状态同步频率。私信和表情在通知连接可用时即时提醒，保留 SafeW 私信提醒。\n- 样本错峰分批上传。云端统计每日生成四批共享快照，发送建议展示数据时间并复用本机缓存。\n- 修复双网关悬浮窗的单路暂停显示，以及手机连接未读到客户资料时的会话标题识别。",
+  "downloadUrl": "https://customer-assistant-connectivity-pilot.pages.dev/downloads/windows/4.3.106.zip",
+  "backupDownloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.3.106/customer-information-assistant-windows.zip",
   "patches": [],
-  "sha256": "065d07d82f25d5e987b7c17078688c49fe854989d0d7b04a2824da4d3b3133b0",
-  "installerUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.3.105/customer-information-assistant-setup.exe",
-  "installerSha256": "1d0d84d1cf9f4a9d317c27f30af53f97890a83fa7e3feb6d7d5d70337a60897c"
+  "sha256": "efbb2267181b6aa12aa0764d74971f8670676c1888696da1cfb78ac7999e3963",
+  "installerUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.3.106/customer-information-assistant-setup.exe",
+  "installerSha256": "fc406cdd5a0e10d85f42fb1d9a06881e205af3b74f480e26fc17ec2069306bc2"
 }
