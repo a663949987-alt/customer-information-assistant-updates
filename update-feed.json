@@ -1,12 +1,12 @@
 {
-  "version": "4.3.107",
-  "publishedAt": "2026-11-20T22:18:01.6404825+08:00",
-  "announcement": "4.3.107 已发布。新增 AI 大逃杀观战和游戏轮播管理，优化小伙伴与云端统计，修复双网关和手机连接显示。",
-  "changelog": "- 短信页支持弹珠、球球和 AI 大逃杀观战。大逃杀由服务器安排同一局，205×83 小窗按时钟播放，交火和拾物切第一视角，跑图切第三视角。观战不计积分。\n- 超级管理员可在「用户与权限」启停游戏轮播、选择游戏和设置每款播放时长。正在进行的比赛按整局结算。\n- 保留弹珠与球球既有玩法和积分结算。小窗按准备、开赛、结算三个阶段读取赛况。\n- 小伙伴平时降低在线状态同步频率。私信和表情在通知连接可用时即时提醒，保留 SafeW 私信提醒。\n- 样本错峰分批上传。云端统计每日生成四批共享快照，发送建议展示数据时间并复用本机缓存。\n- 修复双网关悬浮窗的单路暂停显示，以及手机连接未读到客户资料时的会话标题识别。\r\n- 大逃杀观战接入 Pages 备用网络。\r\n- 修复大逃杀重新展开时暂时停在旧画面的问题。重新展示时先对齐当前赛况。",
-  "downloadUrl": "https://customer-assistant-connectivity-pilot.pages.dev/downloads/windows/4.3.107.zip",
-  "backupDownloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.3.107/customer-information-assistant-windows.zip",
+  "version": "4.3.108",
+  "publishedAt": "2026-11-21T08:24:20.8995144+08:00",
+  "announcement": "4.3.108 已发布。大逃杀支持配置自己的 AI 参赛及冠军竞猜，并调整后半场节奏。",
+  "changelog": "- 大逃杀开放娱乐积分玩法。报名投入 10 积分，可配置自己的 AI 职业、性格、武器偏好和行为权重，按真人参赛者的生存名次分配奖池。观众可用 1～100 积分押冠军，竞猜使用独立奖池。\n- 每局前 3 分钟报名和配置，准备阶段最后 1 分钟竞猜。开赛后锁定投入和阵容，服务器统一判定结果及结算。\n- 调整大逃杀后半场节奏。提前分出胜负时显示等待结算，客户端随比赛时钟继续更新。\n- 最低兼容版本为 4.3.107。新积分场需要 4.3.108。",
+  "downloadUrl": "https://customer-assistant-connectivity-pilot.pages.dev/downloads/windows/4.3.108.zip",
+  "backupDownloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.3.108/customer-information-assistant-windows.zip",
   "patches": [],
-  "sha256": "4375a61790b708af25d4b40fdb0488cefe6f0ef009c73709783a069ee3a690f2",
-  "installerUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.3.107/customer-information-assistant-setup.exe",
-  "installerSha256": "11ac289763de8d063ec8fbf1781ece1c47c66dfe310862b0fa709593c25d8be1"
+  "sha256": "f2701a0ddc4ffea7dd94a0ae0a0e54f201660dc1518c0e72e08214b0864ac16e",
+  "installerUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.3.108/customer-information-assistant-setup.exe",
+  "installerSha256": "9b2d7e9fc0b6fd816464b9f01a66344b5bbfbcfdbc26bc795fd33dcb009e0e7c"
 }
