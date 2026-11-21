@@ -1,12 +1,12 @@
 {
-  "version": "4.3.108",
-  "publishedAt": "2026-11-21T08:24:20.8995144+08:00",
-  "announcement": "4.3.108 已发布。大逃杀支持配置自己的 AI 参赛及冠军竞猜，并调整后半场节奏。",
-  "changelog": "- 大逃杀开放娱乐积分玩法。报名投入 10 积分，可配置自己的 AI 职业、性格、武器偏好和行为权重，按真人参赛者的生存名次分配奖池。观众可用 1～100 积分押冠军，竞猜使用独立奖池。\n- 每局前 3 分钟报名和配置，准备阶段最后 1 分钟竞猜。开赛后锁定投入和阵容，服务器统一判定结果及结算。\n- 调整大逃杀后半场节奏。提前分出胜负时显示等待结算，客户端随比赛时钟继续更新。\n- 最低兼容版本为 4.3.107。新积分场需要 4.3.108。",
-  "downloadUrl": "https://customer-assistant-connectivity-pilot.pages.dev/downloads/windows/4.3.108.zip",
-  "backupDownloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.3.108/customer-information-assistant-windows.zip",
+  "version": "4.3.109",
+  "publishedAt": "2026-11-21T09:29:08.6084341+08:00",
+  "announcement": "4.3.109 已发布。大逃杀加入分档报名和新战斗规则，弹珠和球球启用滚存奖池。",
+  "changelog": "- 弹珠和球球各自使用滚存奖池，玩家输掉的积分只入池一次。第一名领取结算时奖池的一半，整数向下取整，余额继续滚存。\n- 弹珠由猜中冠军且下注最多的玩家领取，同额按下注先后。球球由符合条件的真人第一名领取。已开赛的场次继续按原规则结算。\n- 界面显示当前滚存余额和本局实发金额。球球新场扩大地图，略提高稀有道具刷新率，正式回放显示 AI 吐泡泡推尖刺。\n- 大逃杀展开面板显示完整阵容和自己的席位。已报名时显示距开赛时间，新场可选 10／20／50／100 积分档，同场排名、同档分池。\n- 大逃杀缩短单次交火，加入狙击步枪、安全时提前换弹，以及两个视角的换弹动作。低弹量和换弹状态直接显示在 205×83 小窗。\n- 新规则从新的整局开始，需要 4.3.109。",
+  "downloadUrl": "https://customer-assistant-connectivity-pilot.pages.dev/downloads/windows/4.3.109.zip",
+  "backupDownloadUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.3.109/customer-information-assistant-windows.zip",
   "patches": [],
-  "sha256": "f2701a0ddc4ffea7dd94a0ae0a0e54f201660dc1518c0e72e08214b0864ac16e",
-  "installerUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.3.108/customer-information-assistant-setup.exe",
-  "installerSha256": "9b2d7e9fc0b6fd816464b9f01a66344b5bbfbcfdbc26bc795fd33dcb009e0e7c"
+  "sha256": "69f0bc8e777af9be4b1b1197e48e48970f8859ec778cb81a0369838a5b7977b3",
+  "installerUrl": "https://github.com/a663949987-alt/customer-information-assistant-updates/releases/download/v4.3.109/customer-information-assistant-setup.exe",
+  "installerSha256": "fc62f390ff6ee6b89fed361db8627f263f768c25afba525af0cecd25913e51c6"
 }
